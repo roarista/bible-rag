@@ -10,6 +10,14 @@ const COLORS = {
     number:    '#38bdf8',
     title:     '#4ade80',
     structure: '#c084fc',
+    covenant:  '#ef4444',
+    festival:  '#eab308',
+    miracle:   '#06b6d4',
+    parable:   '#84cc16',
+    prophecy:  '#d946ef',
+    theophany: '#e0e7ff',
+    office:    '#f97316',
+    lexeme:    '#94a3b8',
 };
 
 const EDGE_COLOR_DEFAULT = 'rgba(120, 130, 170, 0.18)';

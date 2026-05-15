@@ -35,3 +35,4 @@ Thumbs.db
 # Web app build artifacts (if any)
 node_modules/
 dist-web/
+data/tsk/

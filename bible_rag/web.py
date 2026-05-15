@@ -36,7 +36,6 @@ def graph() -> dict:
         FROM connection c
         JOIN unit u1 ON u1.id = c.from_unit
         JOIN unit u2 ON u2.id = c.to_unit
-        WHERE c.type IN ('uses_symbol', 'has_motif')
         """
     ).fetchall()
     conn.close()

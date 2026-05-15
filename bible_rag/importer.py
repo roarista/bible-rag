@@ -21,14 +21,22 @@ from . import VAULT_PATH
 
 # Folders in the vault that the importer treats as unit sources
 UNIT_SOURCES = {
-    "Seeds":      "seed",
-    "Symbols":    "symbol",
-    "Motifs":     "motif",
-    "Persons":    "person",
-    "Places":     "place",
-    "Numbers":    "number",
-    "Titles":     "title",
-    "Structures": "structure",
+    "Seeds":       "seed",
+    "Symbols":     "symbol",
+    "Motifs":      "motif",
+    "Persons":     "person",
+    "Places":      "place",
+    "Numbers":     "number",
+    "Titles":      "title",
+    "Structures":  "structure",
+    "Covenants":   "covenant",
+    "Festivals":   "festival",
+    "Miracles":    "miracle",
+    "Parables":    "parable",
+    "Prophecies":  "prophecy",
+    "Theophanies": "theophany",
+    "Offices":     "office",
+    "Lexemes":     "lexeme",
 }
 
 # Files to skip even if present in a unit folder
@@ -109,13 +117,21 @@ def extract_connections(unit: dict, units_by_stem: dict[str, dict]) -> list[dict
 
     # Frontmatter-declared references (highest fidelity)
     fm_ref_types = [
-        ("symbols",    "uses_symbol"),
-        ("motifs",     "has_motif"),
-        ("persons",    "references_person"),
-        ("places",     "references_place"),
-        ("numbers",    "references_number"),
-        ("titles",     "references_title"),
-        ("structures", "references_structure"),
+        ("symbols",     "uses_symbol"),
+        ("motifs",      "has_motif"),
+        ("persons",     "references_person"),
+        ("places",      "references_place"),
+        ("numbers",     "references_number"),
+        ("titles",      "references_title"),
+        ("structures",  "references_structure"),
+        ("covenants",   "references_covenant"),
+        ("festivals",   "references_festival"),
+        ("miracles",    "references_miracle"),
+        ("parables",    "references_parable"),
+        ("prophecies",  "references_prophecy"),
+        ("theophanies", "references_theophany"),
+        ("offices",     "references_office"),
+        ("lexemes",     "uses_lexeme"),
     ]
     for fm_key, conn_type in fm_ref_types:
         for ref in fm.get(fm_key) or []:

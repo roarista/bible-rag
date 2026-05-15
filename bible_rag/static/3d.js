@@ -17,6 +17,14 @@
     number:    '#38bdf8',
     title:     '#4ade80',
     structure: '#c084fc',
+    covenant:  '#ef4444',
+    festival:  '#eab308',
+    miracle:   '#06b6d4',
+    parable:   '#84cc16',
+    prophecy:  '#d946ef',
+    theophany: '#e0e7ff',
+    office:    '#f97316',
+    lexeme:    '#94a3b8',
   };
   const DEFAULT_COLOR = '#94a3b8';
 
@@ -158,9 +166,32 @@
         closeSidebar();
       });
 
-    // Tweak forces — repulsion + link distance for breathing room.
-    Graph.d3Force('charge').strength(-180);
-    Graph.d3Force('link').distance(60);
+    // Tweak forces — softer repulsion + tighter links + radial containment.
+    // Orphan / low-degree nodes were drifting far from the cluster; we pull
+    // every node toward the origin with a radial force whose strength scales
+    // inversely with degree (orphans get yanked in harder, hubs sit loose).
+    Graph.d3Force('charge').strength(-90).distanceMax(180);
+    Graph.d3Force('link').distance(40).strength(0.7);
+    Graph.d3Force('center').strength(0.06);
+
+    // Custom radial force: each node is gently pulled to a target distance
+    // from origin proportional to its degree (hubs stay near center, leaves
+    // stay on a shell — but no node floats off to infinity).
+    if (window.d3 && d3.forceRadial) {
+      const maxDegLocal = Math.max(1, ...Array.from(degreeById.values()));
+      Graph.d3Force('radial', d3.forceRadial(
+        n => {
+          const d = degreeById.get(n.id) || 0;
+          // hubs target ~30, isolates target ~180 (within view), monotonic
+          return 30 + (1 - d / maxDegLocal) * 150;
+        },
+        0, 0  // center at origin (x, y); z is handled by 3d-force-graph
+      ).strength(n => {
+        const d = degreeById.get(n.id) || 0;
+        // Orphans (d=0) get full strength; hubs almost none.
+        return d === 0 ? 0.25 : Math.max(0.04, 0.18 - d * 0.01);
+      }));
+    }
 
     // Bloom postprocessing for glow (uses three's UnrealBloomPass if available).
     try {
