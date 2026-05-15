@@ -1,0 +1,15 @@
+[project]
+name = "bible-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.136.1",
+    "openai>=2.36.0",
+    "python-dotenv>=1.2.2",
+    "python-frontmatter>=1.1.0",
+    "sqlite-vec>=0.1.9",
+    "text-fabric>=13.1.0",
+    "uvicorn>=0.47.0",
+]

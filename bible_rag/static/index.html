@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bible RAG — A graph of meaning</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/graphology@0.25.4/dist/graphology.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/graphology-layout-forceatlas2@0.10.1/dist/graphology-layout-forceatlas2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sigma@3.0.0/dist/sigma.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked@13.0.0/marked.min.js"></script>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <aside id="sidebar">
+        <header>
+            <h1>Bible RAG</h1>
+            <p class="subtitle">a graph of meaning across scripture</p>
+        </header>
+
+        <div class="search-section">
+            <input type="text" id="search-input" placeholder="Search ('pierced', 'three days', 'lamb')" autocomplete="off">
+            <div id="search-results"></div>
+        </div>
+
+        <div class="legend">
+            <div class="legend-row"><span class="dot" style="background:#a78bfa"></span><span>Seed — a known typology</span></div>
+            <div class="legend-row"><span class="dot" style="background:#2dd4bf"></span><span>Symbol — shared imagery</span></div>
+            <div class="legend-row"><span class="dot" style="background:#fb923c"></span><span>Motif — theological pattern</span></div>
+        </div>
+
+        <details class="hubs-section" open>
+            <summary>Top hubs of the graph</summary>
+            <ol id="hubs-list"></ol>
+        </details>
+
+        <div id="detail-panel">
+            <p class="placeholder">Click any node to explore it.</p>
+        </div>
+    </aside>
+
+    <main id="graph-container">
+        <div id="sigma-container"></div>
+        <div id="graph-controls">
+            <button id="btn-relayout" title="Re-run auto layout">↻ Layout</button>
+            <button id="btn-reset-zoom" title="Reset zoom">⊙ Center</button>
+        </div>
+        <div id="hover-info"></div>
+    </main>
+
+    <script type="module" src="/static/app.js"></script>
+</body>
+</html>
