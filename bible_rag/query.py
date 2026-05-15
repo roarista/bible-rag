@@ -21,7 +21,9 @@ def neighbors(conn: sqlite3.Connection, slug: str,
     """Return units one hop away from the given unit."""
     if direction == "out":
         sql = """
-        SELECT u.*, c.type AS edge_type, c.confidence AS edge_confidence
+        SELECT u.*, c.type AS edge_type, c.confidence AS edge_confidence,
+               c.score AS edge_score, c.score_rationale AS edge_rationale,
+               c.score_status AS edge_status
         FROM connection c
         JOIN unit u  ON u.id = c.to_unit
         JOIN unit u0 ON u0.id = c.from_unit
@@ -29,7 +31,9 @@ def neighbors(conn: sqlite3.Connection, slug: str,
         """
     else:
         sql = """
-        SELECT u.*, c.type AS edge_type, c.confidence AS edge_confidence
+        SELECT u.*, c.type AS edge_type, c.confidence AS edge_confidence,
+               c.score AS edge_score, c.score_rationale AS edge_rationale,
+               c.score_status AS edge_status
         FROM connection c
         JOIN unit u  ON u.id = c.from_unit
         JOIN unit u0 ON u0.id = c.to_unit
@@ -39,7 +43,10 @@ def neighbors(conn: sqlite3.Connection, slug: str,
     if edge_type:
         sql += " AND c.type = ?"
         params.append(edge_type)
-    sql += " ORDER BY c.confidence DESC, u.title"
+    # Hide rejected/noise edges by default — they would flood the neighbor list.
+    sql += (" AND (c.score_status IS NULL OR c.score_status NOT IN "
+            "('rejected_prefilter','noise'))")
+    sql += " ORDER BY COALESCE(c.score, c.confidence) DESC, u.title"
     return conn.execute(sql, params).fetchall()
 
 

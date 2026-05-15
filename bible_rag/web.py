@@ -94,12 +94,14 @@ def unit_detail(slug: str) -> dict:
         "theographic": theographic,
         "neighbors_out": [
             {"slug": n["slug"], "title": n["title"], "type": n["type"],
-             "edge_type": n["edge_type"]}
+             "edge_type": n["edge_type"], "score": n["edge_score"],
+             "rationale": n["edge_rationale"], "edge_status": n["edge_status"]}
             for n in neighbors_out
         ],
         "neighbors_in": [
             {"slug": n["slug"], "title": n["title"], "type": n["type"],
-             "edge_type": n["edge_type"]}
+             "edge_type": n["edge_type"], "score": n["edge_score"],
+             "rationale": n["edge_rationale"], "edge_status": n["edge_status"]}
             for n in neighbors_in
         ],
     }

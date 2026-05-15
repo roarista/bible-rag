@@ -203,17 +203,31 @@ function theographicSection(t) {
     `;
 }
 
+function scoreColor(s) {
+    if (s == null) return null;
+    if (s >= 0.85) return '#34d399';   // emerald — canonical
+    if (s >= 0.65) return '#a78bfa';   // violet — plausible
+    if (s >= 0.45) return '#fbbf24';   // amber — thin
+    return '#94a3b8';                  // gray — weak (still shown)
+}
+
 function neighborSection(label, items) {
     if (!items || items.length === 0) return '';
     return `
         <div class="neighbors">
             <h3>${label} (${items.length})</h3>
-            ${items.map(n => `
-                <div class="neighbor" data-slug="${n.slug}">
-                    <span class="edge-type">${n.edge_type.replace('_', ' ')}</span>
-                    <span>${n.title}</span>
-                </div>
-            `).join('')}
+            ${items.map(n => {
+                const c = scoreColor(n.score);
+                const badge = (n.score != null)
+                    ? `<span class="score-badge" style="background:${c}" title="${(n.rationale || '').replace(/"/g, '&quot;')}">${n.score.toFixed(2)}</span>`
+                    : '';
+                return `
+                <div class="neighbor" data-slug="${n.slug}" ${n.rationale ? `title="${n.rationale.replace(/"/g, '&quot;')}"` : ''}>
+                    ${badge}
+                    <span class="edge-type">${n.edge_type.replace(/_/g, ' ')}</span>
+                    <span class="neighbor-title">${n.title}</span>
+                </div>`;
+            }).join('')}
         </div>
     `;
 }
