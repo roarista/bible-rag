@@ -1,0 +1,400 @@
+{"edge_id": 3302, "score": 0.68, "rationale": "Plausible echo: shared word 'lamb' (freq 4) is central to one side; theme overlap: lamb_sacrifice, covenant."}
+{"edge_id": 3312, "score": 0.73, "rationale": "Plausible echo: shared word 'lamb' (freq 4) is central to one side; theme overlap: lamb_sacrifice, suffering_servant."}
+{"edge_id": 4873, "score": 0.47, "rationale": "Thin link: shared word 'moriah' (freq 2) is central to one side; theme overlap: lamb_sacrifice."}
+{"edge_id": 5473, "score": 0.42, "rationale": "Thin link: shared word 'methuselah' (freq 6) is peripheral; theme overlap: temple."}
+{"edge_id": 6546, "score": 0.79, "rationale": "Plausible echo: shared word 'of noah' (freq 8) is central to both; theme overlap: creation_new, judgment."}
+{"edge_id": 6775, "score": 0.41, "rationale": "Thin link: shared word 'ends' (freq 4) is peripheral; theme overlap: kingship."}
+{"edge_id": 9058, "score": 0.37, "rationale": "Thin link: shared word 'pharaoh' (freq 5) is peripheral; theme overlap: resurrection."}
+{"edge_id": 9603, "score": 0.53, "rationale": "Thin link: shared word 'patriarch' (freq 4) is central to one side; theme overlap: kingship, temple."}
+{"edge_id": 10552, "score": 0.43, "rationale": "Thin link: shared word 'before' (freq 5) is peripheral; theme overlap: suffering_servant."}
+{"edge_id": 11069, "score": 0.37, "rationale": "Thin link: shared word 'i.will.pass.over' (freq 4) is peripheral; theme overlap: lamb_sacrifice."}
+{"edge_id": 11172, "score": 0.26, "rationale": "Likely incidental: shared word 'creature' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 11177, "score": 0.25, "rationale": "Likely incidental: shared word 'creature' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 11312, "score": 0.63, "rationale": "Plausible echo: shared word 'harp' (freq 4) is peripheral; theme overlap: lamb_sacrifice, shepherd."}
+{"edge_id": 11590, "score": 0.31, "rationale": "Thin link: shared word 'to redeem' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 11595, "score": 0.29, "rationale": "Likely incidental: shared word 'to redeem' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 11659, "score": 0.3, "rationale": "Thin link: shared word 'bruised' (freq 7) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 11669, "score": 0.48, "rationale": "Thin link: shared word 'incense' (freq 6) is central to one side; theme overlap: spirit_breath."}
+{"edge_id": 13165, "score": 0.34, "rationale": "Thin link: shared word 'in a circle' (freq 8) is peripheral; theme overlap: creation_new."}
+{"edge_id": 14539, "score": 0.28, "rationale": "Likely incidental: shared word 'of mortal' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 14544, "score": 0.51, "rationale": "Thin link: shared word 'of mortal' (freq 6) is peripheral; theme overlap: creation_new, resurrection."}
+{"edge_id": 15186, "score": 0.31, "rationale": "Thin link: shared word 'lump' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 15193, "score": 0.31, "rationale": "Thin link: shared word 'lump' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 15212, "score": 0.53, "rationale": "Thin link: shared word 'of bones' (freq 4) is central to one side; theme overlap: exodus."}
+{"edge_id": 15219, "score": 0.41, "rationale": "Thin link: shared word 'of bones' (freq 4) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 15377, "score": 0.31, "rationale": "Thin link: shared word 'without stain' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 15382, "score": 0.25, "rationale": "Likely incidental: shared word 'without stain' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 15533, "score": 0.39, "rationale": "Thin link: shared word 'blameless' (freq 8) is peripheral; theme overlap: resurrection."}
+{"edge_id": 15564, "score": 0.28, "rationale": "Likely incidental: shared word 'myriads' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 16234, "score": 0.54, "rationale": "Thin link: shared word 'enmity' (freq 5) is central to one side; theme overlap: serpent_dragon."}
+{"edge_id": 16245, "score": 0.63, "rationale": "Plausible echo: shared word 'enmity' (freq 5) is central to one side; theme overlap: prophet, serpent_dragon."}
+{"edge_id": 17104, "score": 0.55, "rationale": "Plausible echo: shared word 'somewhere' (freq 4) is peripheral; theme overlap: kingship, creation_new."}
+{"edge_id": 17150, "score": 0.52, "rationale": "Thin link: shared word 'of bondage' (freq 5) is central to one side; theme overlap: creation_new."}
+{"edge_id": 17222, "score": 0.47, "rationale": "Thin link: shared word 'the author' (freq 4) is peripheral; theme overlap: righteous_faith."}
+{"edge_id": 18309, "score": 0.4, "rationale": "Thin link: shared word 'to partake' (freq 8) is peripheral; theme overlap: temple."}
+{"edge_id": 18723, "score": 0.52, "rationale": "Thin link: shared word 'the.sweat' (freq 1) is central to one side; theme overlap: creation_new."}
+{"edge_id": 18732, "score": 0.53, "rationale": "Thin link: shared word 'having sung a hymn' (freq 4) is peripheral; theme overlap: creation_new, righteous_faith."}
+{"edge_id": 19056, "score": 0.43, "rationale": "Thin link: shared word 'merciful' (freq 2) is peripheral; theme overlap: creation_new."}
+{"edge_id": 19237, "score": 0.43, "rationale": "Thin link: shared word 'loin.coverings' (freq 4) is peripheral; theme overlap: creation_new."}
+{"edge_id": 19303, "score": 0.35, "rationale": "Thin link: shared word 'transgression' (freq 7) is peripheral; theme overlap: covenant."}
+{"edge_id": 20881, "score": 0.41, "rationale": "Thin link: shared word 'a likeness' (freq 6) is peripheral; theme overlap: creation_new."}
+{"edge_id": 20886, "score": 0.46, "rationale": "Thin link: shared word 'a likeness' (freq 6) is peripheral; theme overlap: creation_new, spirit_breath."}
+{"edge_id": 20894, "score": 0.38, "rationale": "Thin link: shared word 'fitting' (freq 7) is peripheral; theme overlap: ascent_descent."}
+{"edge_id": 21092, "score": 0.51, "rationale": "Thin link: shared word 'of divine adoption as sons' (freq 5) is peripheral; theme overlap: creation_new, righteous_faith."}
+{"edge_id": 21097, "score": 0.37, "rationale": "Thin link: shared word 'of divine adoption as sons' (freq 5) is peripheral; theme overlap: rest_sabbath."}
+{"edge_id": 21102, "score": 0.45, "rationale": "Thin link: shared word 'salmon' (freq 2) is peripheral; theme overlap: name_renamed."}
+{"edge_id": 21368, "score": 0.63, "rationale": "Plausible echo: shared word 'redeemed' (freq 4) is peripheral; theme overlap: creation_new, resurrection."}
+{"edge_id": 21373, "score": 0.41, "rationale": "Thin link: shared word 'redeemed' (freq 4) is peripheral; theme overlap: blessing_curse."}
+{"edge_id": 21689, "score": 0.69, "rationale": "Plausible echo: shared word 'jesse' (freq 5) is central to one side; theme overlap: lamb_sacrifice, temple."}
+{"edge_id": 22003, "score": 0.45, "rationale": "Thin link: shared word 'washing' (freq 2) is peripheral; theme overlap: creation_new."}
+{"edge_id": 22009, "score": 0.45, "rationale": "Thin link: shared word 'washing' (freq 2) is peripheral; theme overlap: creation_new, circumcision."}
+{"edge_id": 22370, "score": 0.22, "rationale": "Likely incidental: shared word 'saraphs' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 22381, "score": 0.31, "rationale": "Thin link: shared word 'handwriting' (freq 1) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 22387, "score": 0.37, "rationale": "Thin link: shared word '[the] goads' (freq 4) is peripheral; theme overlap: light_dark."}
+{"edge_id": 22392, "score": 0.51, "rationale": "Thin link: shared word 'leading in triumph' (freq 2) is central to both; theme overlap: no shared theme cluster."}
+{"edge_id": 22397, "score": 0.45, "rationale": "Thin link: shared word 'victory' (freq 4) is peripheral; theme overlap: kingship, light_dark."}
+{"edge_id": 22673, "score": 0.32, "rationale": "Thin link: shared word 'a decree' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 22678, "score": 0.29, "rationale": "Likely incidental: shared word 'a decree' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 23221, "score": 0.41, "rationale": "Thin link: shared word 'blotting out' (freq 5) is peripheral; theme overlap: rest_sabbath."}
+{"edge_id": 23239, "score": 0.58, "rationale": "Plausible echo: shared word 'mortal' (freq 6) is peripheral; theme overlap: creation_new, resurrection."}
+{"edge_id": 23339, "score": 0.46, "rationale": "Thin link: shared word 'remembrance' (freq 4) is peripheral; theme overlap: lamb_sacrifice, exodus."}
+{"edge_id": 23344, "score": 0.4, "rationale": "Thin link: shared word 'has been inaugurated' (freq 2) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 23350, "score": 0.42, "rationale": "Thin link: shared word 'has been inaugurated' (freq 2) is peripheral; theme overlap: resurrection."}
+{"edge_id": 24055, "score": 0.31, "rationale": "Thin link: shared word 'worldly' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 24475, "score": 0.33, "rationale": "Thin link: shared word 'reproaches' (freq 5) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 24481, "score": 0.42, "rationale": "Thin link: shared word 'awaiting' (freq 7) is peripheral; theme overlap: creation_new."}
+{"edge_id": 24517, "score": 0.4, "rationale": "Thin link: shared word 'awaits' (freq 8) is peripheral; theme overlap: creation_new."}
+{"edge_id": 24526, "score": 0.4, "rationale": "Thin link: shared word 'awaits' (freq 8) is peripheral; theme overlap: suffering_servant."}
+{"edge_id": 24535, "score": 0.5, "rationale": "Thin link: shared word 'things present' (freq 7) is peripheral; theme overlap: creation_new, spirit_breath."}
+{"edge_id": 24846, "score": 0.33, "rationale": "Thin link: shared word 'manna' (freq 4) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 24862, "score": 0.26, "rationale": "Likely incidental: shared word 'calf' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 24867, "score": 0.34, "rationale": "Thin link: shared word 'calf' (freq 6) is peripheral; theme overlap: circumcision."}
+{"edge_id": 24876, "score": 0.41, "rationale": "Thin link: shared word 'service' (freq 6) is peripheral; theme overlap: spirit_breath."}
+{"edge_id": 24882, "score": 0.25, "rationale": "Likely incidental: shared word 'a stalk of hyssop' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 24894, "score": 0.37, "rationale": "Thin link: shared word 'oxen' (freq 4) is peripheral; theme overlap: suffering_servant."}
+{"edge_id": 24906, "score": 0.3, "rationale": "Thin link: shared word '[the] consummation' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 24919, "score": 0.34, "rationale": "Thin link: shared word 'ark' (freq 6) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 24927, "score": 0.33, "rationale": "Thin link: shared word 'sins' (freq 4) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 24933, "score": 0.33, "rationale": "Thin link: shared word 'from every quarter' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 25310, "score": 0.43, "rationale": "Thin link: shared word 'wool' (freq 2) is peripheral; theme overlap: creation_new."}
+{"edge_id": 25315, "score": 0.33, "rationale": "Thin link: shared word 'wool' (freq 2) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 25320, "score": 0.43, "rationale": "Thin link: shared word 'sprouted' (freq 4) is peripheral; theme overlap: priesthood."}
+{"edge_id": 25333, "score": 0.4, "rationale": "Thin link: shared word 'made with hands' (freq 6) is peripheral; theme overlap: creation_new."}
+{"edge_id": 25338, "score": 0.28, "rationale": "Likely incidental: shared word 'made with hands' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 25599, "score": 0.46, "rationale": "Thin link: shared word 'shadow' (freq 7) is peripheral; theme overlap: temple, creation_new."}
+{"edge_id": 25609, "score": 0.23, "rationale": "Likely incidental: shared word 'shadow' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 25736, "score": 0.65, "rationale": "Plausible echo: shared word '[the] propitiation' (freq 2) is central to both; theme overlap: lamb_sacrifice."}
+{"edge_id": 25883, "score": 0.25, "rationale": "Likely incidental: shared word 'i purposed' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 26074, "score": 0.25, "rationale": "Likely incidental: shared word 'once for all' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 26080, "score": 0.31, "rationale": "Thin link: shared word 'having been written' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 26091, "score": 0.41, "rationale": "Thin link: shared word '[is] yours' (freq 8) is peripheral; theme overlap: covenant."}
+{"edge_id": 26207, "score": 0.31, "rationale": "Thin link: shared word 'tablets' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 26536, "score": 0.37, "rationale": "Thin link: shared word 'a putting away' (freq 2) is peripheral; theme overlap: creation_new."}
+{"edge_id": 27324, "score": 0.57, "rationale": "Plausible echo: shared word 'a pattern' (freq 6) is central to one side; theme overlap: temple, spirit_breath."}
+{"edge_id": 27621, "score": 0.48, "rationale": "Thin link: shared word 'of a mediator' (freq 6) is central to one side; theme overlap: creation_new."}
+{"edge_id": 27626, "score": 0.48, "rationale": "Thin link: shared word 'of a mediator' (freq 6) is central to one side; theme overlap: creation_new."}
+{"edge_id": 27661, "score": 0.51, "rationale": "Thin link: shared word 'to enter' (freq 4) is central to one side; theme overlap: temple."}
+{"edge_id": 27683, "score": 0.26, "rationale": "Likely incidental: shared word 'veil' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 27911, "score": 0.31, "rationale": "Thin link: shared word 'different' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 27916, "score": 0.26, "rationale": "Likely incidental: shared word 'drink' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 28007, "score": 0.29, "rationale": "Likely incidental: shared word 'it was shown' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 28132, "score": 0.31, "rationale": "Thin link: shared word 'copies' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 28178, "score": 0.25, "rationale": "Likely incidental: shared word 'all time' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 28424, "score": 0.42, "rationale": "Thin link: shared word 'bread.cakes' (freq 7) is central to one side; theme overlap: creation_new."}
+{"edge_id": 29427, "score": 0.36, "rationale": "Thin link: shared word 'ever yet' (freq 6) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 29477, "score": 0.37, "rationale": "Thin link: shared word 'drink' (freq 3) is peripheral; theme overlap: creation_new."}
+{"edge_id": 29589, "score": 0.33, "rationale": "Thin link: shared word 'of.sin' (freq 4) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 29594, "score": 0.47, "rationale": "Thin link: shared word 'of.sin' (freq 4) is peripheral; theme overlap: bread_water, circumcision."}
+{"edge_id": 29994, "score": 0.31, "rationale": "Thin link: shared word 'they will be heard' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 30283, "score": 0.28, "rationale": "Likely incidental: shared word 'a cry' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 30303, "score": 0.47, "rationale": "Thin link: shared word 'the.footstool' (freq 6) is peripheral; theme overlap: ascent_descent."}
+{"edge_id": 30320, "score": 0.33, "rationale": "Thin link: shared word 'the.footstool' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 30345, "score": 0.53, "rationale": "Thin link: shared word 'reverence' (freq 2) is peripheral; theme overlap: creation_new."}
+{"edge_id": 30727, "score": 0.37, "rationale": "Thin link: shared word 'a.thousand' (freq 3) is peripheral; theme overlap: judgment."}
+{"edge_id": 30732, "score": 0.49, "rationale": "Thin link: shared word 'the.sound' (freq 7) is peripheral; theme overlap: kingship, creation_new."}
+{"edge_id": 30770, "score": 0.22, "rationale": "Likely incidental: shared word 'you did wail' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 30775, "score": 0.24, "rationale": "Likely incidental: shared word 'you did wail' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 31479, "score": 0.43, "rationale": "Thin link: shared word 'the.son' (freq 7) is central to one side; theme overlap: kingship."}
+{"edge_id": 31484, "score": 0.35, "rationale": "Thin link: shared word 'the.son' (freq 7) is peripheral; theme overlap: kingship."}
+{"edge_id": 31546, "score": 0.38, "rationale": "Thin link: shared word 'be opened' (freq 8) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 31551, "score": 0.4, "rationale": "Thin link: shared word 'be opened' (freq 8) is peripheral; theme overlap: spirit_breath."}
+{"edge_id": 31723, "score": 0.22, "rationale": "Likely incidental: shared word 'girded about' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 31728, "score": 0.22, "rationale": "Likely incidental: shared word 'girded about' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 31785, "score": 0.43, "rationale": "Thin link: shared word 'flame' (freq 7) is central to one side; theme overlap: exodus."}
+{"edge_id": 31790, "score": 0.45, "rationale": "Thin link: shared word 'flame' (freq 7) is central to one side; theme overlap: judgment."}
+{"edge_id": 31804, "score": 0.41, "rationale": "Thin link: shared word 'they have pierced' (freq 2) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 31809, "score": 0.28, "rationale": "Likely incidental: shared word 'little children' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 31815, "score": 0.31, "rationale": "Thin link: shared word 'pleaded' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 31820, "score": 0.45, "rationale": "Thin link: shared word 'pleaded' (freq 5) is peripheral; theme overlap: creation_new."}
+{"edge_id": 31926, "score": 0.28, "rationale": "Likely incidental: shared word 'evil' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 31931, "score": 0.3, "rationale": "Thin link: shared word 'evil' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 32266, "score": 0.28, "rationale": "Likely incidental: shared word rare term (\u1f04\u03c6\u03b8\u03b1\u03c1\u03c4\u03bf\u03c2) (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 32808, "score": 0.44, "rationale": "Thin link: shared word 'was stirred' (freq 5) is peripheral; theme overlap: temple."}
+{"edge_id": 32813, "score": 0.64, "rationale": "Plausible echo: shared word 'was stirred' (freq 5) is peripheral; theme overlap: lamb_sacrifice, covenant."}
+{"edge_id": 32845, "score": 0.51, "rationale": "Thin link: shared word 'paradise' (freq 3) is peripheral; theme overlap: creation_new, spirit_breath."}
+{"edge_id": 33189, "score": 0.43, "rationale": "Thin link: shared word 'crystal' (freq 2) is peripheral; theme overlap: creation_new."}
+{"edge_id": 33194, "score": 0.51, "rationale": "Thin link: shared word 'crystal' (freq 2) is peripheral; theme overlap: creation_new, judgment."}
+{"edge_id": 33275, "score": 0.44, "rationale": "Thin link: shared word 'foreheads' (freq 8) is peripheral; theme overlap: creation_new."}
+{"edge_id": 33539, "score": 0.51, "rationale": "Thin link: shared word 'leaves' (freq 6) is central to one side; theme overlap: creation_new, vine_branch."}
+{"edge_id": 35776, "score": 0.34, "rationale": "Thin link: shared word 'justly' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 35781, "score": 0.34, "rationale": "Thin link: shared word 'justly' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 36370, "score": 0.31, "rationale": "Thin link: shared word 'humiliation' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 36599, "score": 0.25, "rationale": "Likely incidental: shared word 'shearing' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 36610, "score": 0.3, "rationale": "Thin link: shared word 'related' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 36616, "score": 0.22, "rationale": "Likely incidental: shared word 'related' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 36773, "score": 0.37, "rationale": "Thin link: shared word 'overseers' (freq 5) is peripheral; theme overlap: shepherd."}
+{"edge_id": 37837, "score": 0.4, "rationale": "Thin link: shared word 'having been determined' (freq 8) is peripheral; theme overlap: creation_new."}
+{"edge_id": 37848, "score": 0.57, "rationale": "Plausible echo: shared word 'having been determined' (freq 8) is peripheral; theme overlap: kingship, temple."}
+{"edge_id": 37893, "score": 0.37, "rationale": "Thin link: shared word 'they stopped' (freq 4) is peripheral; theme overlap: circumcision."}
+{"edge_id": 37898, "score": 0.25, "rationale": "Likely incidental: shared word 'confidence' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 38163, "score": 0.25, "rationale": "Likely incidental: shared word 'renewing' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 38412, "score": 0.31, "rationale": "Thin link: shared word 'regeneration' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 38435, "score": 0.51, "rationale": "Thin link: shared word 'it fell to him by lot' (freq 4) is central to one side; theme overlap: spirit_breath."}
+{"edge_id": 38440, "score": 0.33, "rationale": "Thin link: shared word 'having been crucified' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 38582, "score": 0.51, "rationale": "Thin link: shared word 'to move' (freq 8) is peripheral; theme overlap: lamb_sacrifice, temple."}
+{"edge_id": 38597, "score": 0.36, "rationale": "Thin link: shared word 'with vinegar' (freq 6) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 39015, "score": 0.27, "rationale": "Likely incidental: shared word 'should be hung' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 39020, "score": 0.26, "rationale": "Likely incidental: shared word 'should be hung' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 39057, "score": 0.34, "rationale": "Thin link: shared word 'being translated' (freq 8) is peripheral; theme overlap: circumcision."}
+{"edge_id": 39067, "score": 0.42, "rationale": "Thin link: shared word 'being translated' (freq 8) is peripheral; theme overlap: kingship, circumcision."}
+{"edge_id": 39846, "score": 0.41, "rationale": "Thin link: shared word 'a daughter-in-law' (freq 8) is peripheral; theme overlap: creation_new."}
+{"edge_id": 39861, "score": 0.37, "rationale": "Thin link: shared word 'they lead' (freq 5) is peripheral; theme overlap: creation_new."}
+{"edge_id": 39897, "score": 0.4, "rationale": "Thin link: shared word 'side' (freq 5) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 40257, "score": 0.28, "rationale": "Likely incidental: shared word 'he sends rain' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 40262, "score": 0.31, "rationale": "Thin link: shared word 'he sends rain' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 40274, "score": 0.62, "rationale": "Plausible echo: shared word 'the.growth' (freq 8) is peripheral; theme overlap: kingship, vine_branch."}
+{"edge_id": 40509, "score": 0.4, "rationale": "Thin link: shared word 'brimstone' (freq 7) is peripheral; theme overlap: kingship."}
+{"edge_id": 40514, "score": 0.25, "rationale": "Likely incidental: shared word 'kiln' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 41092, "score": 0.43, "rationale": "Thin link: shared word 'dwelt' (freq 5) is peripheral; theme overlap: creation_new."}
+{"edge_id": 41114, "score": 0.43, "rationale": "Thin link: shared word 'dwelt' (freq 5) is peripheral; theme overlap: spirit_breath."}
+{"edge_id": 41764, "score": 0.61, "rationale": "Plausible echo: shared word 'a.sin' (freq 8) is central to both; theme overlap: lamb_sacrifice."}
+{"edge_id": 42102, "score": 0.29, "rationale": "Likely incidental: shared word 'he.drove.away' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 42219, "score": 0.26, "rationale": "Likely incidental: shared word '(the).inclination' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 42468, "score": 0.47, "rationale": "Thin link: shared word 'infertile' (freq 1) is peripheral; theme overlap: lamb_sacrifice, suffering_servant."}
+{"edge_id": 42791, "score": 0.26, "rationale": "Likely incidental: shared word 'let it fear' (freq 1) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 42911, "score": 0.6, "rationale": "Plausible echo: shared word 'the same way' (freq 2) is peripheral; theme overlap: priesthood, creation_new."}
+{"edge_id": 43133, "score": 0.43, "rationale": "Thin link: shared word 'fifth' (freq 4) is peripheral; theme overlap: creation_new."}
+{"edge_id": 43178, "score": 0.43, "rationale": "Thin link: shared word 'citizens' (freq 4) is peripheral; theme overlap: wisdom."}
+{"edge_id": 43183, "score": 0.56, "rationale": "Plausible echo: shared word 'citizens' (freq 4) is central to one side; theme overlap: exile_return, circumcision."}
+{"edge_id": 43225, "score": 0.28, "rationale": "Likely incidental: shared word 'might agree' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 43909, "score": 0.26, "rationale": "Likely incidental: shared word 'he overturned' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 44009, "score": 0.59, "rationale": "Plausible echo: shared word 'might be charged' (freq 7) is peripheral; theme overlap: kingship, name_renamed."}
+{"edge_id": 44014, "score": 0.29, "rationale": "Likely incidental: shared word 'of choice' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 44265, "score": 0.33, "rationale": "Thin link: shared word 'streets' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 44371, "score": 0.28, "rationale": "Likely incidental: shared word 'i was sitting' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 44518, "score": 0.5, "rationale": "Thin link: shared word 'he might lay' (freq 7) is peripheral; theme overlap: exodus, prophet."}
+{"edge_id": 44542, "score": 0.32, "rationale": "Thin link: shared word 'handmaid' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 44572, "score": 0.51, "rationale": "Thin link: shared word 'what kind [of man]' (freq 7) is central to one side; theme overlap: temple."}
+{"edge_id": 44577, "score": 0.54, "rationale": "Thin link: shared word 'what kind [of man]' (freq 7) is central to both; theme overlap: creation_new."}
+{"edge_id": 44599, "score": 0.26, "rationale": "Likely incidental: shared word 'overshadowed' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 44604, "score": 0.25, "rationale": "Likely incidental: shared word 'overshadowed' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 44664, "score": 0.28, "rationale": "Likely incidental: shared word 'woman' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 44831, "score": 0.25, "rationale": "Likely incidental: shared word 'very precious' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 45022, "score": 0.37, "rationale": "Thin link: shared word 'branch[es]' (freq 5) is peripheral; theme overlap: bread_water."}
+{"edge_id": 45083, "score": 0.33, "rationale": "Thin link: shared word 'received' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 45198, "score": 0.34, "rationale": "Thin link: shared word 'to show' (freq 7) is peripheral; theme overlap: kingship."}
+{"edge_id": 45203, "score": 0.43, "rationale": "Thin link: shared word 'captivity' (freq 3) is peripheral; theme overlap: creation_new."}
+{"edge_id": 45348, "score": 0.25, "rationale": "Likely incidental: shared word 'i take it' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 45357, "score": 0.34, "rationale": "Thin link: shared word 'i take it' (freq 5) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 45561, "score": 0.26, "rationale": "Likely incidental: shared word 'joint-heirs' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 45597, "score": 0.5, "rationale": "Thin link: shared word 'a graven thing' (freq 8) is peripheral; theme overlap: kingship, temple."}
+{"edge_id": 45610, "score": 0.4, "rationale": "Thin link: shared word 'inasmuch as' (freq 6) is peripheral; theme overlap: spirit_breath."}
+{"edge_id": 45657, "score": 0.43, "rationale": "Thin link: shared word 'bitumen' (freq 3) is peripheral; theme overlap: creation_new."}
+{"edge_id": 45663, "score": 0.45, "rationale": "Thin link: shared word 'they were being swamped' (freq 3) is peripheral; theme overlap: spirit_breath, exile_return."}
+{"edge_id": 45669, "score": 0.37, "rationale": "Thin link: shared word 'they were being swamped' (freq 3) is peripheral; theme overlap: spirit_breath."}
+{"edge_id": 45684, "score": 0.51, "rationale": "Thin link: shared word 'the report' (freq 4) is peripheral; theme overlap: creation_new, ascent_descent."}
+{"edge_id": 45689, "score": 0.47, "rationale": "Thin link: shared word 'the report' (freq 4) is peripheral; theme overlap: temple, light_dark."}
+{"edge_id": 45735, "score": 0.25, "rationale": "Likely incidental: shared word 'phrygia' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 45760, "score": 0.43, "rationale": "Thin link: shared word 'suddenly' (freq 3) is peripheral; theme overlap: creation_new."}
+{"edge_id": 45765, "score": 0.25, "rationale": "Likely incidental: shared word 'suddenly' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 45902, "score": 0.44, "rationale": "Thin link: shared word 'of a beast of burden' (freq 2) is peripheral; theme overlap: kingship."}
+{"edge_id": 46081, "score": 0.32, "rationale": "Thin link: shared word 'a dream' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 46086, "score": 0.3, "rationale": "Thin link: shared word 'being angry with' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 46091, "score": 0.4, "rationale": "Thin link: shared word 'being angry with' (freq 8) is peripheral; theme overlap: prophet."}
+{"edge_id": 46183, "score": 0.36, "rationale": "Thin link: shared word 'traveled abroad' (freq 6) is peripheral; theme overlap: suffering_servant."}
+{"edge_id": 46342, "score": 0.64, "rationale": "Plausible echo: shared word 'you did scatter' (freq 9) is central to both; theme overlap: exile_return."}
+{"edge_id": 46400, "score": 0.33, "rationale": "Thin link: shared word 'goats' (freq 2) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 46405, "score": 0.22, "rationale": "Likely incidental: shared word 'is being filled up' (freq 9) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 46430, "score": 0.22, "rationale": "Likely incidental: shared word 'kissed' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 46614, "score": 0.22, "rationale": "Likely incidental: shared word 'feeding' (freq 9) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 46738, "score": 0.34, "rationale": "Thin link: shared word 'meek' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 46842, "score": 0.45, "rationale": "Thin link: shared word 'the.head-wraps' (freq 5) is peripheral; theme overlap: righteous_faith."}
+{"edge_id": 46848, "score": 0.37, "rationale": "Thin link: shared word 'the.head-wraps' (freq 5) is peripheral; theme overlap: creation_new."}
+{"edge_id": 46857, "score": 0.37, "rationale": "Thin link: shared word 'he has filled' (freq 5) is peripheral; theme overlap: creation_new."}
+{"edge_id": 46871, "score": 0.62, "rationale": "Plausible echo: shared word 'a priesthood' (freq 2) is central to one side; theme overlap: priesthood."}
+{"edge_id": 47015, "score": 0.3, "rationale": "Thin link: shared word 'will recline' (freq 6) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 47041, "score": 0.33, "rationale": "Thin link: shared word 'to register' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 47046, "score": 0.26, "rationale": "Likely incidental: shared word 'to register' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 47052, "score": 0.48, "rationale": "Thin link: shared word 'firstborn' (freq 8) is central to one side; theme overlap: creation_new."}
+{"edge_id": 47138, "score": 0.38, "rationale": "Thin link: shared word 'of.shur' (freq 5) is peripheral; theme overlap: exodus."}
+{"edge_id": 47164, "score": 0.23, "rationale": "Likely incidental: shared word 'they have died' (freq 9) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 47169, "score": 0.38, "rationale": "Thin link: shared word 'going out' (freq 3) is peripheral; theme overlap: exodus."}
+{"edge_id": 47360, "score": 0.32, "rationale": "Thin link: shared word 'he reclined' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 47541, "score": 0.52, "rationale": "Thin link: shared word 'hallelujah' (freq 4) is peripheral; theme overlap: creation_new, marriage_bride."}
+{"edge_id": 47547, "score": 0.32, "rationale": "Thin link: shared word 'having been bathed' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 47552, "score": 0.25, "rationale": "Likely incidental: shared word 'having been bathed' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 47607, "score": 0.4, "rationale": "Thin link: shared word 'come' (freq 9) is peripheral; theme overlap: creation_new."}
+{"edge_id": 47638, "score": 0.37, "rationale": "Thin link: shared word 'groans' (freq 2) is peripheral; theme overlap: creation_new."}
+{"edge_id": 47649, "score": 0.58, "rationale": "Plausible echo: shared word 'terrified' (freq 3) is peripheral; theme overlap: exodus, temple."}
+{"edge_id": 47797, "score": 0.48, "rationale": "Thin link: shared word 'therefore' (freq 9) is peripheral; theme overlap: lamb_sacrifice, shepherd."}
+{"edge_id": 47864, "score": 0.43, "rationale": "Thin link: shared word 'kenizzite[s]' (freq 4) is peripheral; theme overlap: creation_new."}
+{"edge_id": 48050, "score": 0.42, "rationale": "Thin link: shared word 'in hebrew' (freq 7) is peripheral; theme overlap: creation_new."}
+{"edge_id": 48172, "score": 0.33, "rationale": "Thin link: shared word 'shittim' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 48177, "score": 0.31, "rationale": "Thin link: shared word 'is present' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 48252, "score": 0.29, "rationale": "Likely incidental: shared word 'of.[the].violent' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 48260, "score": 0.4, "rationale": "Thin link: shared word 'refined' (freq 7) is peripheral; theme overlap: judgment."}
+{"edge_id": 48266, "score": 0.34, "rationale": "Thin link: shared word 'a den' (freq 6) is peripheral; theme overlap: creation_new."}
+{"edge_id": 48595, "score": 0.22, "rationale": "Likely incidental: shared word 'it.will.be.drained.out' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 48609, "score": 0.4, "rationale": "Thin link: shared word 'having gone forward' (freq 9) is peripheral; theme overlap: judgment."}
+{"edge_id": 48614, "score": 0.28, "rationale": "Likely incidental: shared word 'having gone forward' (freq 9) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 48764, "score": 0.28, "rationale": "Likely incidental: shared word 'threshold' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 48771, "score": 0.42, "rationale": "Thin link: shared word 'threshold' (freq 8) is peripheral; theme overlap: suffering_servant."}
+{"edge_id": 48867, "score": 0.34, "rationale": "Thin link: shared word 'an.image' (freq 9) is peripheral; theme overlap: creation_new."}
+{"edge_id": 48872, "score": 0.34, "rationale": "Thin link: shared word 'an.image' (freq 9) is peripheral; theme overlap: creation_new."}
+{"edge_id": 48886, "score": 0.48, "rationale": "Thin link: shared word 'corners' (freq 9) is peripheral; theme overlap: kingship, creation_new."}
+{"edge_id": 48894, "score": 0.37, "rationale": "Thin link: shared word 'sixty' (freq 4) is peripheral; theme overlap: circumcision."}
+{"edge_id": 49025, "score": 0.37, "rationale": "Thin link: shared word 'it has obtained' (freq 5) is peripheral; theme overlap: kingship."}
+{"edge_id": 49030, "score": 0.26, "rationale": "Likely incidental: shared word 'two' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49053, "score": 0.31, "rationale": "Thin link: shared word 'of the lion' (freq 9) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 49087, "score": 0.41, "rationale": "Thin link: shared word 'of psalms' (freq 7) is peripheral; theme overlap: spirit_breath."}
+{"edge_id": 49093, "score": 0.3, "rationale": "Thin link: shared word 'behind [him]' (freq 7) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 49129, "score": 0.36, "rationale": "Thin link: shared word 'accuse' (freq 6) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 49157, "score": 0.22, "rationale": "Likely incidental: shared word 'finger' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49181, "score": 0.22, "rationale": "Likely incidental: shared word 'they stoned' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49186, "score": 0.22, "rationale": "Likely incidental: shared word 'they stoned' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49191, "score": 0.59, "rationale": "Plausible echo: shared word 'blameless' (freq 5) is peripheral; theme overlap: creation_new, spirit_breath."}
+{"edge_id": 49211, "score": 0.53, "rationale": "Thin link: shared word 'of.gloom' (freq 9) is peripheral; theme overlap: exodus, judgment."}
+{"edge_id": 49248, "score": 0.29, "rationale": "Likely incidental: shared word 'surpassing [it]' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49313, "score": 0.35, "rationale": "Thin link: shared word 'were reclining with' (freq 7) is peripheral; theme overlap: creation_new."}
+{"edge_id": 49327, "score": 0.29, "rationale": "Likely incidental: shared word 'a fence' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49337, "score": 0.34, "rationale": "Thin link: shared word 'he compelled' (freq 9) is peripheral; theme overlap: kingship."}
+{"edge_id": 49346, "score": 0.26, "rationale": "Likely incidental: shared word 'of.seeing' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49425, "score": 0.24, "rationale": "Likely incidental: shared word 'avenging' (freq 9) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49488, "score": 0.38, "rationale": "Thin link: shared word 'male' (freq 9) is peripheral; theme overlap: kingship."}
+{"edge_id": 49493, "score": 0.43, "rationale": "Thin link: shared word 'will count blessed' (freq 2) is peripheral; theme overlap: creation_new."}
+{"edge_id": 49511, "score": 0.28, "rationale": "Likely incidental: shared word 'humble' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49519, "score": 0.48, "rationale": "Thin link: shared word '[was].an.only.[child]' (freq 7) is central to one side; theme overlap: creation_new."}
+{"edge_id": 49616, "score": 0.3, "rationale": "Thin link: shared word 'within' (freq 9) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49621, "score": 0.41, "rationale": "Thin link: shared word 'within' (freq 9) is peripheral; theme overlap: judgment."}
+{"edge_id": 49718, "score": 0.6, "rationale": "Plausible echo: shared word 'light' (freq 2) is peripheral; theme overlap: kingship, creation_new."}
+{"edge_id": 49723, "score": 0.4, "rationale": "Thin link: shared word 'excess' (freq 8) is peripheral; theme overlap: wisdom."}
+{"edge_id": 49728, "score": 0.34, "rationale": "Thin link: shared word 'burden' (freq 6) is peripheral; theme overlap: kingship."}
+{"edge_id": 49820, "score": 0.26, "rationale": "Likely incidental: shared word 'increase' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49826, "score": 0.61, "rationale": "Plausible echo: shared word '[is].wrapped' (freq 3) is peripheral; theme overlap: creation_new, spirit_breath."}
+{"edge_id": 49833, "score": 0.37, "rationale": "Thin link: shared word '[is].wrapped' (freq 3) is peripheral; theme overlap: creation_new."}
+{"edge_id": 49920, "score": 0.25, "rationale": "Likely incidental: shared word 'of.a.whisper' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49925, "score": 0.25, "rationale": "Likely incidental: shared word 'rains' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49930, "score": 0.25, "rationale": "Likely incidental: shared word 'rains' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 49935, "score": 0.42, "rationale": "Thin link: shared word 'three.years.old' (freq 9) is peripheral; theme overlap: lamb_sacrifice, mountain."}
+{"edge_id": 49959, "score": 0.22, "rationale": "Likely incidental: shared word 'backwards' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50065, "score": 0.37, "rationale": "Thin link: shared word 'a change' (freq 3) is peripheral; theme overlap: temple."}
+{"edge_id": 50070, "score": 0.25, "rationale": "Likely incidental: shared word 'meet' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50075, "score": 0.26, "rationale": "Likely incidental: shared word 'meet' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50123, "score": 0.49, "rationale": "Thin link: shared word 'air' (freq 7) is peripheral; theme overlap: temple, creation_new."}
+{"edge_id": 50182, "score": 0.34, "rationale": "Thin link: shared word 'stewardship' (freq 9) is peripheral; theme overlap: righteous_faith."}
+{"edge_id": 50189, "score": 0.57, "rationale": "Plausible echo: shared word 'blessed [one]' (freq 8) is central to one side; theme overlap: creation_new, judgment."}
+{"edge_id": 50195, "score": 0.4, "rationale": "Thin link: shared word 'had determined beforehand' (freq 6) is peripheral; theme overlap: prophet."}
+{"edge_id": 50233, "score": 0.22, "rationale": "Likely incidental: shared word 'enmity' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50241, "score": 0.22, "rationale": "Likely incidental: shared word 'he will quench' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50247, "score": 0.22, "rationale": "Likely incidental: shared word 'he will quench' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50252, "score": 0.43, "rationale": "Thin link: shared word 'salvation' (freq 5) is peripheral; theme overlap: light_dark."}
+{"edge_id": 50260, "score": 0.34, "rationale": "Thin link: shared word 'to burn with passion' (freq 6) is peripheral; theme overlap: judgment."}
+{"edge_id": 50280, "score": 0.23, "rationale": "Likely incidental: shared word 'waist' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50291, "score": 0.4, "rationale": "Thin link: shared word 'lamps' (freq 9) is peripheral; theme overlap: creation_new."}
+{"edge_id": 50296, "score": 0.23, "rationale": "Likely incidental: shared word 'lamps' (freq 9) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50302, "score": 0.47, "rationale": "Thin link: shared word 'at midnight' (freq 4) is central to one side; theme overlap: creation_new."}
+{"edge_id": 50307, "score": 0.4, "rationale": "Thin link: shared word 'very early' (freq 4) is peripheral; theme overlap: resurrection."}
+{"edge_id": 50312, "score": 0.26, "rationale": "Likely incidental: shared word 'making a commotion' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50327, "score": 0.32, "rationale": "Thin link: shared word 'wings' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50364, "score": 0.45, "rationale": "Thin link: shared word 'rest' (freq 5) is peripheral; theme overlap: kingship, creation_new."}
+{"edge_id": 50378, "score": 0.37, "rationale": "Thin link: shared word 'flying' (freq 5) is peripheral; theme overlap: creation_new."}
+{"edge_id": 50421, "score": 0.32, "rationale": "Thin link: shared word 'scatters' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50472, "score": 0.43, "rationale": "Thin link: shared word 'cast away' (freq 7) is peripheral; theme overlap: shepherd."}
+{"edge_id": 50568, "score": 0.33, "rationale": "Thin link: shared word 'fleshly' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 50626, "score": 0.5, "rationale": "Thin link: shared word 'firstfruit' (freq 8) is peripheral; theme overlap: creation_new, resurrection."}
+{"edge_id": 50632, "score": 0.43, "rationale": "Thin link: shared word 'firstfruit' (freq 8) is peripheral; theme overlap: creation_new."}
+{"edge_id": 50955, "score": 0.29, "rationale": "Likely incidental: shared word 'to be accomplished' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51105, "score": 0.43, "rationale": "Thin link: shared word 'to continue' (freq 4) is peripheral; theme overlap: creation_new."}
+{"edge_id": 51110, "score": 0.45, "rationale": "Thin link: shared word 'to continue' (freq 4) is peripheral; theme overlap: creation_new."}
+{"edge_id": 51116, "score": 0.31, "rationale": "Thin link: shared word 'away' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51121, "score": 0.3, "rationale": "Thin link: shared word 'away' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51132, "score": 0.33, "rationale": "Thin link: shared word 'mingled' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51137, "score": 0.22, "rationale": "Likely incidental: shared word 'placed around' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51229, "score": 0.25, "rationale": "Likely incidental: shared word 'music' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51331, "score": 0.61, "rationale": "Plausible echo: shared word 'keys' (freq 6) is peripheral; theme overlap: creation_new, judgment."}
+{"edge_id": 51339, "score": 0.55, "rationale": "Plausible echo: shared word 'two-edged' (freq 3) is peripheral; theme overlap: kingship, judgment."}
+{"edge_id": 51344, "score": 0.53, "rationale": "Thin link: shared word 'two-edged' (freq 3) is central to one side; theme overlap: kingship, prophet."}
+{"edge_id": 51353, "score": 0.28, "rationale": "Likely incidental: shared word 'a sword' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51358, "score": 0.3, "rationale": "Thin link: shared word 'the eleven' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51406, "score": 0.52, "rationale": "Thin link: shared word 'ground' (freq 8) is peripheral; theme overlap: creation_new, spirit_breath."}
+{"edge_id": 51412, "score": 0.34, "rationale": "Thin link: shared word 'being encircled' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51419, "score": 0.53, "rationale": "Thin link: shared word 'beautiful' (freq 4) is central to one side; theme overlap: kingship, spirit_breath."}
+{"edge_id": 51429, "score": 0.3, "rationale": "Thin link: shared word 'praising' (freq 8) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 51488, "score": 0.42, "rationale": "Thin link: shared word '[he.is].making' (freq 7) is peripheral; theme overlap: righteous_faith."}
+{"edge_id": 51526, "score": 0.81, "rationale": "Plausible echo: shared word 'of zion' (freq 7) is central to both; theme overlap: kingship, mountain."}
+{"edge_id": 51532, "score": 0.34, "rationale": "Thin link: shared word 'of zion' (freq 7) is peripheral; theme overlap: creation_new."}
+{"edge_id": 51643, "score": 0.3, "rationale": "Thin link: shared word 'holy one' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51648, "score": 0.36, "rationale": "Thin link: shared word 'holy one' (freq 8) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 51654, "score": 0.32, "rationale": "Thin link: shared word 'undefiled' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51664, "score": 0.37, "rationale": "Thin link: shared word 'having paid no attention' (freq 4) is peripheral; theme overlap: circumcision."}
+{"edge_id": 51671, "score": 0.33, "rationale": "Thin link: shared word 'does he find fault' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51676, "score": 0.29, "rationale": "Likely incidental: shared word 'does he find fault' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51836, "score": 0.43, "rationale": "Thin link: shared word 'a.lamb' (freq 3) is peripheral; theme overlap: creation_new."}
+{"edge_id": 51841, "score": 0.45, "rationale": "Thin link: shared word '[place]' (freq 2) is peripheral; theme overlap: exodus."}
+{"edge_id": 51927, "score": 0.42, "rationale": "Thin link: shared word 'they spat' (freq 6) is peripheral; theme overlap: kingship."}
+{"edge_id": 51944, "score": 0.59, "rationale": "Plausible echo: shared word 'feeds' (freq 9) is peripheral; theme overlap: creation_new, spirit_breath."}
+{"edge_id": 51955, "score": 0.45, "rationale": "Thin link: shared word 'he has anointed' (freq 5) is peripheral; theme overlap: lamb_sacrifice, creation_new."}
+{"edge_id": 51965, "score": 0.26, "rationale": "Likely incidental: shared word 'has dawned' (freq 9) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 51973, "score": 0.54, "rationale": "Thin link: shared word 'shiloh' (freq 1) is central to one side; theme overlap: kingship, covenant."}
+{"edge_id": 52021, "score": 0.22, "rationale": "Likely incidental: shared word 'marvelous' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52075, "score": 0.25, "rationale": "Likely incidental: shared word 'scorching heat' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52118, "score": 0.38, "rationale": "Thin link: shared word 'samuel' (freq 3) is peripheral; theme overlap: judgment."}
+{"edge_id": 52153, "score": 0.57, "rationale": "Plausible echo: shared word 'i may eat' (freq 4) is central to one side; theme overlap: creation_new, wisdom."}
+{"edge_id": 52200, "score": 0.4, "rationale": "Thin link: shared word 'of dishonor' (freq 7) is peripheral; theme overlap: kingship."}
+{"edge_id": 52205, "score": 0.32, "rationale": "Thin link: shared word 'stones' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52214, "score": 0.28, "rationale": "Likely incidental: shared word 'jericho' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52219, "score": 0.57, "rationale": "Plausible echo: shared word 'jericho' (freq 7) is central to both; theme overlap: circumcision."}
+{"edge_id": 52314, "score": 0.31, "rationale": "Thin link: shared word 'jeremiah' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52337, "score": 0.37, "rationale": "Thin link: shared word 'how often' (freq 3) is peripheral; theme overlap: suffering_servant."}
+{"edge_id": 52342, "score": 0.25, "rationale": "Likely incidental: shared word 'of visitation' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52358, "score": 0.22, "rationale": "Likely incidental: shared word 'met' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52363, "score": 0.22, "rationale": "Likely incidental: shared word 'spread' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52370, "score": 0.34, "rationale": "Thin link: shared word 'commanded' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52386, "score": 0.4, "rationale": "Thin link: shared word 'murders' (freq 9) is peripheral; theme overlap: creation_new."}
+{"edge_id": 52393, "score": 0.42, "rationale": "Thin link: shared word 'full' (freq 9) is peripheral; theme overlap: kingship."}
+{"edge_id": 52442, "score": 0.3, "rationale": "Thin link: shared word 'gold' (freq 9) is central to one side; theme overlap: no shared theme cluster."}
+{"edge_id": 52453, "score": 0.27, "rationale": "Likely incidental: shared word 'having risen up' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52471, "score": 0.34, "rationale": "Thin link: shared word 'diseases' (freq 6) is peripheral; theme overlap: kingship."}
+{"edge_id": 52489, "score": 0.22, "rationale": "Likely incidental: shared word 'lap' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52501, "score": 0.53, "rationale": "Thin link: shared word 'to shine upon' (freq 4) is peripheral; theme overlap: light_dark."}
+{"edge_id": 52506, "score": 0.25, "rationale": "Likely incidental: shared word 'bed' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52516, "score": 0.25, "rationale": "Likely incidental: shared word 'rabboni' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52562, "score": 0.46, "rationale": "Thin link: shared word 'weeping' (freq 9) is peripheral; theme overlap: kingship, circumcision."}
+{"edge_id": 52576, "score": 0.51, "rationale": "Thin link: shared word 'a winepress' (freq 5) is central to one side; theme overlap: judgment."}
+{"edge_id": 52581, "score": 0.26, "rationale": "Likely incidental: shared word 'a winepress' (freq 5) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52591, "score": 0.48, "rationale": "Thin link: shared word 'foster-father' (freq 7) is peripheral; theme overlap: spirit_breath, exile_return."}
+{"edge_id": 52650, "score": 0.44, "rationale": "Thin link: shared word 'wrangle' (freq 7) is peripheral; theme overlap: creation_new."}
+{"edge_id": 52665, "score": 0.45, "rationale": "Thin link: shared word 'royal crowns' (freq 3) is peripheral; theme overlap: prophet."}
+{"edge_id": 52673, "score": 0.46, "rationale": "Thin link: shared word 'thigh' (freq 1) is peripheral; theme overlap: kingship, covenant."}
+{"edge_id": 52748, "score": 0.45, "rationale": "Thin link: shared word 'perch' (freq 4) is peripheral; theme overlap: creation_new, vine_branch."}
+{"edge_id": 52775, "score": 0.22, "rationale": "Likely incidental: shared word 'beat' (freq 8) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52849, "score": 0.23, "rationale": "Likely incidental: shared word 'quickness' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52904, "score": 0.34, "rationale": "Thin link: shared word 'with the palms' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 52946, "score": 0.34, "rationale": "Thin link: shared word 'signifying' (freq 6) is peripheral; theme overlap: kingship."}
+{"edge_id": 52966, "score": 0.37, "rationale": "Thin link: shared word 'after' (freq 4) is peripheral; theme overlap: creation_new."}
+{"edge_id": 52981, "score": 0.62, "rationale": "Plausible echo: shared word 'sackcloth' (freq 4) is peripheral; theme overlap: creation_new, light_dark."}
+{"edge_id": 52991, "score": 0.45, "rationale": "Thin link: shared word 'sixty' (freq 9) is peripheral; theme overlap: prophet."}
+{"edge_id": 52996, "score": 0.52, "rationale": "Thin link: shared word 'sixty' (freq 9) is central to one side; theme overlap: creation_new."}
+{"edge_id": 53014, "score": 0.25, "rationale": "Likely incidental: shared word 'counts' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 53067, "score": 0.5, "rationale": "Thin link: shared word 'you.must.honor' (freq 7) is peripheral; theme overlap: prophet, name_renamed."}
+{"edge_id": 53111, "score": 0.35, "rationale": "Thin link: shared word 'he interpreted' (freq 6) is peripheral; theme overlap: resurrection."}
+{"edge_id": 53118, "score": 0.31, "rationale": "Thin link: shared word 'he.twisted' (freq 3) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 53138, "score": 0.25, "rationale": "Likely incidental: shared word 'was guarding' (freq 4) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 53153, "score": 0.22, "rationale": "Likely incidental: shared word 'appearing' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 53171, "score": 0.37, "rationale": "Thin link: shared word 'most' (freq 4) is peripheral; theme overlap: prophet."}
+{"edge_id": 53198, "score": 0.61, "rationale": "Plausible echo: shared word 'witness' (freq 5) is central to both; theme overlap: covenant."}
+{"edge_id": 53239, "score": 0.38, "rationale": "Thin link: shared word 'he.will.become.impoverished' (freq 5) is peripheral; theme overlap: lamb_sacrifice."}
+{"edge_id": 53265, "score": 0.22, "rationale": "Likely incidental: shared word 'this' (freq 7) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 53271, "score": 0.25, "rationale": "Likely incidental: shared word 'wailing' (freq 2) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 53276, "score": 0.22, "rationale": "Likely incidental: shared word 'having taken leave of' (freq 6) is peripheral; theme overlap: no shared theme cluster."}
+{"edge_id": 53291, "score": 0.6, "rationale": "Plausible echo: shared word 'of desolation' (freq 3) is peripheral; theme overlap: temple, spirit_breath."}

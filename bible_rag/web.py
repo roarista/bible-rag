@@ -33,10 +33,16 @@ def graph(include_lexeme: bool = False) -> dict:
     units = conn.execute(
         "SELECT id, slug, type, title, status, confidence FROM unit"
     ).fetchall()
-    where = "" if include_lexeme else "WHERE c.type != 'shares_lexeme'"
+    # By default: include all typed edges + only PROMOTED shares_lexeme.
+    # ?include_lexeme=true returns every shares_lexeme edge (including noise).
+    if include_lexeme:
+        where = ""
+    else:
+        where = ("WHERE c.type != 'shares_lexeme' "
+                 "OR c.score_status = 'promoted'")
     edges = conn.execute(
         f"""
-        SELECT c.from_unit, c.to_unit, c.type, c.confidence,
+        SELECT c.from_unit, c.to_unit, c.type, c.confidence, c.score,
                u1.slug AS from_slug, u2.slug AS to_slug
         FROM connection c
         JOIN unit u1 ON u1.id = c.from_unit
@@ -54,7 +60,8 @@ def graph(include_lexeme: bool = False) -> dict:
     rels = [
         {"data": {"id": f"{e['from_slug']}->{e['to_slug']}:{e['type']}",
                   "source": e["from_slug"], "target": e["to_slug"],
-                  "type": e["type"], "confidence": e["confidence"]}}
+                  "type": e["type"], "confidence": e["confidence"],
+                  "score": e["score"]}}
         for e in edges
     ]
     return {"elements": {"nodes": nodes, "edges": rels}}

@@ -1,0 +1,400 @@
+{"edge_id": 3301, "score": 0.63, "rationale": "Plausible echo on 'Lamb' (\u1f00\u03bc\u03bd\u03cc\u03c2); meaningful thematic overlap between seed and seed worth surfacing."}
+{"edge_id": 3311, "score": 0.45, "rationale": "Modest connection on 'Lamb' (\u1f00\u03bc\u03bd\u03cc\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 4872, "score": 0.46, "rationale": "Lexeme-node edge on 'Moriah' (\u05de\u05b9\u05e8\u05b4\u05d9\u05bc\u05b8\u05d4): one side IS the word, so the typological lift is limited."}
+{"edge_id": 5472, "score": 0.29, "rationale": "Thin link on 'Methuselah' (\u05de\u05b0\u05ea\u05d5\u05bc\u05e9\u05c1\u05b6\u05dc\u05b7\u05d7); weak coherence between seed and seed."}
+{"edge_id": 6545, "score": 0.76, "rationale": "Solid echo via 'of Noah' (\u039d\u1ff6\u03b5); seed and seed share coherent theological vocabulary."}
+{"edge_id": 6774, "score": 0.43, "rationale": "Modest connection on 'ends' (\u03c0\u03ad\u03c1\u03b1\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 9057, "score": 0.33, "rationale": "Thin link on 'Pharaoh' (\u03a6\u03b1\u03c1\u03b1\u03ce); weak coherence between seed and miracle."}
+{"edge_id": 9575, "score": 0.29, "rationale": "Thin link on 'pluck out' (\u1f10\u03be\u03b1\u03b9\u03c1\u03ad\u03c9); weak coherence between theophany and theophany."}
+{"edge_id": 10551, "score": 0.25, "rationale": "Thin link on 'before' (\u1f10\u03bd\u03b1\u03bd\u03c4\u03af\u03bf\u03bd); weak coherence between seed and seed."}
+{"edge_id": 10558, "score": 0.17, "rationale": "Likely noise on 'before' (\u1f10\u03bd\u03b1\u03bd\u03c4\u03af\u03bf\u03bd); the shared word seems incidental."}
+{"edge_id": 11171, "score": 0.15, "rationale": "Likely noise on 'creature' (\u03ba\u03c4\u03af\u03c3\u03bc\u03b1); the shared word seems incidental."}
+{"edge_id": 11176, "score": 0.13, "rationale": "Lexeme-node edge on 'creature' (\u03ba\u03c4\u03af\u03c3\u03bc\u03b1): one side IS the word, so the typological lift is limited."}
+{"edge_id": 11310, "score": 0.33, "rationale": "Thin link on 'harp' (\u03ba\u03b9\u03b8\u03ac\u03c1\u03b1); weak coherence between seed and seed."}
+{"edge_id": 11589, "score": 0.43, "rationale": "Modest connection on 'to redeem' (\u03bb\u03c5\u03c4\u03c1\u03cc\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 11594, "score": 0.35, "rationale": "Thin link on 'to redeem' (\u03bb\u03c5\u03c4\u03c1\u03cc\u03c9); weak coherence between seed and covenant."}
+{"edge_id": 11658, "score": 0.31, "rationale": "Thin link on 'bruised' (\u03c3\u03c5\u03bd\u03c4\u03c1\u03af\u03b2\u03c9); weak coherence between miracle and prophecy."}
+{"edge_id": 11668, "score": 0.29, "rationale": "Thin link on 'incense' (\u03b8\u03c5\u03bc\u03af\u03b1\u03bc\u03b1); weak coherence between seed and seed."}
+{"edge_id": 13164, "score": 0.29, "rationale": "Thin link on 'in a circle' (\u03ba\u03cd\u03ba\u03bb\u1ff3); weak coherence between seed and miracle."}
+{"edge_id": 14504, "score": 0.36, "rationale": "Lexeme-node edge on 'boiled' (\u05d1\u05bc\u05b8\u05e9\u05c1\u05b5\u05dc): one side IS the word, so the typological lift is limited."}
+{"edge_id": 14543, "score": 0.41, "rationale": "Modest connection on 'of mortal' (\u03c6\u03b8\u03b1\u03c1\u03c4\u03cc\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 15185, "score": 0.33, "rationale": "Thin link on 'a.bunch' (\u05d0\u05b2\u05d2\u05bb\u05d3\u05bc\u05b8\u05d4); weak coherence between seed and seed."}
+{"edge_id": 15190, "score": 0.43, "rationale": "Modest connection on 'lump' (\u03c6\u03cd\u03c1\u03b1\u03bc\u03b1); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 15211, "score": 0.31, "rationale": "Thin link on 'vanities' (\u03bc\u03ac\u03c4\u03b1\u03b9\u03bf\u03c2); weak coherence between covenant and miracle."}
+{"edge_id": 15218, "score": 0.67, "rationale": "Plausible echo on 'of bones' (\u1f40\u03c3\u03c4\u03ad\u03bf\u03bd); meaningful thematic overlap between seed and prophecy worth surfacing."}
+{"edge_id": 15376, "score": 0.41, "rationale": "Lexeme-node edge on 'without stain' (\u1f04\u03c3\u03c0\u03b9\u03bb\u03bf\u03c2): one side IS the word, so the typological lift is limited."}
+{"edge_id": 15381, "score": 0.41, "rationale": "Lexeme-node edge on 'without stain' (\u1f04\u03c3\u03c0\u03b9\u03bb\u03bf\u03c2): one side IS the word, so the typological lift is limited."}
+{"edge_id": 15532, "score": 0.39, "rationale": "Thin link on 'blameless' (\u1f04\u03bc\u03c9\u03bc\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 15563, "score": 0.31, "rationale": "Thin link on 'myriads' (\u03bc\u03c5\u03c1\u03b9\u03ac\u03c2); weak coherence between seed and prophecy."}
+{"edge_id": 16233, "score": 0.43, "rationale": "Modest connection on 'enmity' (\u05d0\u05b5\u05d9\u05d1\u05b8\u05d4); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 16244, "score": 0.53, "rationale": "Modest connection on 'enmity' (\u05d0\u05b5\u05d9\u05d1\u05b8\u05d4); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 17103, "score": 0.35, "rationale": "Thin link on 'somewhere' (\u03c0\u03bf\u03cd); weak coherence between seed and covenant."}
+{"edge_id": 17149, "score": 0.43, "rationale": "Modest connection on 'of bondage' (\u03b4\u03bf\u03c5\u03bb\u03b5\u03af\u03b1); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 17221, "score": 0.33, "rationale": "Thin link on 'the Author' (\u1f00\u03c1\u03c7\u03b7\u03b3\u03cc\u03c2); weak coherence between seed and seed."}
+{"edge_id": 18308, "score": 0.29, "rationale": "Thin link on 'to partake' (\u03bc\u03b5\u03c4\u03ad\u03c7\u03c9); weak coherence between seed and seed."}
+{"edge_id": 18314, "score": 0.31, "rationale": "Thin link on 'to partake' (\u03bc\u03b5\u03c4\u03ad\u03c7\u03c9); weak coherence between seed and covenant."}
+{"edge_id": 18731, "score": 0.43, "rationale": "Modest connection on 'having sung a hymn' (\u1f51\u03bc\u03bd\u03ad\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 18736, "score": 0.33, "rationale": "Thin link on 'having sung a hymn' (\u1f51\u03bc\u03bd\u03ad\u03c9); weak coherence between seed and miracle."}
+{"edge_id": 19236, "score": 0.33, "rationale": "Thin link on 'loin.coverings' (\u05d7\u05b2\u05d2\u05d5\u05b9\u05e8\u05b8\u05d4); weak coherence between seed and seed."}
+{"edge_id": 19301, "score": 0.45, "rationale": "Modest connection on 'transgression' (\u03c0\u03b1\u03c1\u03ac\u03b2\u03b1\u03c3\u03b9\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 20879, "score": 0.29, "rationale": "Thin link on 'a likeness' (\u1f41\u03bc\u03bf\u03af\u03c9\u03bc\u03b1); weak coherence between seed and seed."}
+{"edge_id": 20885, "score": 0.29, "rationale": "Thin link on 'a likeness' (\u1f41\u03bc\u03bf\u03af\u03c9\u03bc\u03b1); weak coherence between seed and seed."}
+{"edge_id": 20893, "score": 0.11, "rationale": "Likely noise on 'fitting' (\u03c0\u03c1\u03ad\u03c0\u03c9); the shared word seems incidental."}
+{"edge_id": 20898, "score": 0.13, "rationale": "Likely noise on 'fitting' (\u03c0\u03c1\u03ad\u03c0\u03c9); the shared word seems incidental."}
+{"edge_id": 21096, "score": 0.21, "rationale": "Lexeme-node edge on 'of divine adoption as sons' (\u03c5\u1f31\u03bf\u03b8\u03b5\u03c3\u03af\u03b1): one side IS the word, so the typological lift is limited."}
+{"edge_id": 21101, "score": 0.58, "rationale": "Plausible echo on 'Salmon' (\u03a3\u03b1\u03bb\u03bc\u03ce\u03bd); meaningful thematic overlap between seed and seed worth surfacing."}
+{"edge_id": 21367, "score": 0.33, "rationale": "Thin link on 'redeemed' (\u1f10\u03be\u03b1\u03b3\u03bf\u03c1\u03ac\u03b6\u03c9); weak coherence between seed and seed."}
+{"edge_id": 21372, "score": 0.35, "rationale": "Thin link on 'redeemed' (\u1f10\u03be\u03b1\u03b3\u03bf\u03c1\u03ac\u03b6\u03c9); weak coherence between seed and covenant."}
+{"edge_id": 21688, "score": 0.67, "rationale": "Plausible echo on 'Jesse' (\u1f38\u03b5\u03c3\u03c3\u03b1\u03af); meaningful thematic overlap between seed and prophecy worth surfacing."}
+{"edge_id": 22002, "score": 0.4, "rationale": "Modest connection on 'washing' (\u03bb\u03bf\u03c5\u03c4\u03c1\u03cc\u03bd); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 22008, "score": 0.4, "rationale": "Modest connection on 'washing' (\u03bb\u03bf\u03c5\u03c4\u03c1\u03cc\u03bd); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 22369, "score": 0.29, "rationale": "Thin link on 'saraphs' (\u05e9\u05c2\u05b8\u05e8\u05b8\u05e3); weak coherence between seed and seed."}
+{"edge_id": 22374, "score": 0.29, "rationale": "Thin link on 'saraphs' (\u05e9\u05c2\u05b8\u05e8\u05b8\u05e3); weak coherence between miracle and theophany."}
+{"edge_id": 22386, "score": 0.43, "rationale": "Modest connection on '[the] goads' (\u03ba\u03ad\u03bd\u03c4\u03c1\u03bf\u03bd); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 22391, "score": 0.48, "rationale": "Modest connection on 'leading in triumph' (\u03b8\u03c1\u03b9\u03b1\u03bc\u03b2\u03b5\u03cd\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 22396, "score": 0.33, "rationale": "Thin link on 'victory' (\u03bd\u1fd6\u03ba\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 22672, "score": 0.33, "rationale": "Thin link on 'a decree' (\u03b4\u03cc\u03b3\u03bc\u03b1); weak coherence between seed and seed."}
+{"edge_id": 22677, "score": 0.33, "rationale": "Thin link on 'a decree' (\u03b4\u03cc\u03b3\u03bc\u03b1); weak coherence between seed and seed."}
+{"edge_id": 23220, "score": 0.33, "rationale": "Thin link on 'blotting out' (\u1f10\u03be\u03b1\u03bb\u03b5\u03af\u03c6\u03c9); weak coherence between seed and seed."}
+{"edge_id": 23238, "score": 0.29, "rationale": "Thin link on 'mortal' (\u03b8\u03bd\u03b7\u03c4\u03cc\u03c2); weak coherence between seed and seed."}
+{"edge_id": 23338, "score": 0.61, "rationale": "Plausible echo on 'remembrance' (\u1f00\u03bd\u03ac\u03bc\u03bd\u03b7\u03c3\u03b9\u03c2); meaningful thematic overlap between seed and festival worth surfacing."}
+{"edge_id": 23343, "score": 0.48, "rationale": "Modest connection on 'has been inaugurated' (\u1f10\u03b3\u03ba\u03b1\u03b9\u03bd\u03af\u03b6\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 23349, "score": 0.5, "rationale": "Modest connection on 'has been inaugurated' (\u1f10\u03b3\u03ba\u03b1\u03b9\u03bd\u03af\u03b6\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 24054, "score": 0.45, "rationale": "Modest connection on 'of goats' (\u03c4\u03c1\u03ac\u03b3\u03bf\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 24474, "score": 0.53, "rationale": "Modest connection on 'reproaches' (\u1f40\u03bd\u03b5\u03b9\u03b4\u03b9\u03c3\u03bc\u03cc\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 24479, "score": 0.11, "rationale": "Likely noise on 'awaiting' (\u1f10\u03ba\u03b4\u03ad\u03c7\u03bf\u03bc\u03b1\u03b9); the shared word seems incidental."}
+{"edge_id": 24486, "score": 0.11, "rationale": "Likely noise on 'awaiting' (\u1f10\u03ba\u03b4\u03ad\u03c7\u03bf\u03bc\u03b1\u03b9); the shared word seems incidental."}
+{"edge_id": 24524, "score": 0.39, "rationale": "Thin link on 'awaits' (\u1f00\u03c0\u03b5\u03ba\u03b4\u03ad\u03c7\u03bf\u03bc\u03b1\u03b9); weak coherence between seed and seed."}
+{"edge_id": 24534, "score": 0.31, "rationale": "Thin link on 'things present' (\u1f10\u03bd\u03af\u03c3\u03c4\u03b7\u03bc\u03b9); weak coherence between seed and prophecy."}
+{"edge_id": 24845, "score": 0.43, "rationale": "Modest connection on 'manna' (\u03bc\u03ac\u03bd\u03bd\u03b1); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 24861, "score": 0.11, "rationale": "Likely noise on 'calf' (\u03bc\u03cc\u03c3\u03c7\u03bf\u03c2); the shared word seems incidental."}
+{"edge_id": 24866, "score": 0.11, "rationale": "Likely noise on 'calf' (\u03bc\u03cc\u03c3\u03c7\u03bf\u03c2); the shared word seems incidental."}
+{"edge_id": 24875, "score": 0.39, "rationale": "Thin link on 'service' (\u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1); weak coherence between seed and seed."}
+{"edge_id": 24881, "score": 0.4, "rationale": "Modest connection on 'a stalk of hyssop' (\u1f55\u03c3\u03c3\u03c9\u03c0\u03bf\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 24893, "score": 0.33, "rationale": "Thin link on 'oxen' (\u03c4\u03b1\u1fe6\u03c1\u03bf\u03c2); weak coherence between seed and miracle."}
+{"edge_id": 24904, "score": 0.29, "rationale": "Thin link on '[the] consummation' (\u03c3\u03c5\u03bd\u03c4\u03ad\u03bb\u03b5\u03b9\u03b1); weak coherence between seed and parable."}
+{"edge_id": 24918, "score": 0.61, "rationale": "Plausible echo on 'ark' (\u03ba\u03b9\u03b2\u03c9\u03c4\u03cc\u03c2); meaningful thematic overlap between seed and seed worth surfacing."}
+{"edge_id": 24926, "score": 0.75, "rationale": "Solid echo via 'sins' (\u1f01\u03bc\u03ac\u03c1\u03c4\u03b7\u03bc\u03b1); seed and festival share coherent theological vocabulary."}
+{"edge_id": 24932, "score": 0.43, "rationale": "Modest connection on 'from every quarter' (\u03c0\u03ac\u03bd\u03c4\u03bf\u03b8\u03b5\u03bd); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 24937, "score": 0.38, "rationale": "Thin link on 'from every quarter' (\u03c0\u03ac\u03bd\u03c4\u03bf\u03b8\u03b5\u03bd); weak coherence between festival and prophecy."}
+{"edge_id": 25314, "score": 0.38, "rationale": "Thin link on 'wool' (\u1f14\u03c1\u03b9\u03bf\u03bd); weak coherence between seed and seed."}
+{"edge_id": 25319, "score": 0.15, "rationale": "Likely noise on 'sprouted' (\u03b2\u03bb\u03b1\u03c3\u03c4\u03ac\u03bd\u03c9); the shared word seems incidental."}
+{"edge_id": 25324, "score": 0.18, "rationale": "Likely noise on 'sprouted' (\u03b2\u03bb\u03b1\u03c3\u03c4\u03ac\u03bd\u03c9); the shared word seems incidental."}
+{"edge_id": 25337, "score": 0.39, "rationale": "Thin link on 'made with hands' (\u03c7\u03b5\u03b9\u03c1\u03bf\u03c0\u03bf\u03af\u03b7\u03c4\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 25598, "score": 0.11, "rationale": "Likely noise on 'shadow' (\u03c3\u03ba\u03b9\u03ac); the shared word seems incidental."}
+{"edge_id": 25604, "score": 0.15, "rationale": "Likely noise on 'shadow' (\u03c3\u03ba\u03b9\u03ac); the shared word seems incidental."}
+{"edge_id": 25735, "score": 0.8, "rationale": "Solid echo via '[the] propitiation' (\u1f31\u03bb\u03b1\u03c3\u03bc\u03cc\u03c2); seed and seed share coherent theological vocabulary."}
+{"edge_id": 25882, "score": 0.43, "rationale": "Modest connection on 'I purposed' (\u03c0\u03c1\u03bf\u03c4\u03af\u03b8\u03b7\u03bc\u03b9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 26073, "score": 0.33, "rationale": "Thin link on 'once for all' (\u1f10\u03c6\u03ac\u03c0\u03b1\u03be); weak coherence between seed and seed."}
+{"edge_id": 26079, "score": 0.33, "rationale": "Thin link on 'having been written' (\u1f10\u03c0\u03b9\u03b3\u03c1\u03ac\u03c6\u03c9); weak coherence between seed and seed."}
+{"edge_id": 26089, "score": 0.29, "rationale": "Thin link on '[is] yours' (\u1f21\u03bc\u03ad\u03c4\u03b5\u03c1\u03bf\u03c2); weak coherence between seed and parable."}
+{"edge_id": 26098, "score": 0.29, "rationale": "Thin link on '[is] yours' (\u1f21\u03bc\u03ad\u03c4\u03b5\u03c1\u03bf\u03c2); weak coherence between parable and theophany."}
+{"edge_id": 26535, "score": 0.38, "rationale": "Thin link on 'A putting away' (\u1f00\u03b8\u03ad\u03c4\u03b7\u03c3\u03b9\u03c2); weak coherence between seed and office."}
+{"edge_id": 27323, "score": 0.29, "rationale": "Thin link on 'A pattern' (\u1f51\u03c0\u03cc\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1); weak coherence between seed and seed."}
+{"edge_id": 27328, "score": 0.31, "rationale": "Thin link on 'A pattern' (\u1f51\u03c0\u03cc\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1); weak coherence between seed and covenant."}
+{"edge_id": 27625, "score": 0.41, "rationale": "Modest connection on 'of a mediator' (\u03bc\u03b5\u03c3\u03af\u03c4\u03b7\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 27655, "score": 0.39, "rationale": "Thin link on 'lead' (\u03b5\u1f30\u03c3\u03c6\u03ad\u03c1\u03c9); weak coherence between seed and seed."}
+{"edge_id": 27682, "score": 0.31, "rationale": "Thin link on 'veil' (\u03ba\u03b1\u03c4\u03b1\u03c0\u03ad\u03c4\u03b1\u03c3\u03bc\u03b1); weak coherence between seed and covenant."}
+{"edge_id": 27689, "score": 0.41, "rationale": "Modest connection on 'veil' (\u03ba\u03b1\u03c4\u03b1\u03c0\u03ad\u03c4\u03b1\u03c3\u03bc\u03b1); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 27915, "score": 0.48, "rationale": "Modest connection on 'drink' (\u03c0\u03cc\u03bc\u03b1); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 28006, "score": 0.39, "rationale": "Thin link on 'It was shown' (\u03b4\u03b7\u03bb\u03cc\u03c9); weak coherence between seed and seed."}
+{"edge_id": 28131, "score": 0.38, "rationale": "Thin link on 'copies' (\u1f00\u03bd\u03c4\u03af\u03c4\u03c5\u03c0\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 28177, "score": 0.35, "rationale": "Thin link on 'all time' (\u03b4\u03b9\u03b7\u03bd\u03b5\u03ba\u03ae\u03c2); weak coherence between seed and covenant."}
+{"edge_id": 28423, "score": 0.39, "rationale": "Thin link on 'bread.cakes' (\u05e2\u05bb\u05d2\u05b8\u05d4); weak coherence between seed and miracle."}
+{"edge_id": 29426, "score": 0.29, "rationale": "Thin link on 'ever yet' (\u03c0\u03ce\u03c0\u03bf\u03c4\u03b5); weak coherence between seed and seed."}
+{"edge_id": 29433, "score": 0.29, "rationale": "Thin link on 'ever yet' (\u03c0\u03ce\u03c0\u03bf\u03c4\u03b5); weak coherence between seed and seed."}
+{"edge_id": 29588, "score": 0.43, "rationale": "Modest connection on 'of.Sin' (\u05e1\u05b4\u05d9\u05df); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 29593, "score": 0.53, "rationale": "Modest connection on 'of.Sin' (\u05e1\u05b4\u05d9\u05df); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 29993, "score": 0.33, "rationale": "Thin link on 'they will be heard' (\u03b5\u1f30\u03c3\u03b1\u03ba\u03bf\u03cd\u03c9); weak coherence between seed and seed."}
+{"edge_id": 30281, "score": 0.39, "rationale": "Thin link on 'a cry' (\u03ba\u03c1\u03b1\u03c5\u03b3\u03ae); weak coherence between seed and parable."}
+{"edge_id": 30302, "score": 0.49, "rationale": "Modest connection on 'the.footstool' (\u05d4\u05b2\u05d3\u05b9\u05dd); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 30315, "score": 0.49, "rationale": "Modest connection on 'the.footstool' (\u05d4\u05b2\u05d3\u05b9\u05dd); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 30343, "score": 0.45, "rationale": "Modest connection on 'of Melchizedek' (\u039c\u03b5\u03bb\u03c7\u03b9\u03c3\u03ad\u03b4\u03b5\u03ba); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 30726, "score": 0.33, "rationale": "Thin link on 'a.thousand' (\u05d0\u05b2\u05dc\u05b7\u05e3); weak coherence between seed and theophany."}
+{"edge_id": 30731, "score": 0.41, "rationale": "Modest connection on 'a.thousand' (\u05d0\u05b2\u05dc\u05b7\u05e3); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 30769, "score": 0.59, "rationale": "Plausible echo on 'you did wail' (\u03ba\u03cc\u03c0\u03c4\u03c9); meaningful thematic overlap between seed and prophecy worth surfacing."}
+{"edge_id": 30774, "score": 0.41, "rationale": "Modest connection on 'you did wail' (\u03ba\u03cc\u03c0\u03c4\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 30779, "score": 0.41, "rationale": "Modest connection on 'times' (\u05e2\u05b4\u05d3\u05bc\u05b8\u05df); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 31483, "score": 0.39, "rationale": "Thin link on 'the.son' (\u05d1\u05bc\u05b7\u05e8); weak coherence between miracle and theophany."}
+{"edge_id": 31545, "score": 0.49, "rationale": "Modest connection on 'Be opened' (\u03b4\u03b9\u03b1\u03bd\u03bf\u03af\u03b3\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 31550, "score": 0.29, "rationale": "Thin link on 'Be opened' (\u03b4\u03b9\u03b1\u03bd\u03bf\u03af\u03b3\u03c9); weak coherence between seed and seed."}
+{"edge_id": 31722, "score": 0.29, "rationale": "Thin link on 'girded about' (\u03c0\u03b5\u03c1\u03b9\u03b6\u03ce\u03bd\u03bd\u03c5\u03bc\u03b9); weak coherence between seed and parable."}
+{"edge_id": 31727, "score": 0.29, "rationale": "Thin link on 'girded about' (\u03c0\u03b5\u03c1\u03b9\u03b6\u03ce\u03bd\u03bd\u03c5\u03bc\u03b9); weak coherence between parable and theophany."}
+{"edge_id": 31784, "score": 0.31, "rationale": "Thin link on 'flame' (\u03c6\u03bb\u03cc\u03be); weak coherence between parable and prophecy."}
+{"edge_id": 31789, "score": 0.41, "rationale": "Modest connection on 'flame' (\u03c6\u03bb\u03cc\u03be); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 31803, "score": 0.6, "rationale": "Plausible echo on 'they have pierced' (\u1f10\u03ba\u03ba\u03b5\u03bd\u03c4\u03ad\u03c9); meaningful thematic overlap between seed and seed worth surfacing."}
+{"edge_id": 31808, "score": 0.5, "rationale": "Modest connection on 'they have pierced' (\u1f10\u03ba\u03ba\u03b5\u03bd\u03c4\u03ad\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 31814, "score": 0.41, "rationale": "Lexeme-node edge on 'Helper' (\u03c0\u03b1\u03c1\u03ac\u03ba\u03bb\u03b7\u03c4\u03bf\u03c2): one side IS the word, so the typological lift is limited."}
+{"edge_id": 31819, "score": 0.35, "rationale": "Thin link on 'pleaded' (\u1f10\u03bd\u03c4\u03c5\u03b3\u03c7\u03ac\u03bd\u03c9); weak coherence between seed and covenant."}
+{"edge_id": 31925, "score": 0.29, "rationale": "Thin link on 'evil' (\u03c6\u03b1\u1fe6\u03bb\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 31930, "score": 0.31, "rationale": "Thin link on 'evil' (\u03c6\u03b1\u1fe6\u03bb\u03bf\u03c2); weak coherence between seed and prophecy."}
+{"edge_id": 32047, "score": 0.57, "rationale": "Plausible echo on 'half' (\u1f25\u03bc\u03b9\u03c3\u03c5\u03c2); meaningful thematic overlap between prophecy and prophecy worth surfacing."}
+{"edge_id": 32807, "score": 0.33, "rationale": "Thin link on 'was stirred' (\u03c3\u03b5\u03af\u03c9); weak coherence between seed and seed."}
+{"edge_id": 32812, "score": 0.35, "rationale": "Thin link on 'was stirred' (\u03c3\u03b5\u03af\u03c9); weak coherence between seed and prophecy."}
+{"edge_id": 32844, "score": 0.43, "rationale": "Modest connection on 'Paradise' (\u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03c3\u03bf\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 32849, "score": 0.33, "rationale": "Thin link on 'Paradise' (\u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03c3\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 33193, "score": 0.38, "rationale": "Thin link on 'crystal' (\u03ba\u03c1\u03cd\u03c3\u03c4\u03b1\u03bb\u03bb\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 33274, "score": 0.41, "rationale": "Modest connection on 'foreheads' (\u03bc\u03ad\u03c4\u03c9\u03c0\u03bf\u03bd); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 33279, "score": 0.31, "rationale": "Thin link on 'foreheads' (\u03bc\u03ad\u03c4\u03c9\u03c0\u03bf\u03bd); weak coherence between seed and prophecy."}
+{"edge_id": 35775, "score": 0.43, "rationale": "Modest connection on 'justly' (\u03b4\u03b9\u03ba\u03b1\u03af\u03c9\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 35780, "score": 0.35, "rationale": "Thin link on 'justly' (\u03b4\u03b9\u03ba\u03b1\u03af\u03c9\u03c2); weak coherence between seed and prophecy."}
+{"edge_id": 36369, "score": 0.33, "rationale": "Thin link on 'humiliation' (\u03c4\u03b1\u03c0\u03b5\u03af\u03bd\u03c9\u03c3\u03b9\u03c2); weak coherence between seed and seed."}
+{"edge_id": 36374, "score": 0.35, "rationale": "Thin link on 'humiliation' (\u03c4\u03b1\u03c0\u03b5\u03af\u03bd\u03c9\u03c3\u03b9\u03c2); weak coherence between seed and prophecy."}
+{"edge_id": 36609, "score": 0.31, "rationale": "Thin link on 'related' (\u03b4\u03b9\u03b7\u03b3\u03ad\u03bf\u03bc\u03b1\u03b9); weak coherence between seed and prophecy."}
+{"edge_id": 36615, "score": 0.31, "rationale": "Thin link on 'related' (\u03b4\u03b9\u03b7\u03b3\u03ad\u03bf\u03bc\u03b1\u03b9); weak coherence between miracle and prophecy."}
+{"edge_id": 36621, "score": 0.41, "rationale": "Lexeme-node edge on '[is] silent' (\u1f04\u03c6\u03c9\u03bd\u03bf\u03c2): one side IS the word, so the typological lift is limited."}
+{"edge_id": 37468, "score": 0.31, "rationale": "Thin link on 'deceit' (\u1f00\u03c0\u03ac\u03c4\u03b7); weak coherence between seed and prophecy."}
+{"edge_id": 37847, "score": 0.39, "rationale": "Thin link on 'having been determined' (\u1f41\u03c1\u03af\u03b6\u03c9); weak coherence between seed and seed."}
+{"edge_id": 37892, "score": 0.35, "rationale": "Thin link on 'they stopped' (\u03ba\u03b1\u03c4\u03b1\u03c0\u03b1\u03cd\u03c9); weak coherence between seed and covenant."}
+{"edge_id": 37897, "score": 0.43, "rationale": "Modest connection on 'confidence' (\u1f51\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b9\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 38162, "score": 0.26, "rationale": "Lexeme-node edge on 'renewing' (\u1f00\u03bd\u03b1\u03ba\u03b1\u03af\u03bd\u03c9\u03c3\u03b9\u03c2): one side IS the word, so the typological lift is limited."}
+{"edge_id": 38411, "score": 0.38, "rationale": "Thin link on 'regeneration' (\u03c0\u03b1\u03bb\u03b9\u03b3\u03b3\u03b5\u03bd\u03b5\u03c3\u03af\u03b1); weak coherence between seed and seed."}
+{"edge_id": 38416, "score": 0.4, "rationale": "Modest connection on 'regeneration' (\u03c0\u03b1\u03bb\u03b9\u03b3\u03b3\u03b5\u03bd\u03b5\u03c3\u03af\u03b1); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 38439, "score": 0.33, "rationale": "Thin link on 'having been crucified' (\u03c3\u03c5\u03c3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c9); weak coherence between seed and seed."}
+{"edge_id": 38499, "score": 0.28, "rationale": "Lexeme-node edge on 'lema' (\u03bb\u03b5\u03bc\u03ac): one side IS the word, so the typological lift is limited."}
+{"edge_id": 38596, "score": 0.39, "rationale": "Thin link on 'with vinegar' (\u1f44\u03be\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 39014, "score": 0.39, "rationale": "Thin link on 'should be hung' (\u03ba\u03c1\u03b5\u03bc\u03ac\u03bd\u03bd\u03c5\u03bc\u03b9); weak coherence between seed and seed."}
+{"edge_id": 39019, "score": 0.31, "rationale": "Thin link on 'should be hung' (\u03ba\u03c1\u03b5\u03bc\u03ac\u03bd\u03bd\u03c5\u03bc\u03b9); weak coherence between seed and covenant."}
+{"edge_id": 39056, "score": 0.29, "rationale": "Thin link on 'being translated' (\u03bc\u03b5\u03b8\u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03cd\u03c9); weak coherence between seed and seed."}
+{"edge_id": 39064, "score": 0.29, "rationale": "Thin link on 'being translated' (\u03bc\u03b5\u03b8\u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03cd\u03c9); weak coherence between seed and miracle."}
+{"edge_id": 39844, "score": 0.43, "rationale": "Modest connection on 'a daughter-in-law' (\u03bd\u03cd\u03bc\u03c6\u03b7); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 39860, "score": 0.33, "rationale": "Thin link on 'they lead' (\u1f41\u03b4\u03b7\u03b3\u03ad\u03c9); weak coherence between seed and seed."}
+{"edge_id": 39896, "score": 0.35, "rationale": "Thin link on 'side' (\u03c0\u03bb\u03b5\u03c5\u03c1\u03ac); weak coherence between seed and prophecy."}
+{"edge_id": 40256, "score": 0.29, "rationale": "Thin link on 'He sends rain' (\u03b2\u03c1\u03ad\u03c7\u03c9); weak coherence between seed and seed."}
+{"edge_id": 40261, "score": 0.29, "rationale": "Thin link on 'He sends rain' (\u03b2\u03c1\u03ad\u03c7\u03c9); weak coherence between seed and parable."}
+{"edge_id": 40272, "score": 0.29, "rationale": "Thin link on 'the.growth' (\u05e6\u05b6\u05de\u05b7\u05d7); weak coherence between seed and seed."}
+{"edge_id": 40282, "score": 0.57, "rationale": "Plausible echo on 'the.growth' (\u05e6\u05b6\u05de\u05b7\u05d7); meaningful thematic overlap between seed and seed worth surfacing."}
+{"edge_id": 40513, "score": 0.33, "rationale": "Thin link on 'kiln' (\u05db\u05bc\u05b4\u05d1\u05b0\u05e9\u05c1\u05b8\u05df); weak coherence between seed and seed."}
+{"edge_id": 41091, "score": 0.33, "rationale": "Thin link on 'dwelt' (\u03c3\u03ba\u03b7\u03bd\u03cc\u03c9); weak coherence between seed and seed."}
+{"edge_id": 41109, "score": 0.33, "rationale": "Thin link on 'dwelt' (\u03c3\u03ba\u03b7\u03bd\u03cc\u03c9); weak coherence between seed and seed."}
+{"edge_id": 41763, "score": 0.49, "rationale": "Modest connection on 'a.sin' (\u05d7\u05b2\u05d8\u05b8\u05d0\u05b8\u05d4); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 42101, "score": 0.33, "rationale": "Thin link on 'he.drove.away' (\u05e0\u05b8\u05e9\u05c1\u05b7\u05d1); weak coherence between seed and seed."}
+{"edge_id": 42218, "score": 0.29, "rationale": "Thin link on '(the).inclination' (\u05d9\u05b5\u05e6\u05b6\u05e8); weak coherence between seed and seed."}
+{"edge_id": 42467, "score": 0.36, "rationale": "Lexeme-node edge on 'infertile' (\u05d2\u05bc\u05b0\u05d6\u05b5\u05e8\u05b8\u05d4): one side IS the word, so the typological lift is limited."}
+{"edge_id": 42790, "score": 0.48, "rationale": "Modest connection on 'let it fear' (\u03b4\u03b5\u03b9\u03bb\u03b9\u03ac\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 42832, "score": 0.29, "rationale": "Thin link on 'of confession' (\u1f41\u03bc\u03bf\u03bb\u03bf\u03b3\u03af\u03b1); weak coherence between seed and seed."}
+{"edge_id": 43121, "score": 0.33, "rationale": "Thin link on 'jasper' (\u1f34\u03b1\u03c3\u03c0\u03b9\u03c2); weak coherence between seed and seed."}
+{"edge_id": 43137, "score": 0.39, "rationale": "Thin link on '[will.be].a.chrysolite' (\u05ea\u05bc\u05b7\u05e8\u05b0\u05e9\u05c1\u05b4\u05d9\u05e9\u05c1); weak coherence between seed and theophany."}
+{"edge_id": 43182, "score": 0.33, "rationale": "Thin link on 'citizens' (\u03c0\u03bf\u03bb\u03af\u03c4\u03b7\u03c2); weak coherence between seed and parable."}
+{"edge_id": 43187, "score": 0.48, "rationale": "Modest connection on 'an embassy' (\u03c0\u03c1\u03b5\u03c3\u03b2\u03b5\u03af\u03b1); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 43908, "score": 0.33, "rationale": "Thin link on 'He overturned' (\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03ad\u03c6\u03c9); weak coherence between seed and seed."}
+{"edge_id": 44004, "score": 0.29, "rationale": "Thin link on 'Simeon' (\u03a3\u03c5\u03bc\u03b5\u03ce\u03bd); weak coherence between seed and seed."}
+{"edge_id": 44013, "score": 0.31, "rationale": "Thin link on 'might be charged' (\u1f10\u03ba\u03b6\u03b7\u03c4\u03ad\u03c9); weak coherence between seed and prophecy."}
+{"edge_id": 44264, "score": 0.43, "rationale": "Modest connection on 'streets' (\u1fe5\u03cd\u03bc\u03b7); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 44370, "score": 0.29, "rationale": "Thin link on 'I was sitting' (\u03ba\u03b1\u03b8\u03ad\u03b6\u03bf\u03bc\u03b1\u03b9); weak coherence between seed and seed."}
+{"edge_id": 44517, "score": 0.29, "rationale": "Thin link on 'He might lay' (\u03ba\u03bb\u03af\u03bd\u03c9); weak coherence between seed and seed."}
+{"edge_id": 44541, "score": 0.33, "rationale": "Thin link on 'handmaid' (\u03b4\u03bf\u03cd\u03bb\u03b7); weak coherence between seed and seed."}
+{"edge_id": 44546, "score": 0.35, "rationale": "Thin link on 'handmaid' (\u03b4\u03bf\u03cd\u03bb\u03b7); weak coherence between seed and prophecy."}
+{"edge_id": 44576, "score": 0.41, "rationale": "Modest connection on 'What kind [of man]' (\u03c0\u03bf\u03c4\u03b1\u03c0\u03cc\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 44598, "score": 0.33, "rationale": "Thin link on 'overshadowed' (\u1f10\u03c0\u03b9\u03c3\u03ba\u03b9\u03ac\u03b6\u03c9); weak coherence between seed and seed."}
+{"edge_id": 44603, "score": 0.33, "rationale": "Thin link on 'overshadowed' (\u1f10\u03c0\u03b9\u03c3\u03ba\u03b9\u03ac\u03b6\u03c9); weak coherence between seed and miracle."}
+{"edge_id": 44663, "score": 0.29, "rationale": "Thin link on 'woman' (\u05e2\u05b7\u05dc\u05b0\u05de\u05b8\u05d4); weak coherence between seed and seed."}
+{"edge_id": 44830, "score": 0.33, "rationale": "Thin link on 'very precious' (\u03c0\u03bf\u03bb\u03cd\u03c4\u03b9\u03bc\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 45015, "score": 0.36, "rationale": "Thin link on 'you.will.prune' (\u05d6\u05b8\u05de\u05b7\u05e8); weak coherence between festival and parable."}
+{"edge_id": 45082, "score": 0.31, "rationale": "Thin link on 'trampling.place' (\u05de\u05b4\u05e8\u05b0\u05de\u05b8\u05e1); weak coherence between parable and prophecy."}
+{"edge_id": 45197, "score": 0.33, "rationale": "Thin link on 'to show' (\u1f10\u03c0\u03b9\u03b4\u03b5\u03af\u03ba\u03bd\u03c5\u03bc\u03b9); weak coherence between covenant and prophecy."}
+{"edge_id": 45202, "score": 0.41, "rationale": "Modest connection on 'to show' (\u1f10\u03c0\u03b9\u03b4\u03b5\u03af\u03ba\u03bd\u03c5\u03bc\u03b9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 45207, "score": 0.31, "rationale": "Thin link on 'on high' (\u1f55\u03c8\u03bf\u03c2); weak coherence between seed and prophecy."}
+{"edge_id": 45356, "score": 0.43, "rationale": "Modest connection on 'I take it' (\u1f51\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 45560, "score": 0.33, "rationale": "Thin link on 'joint-heirs' (\u03c3\u03c5\u03b3\u03ba\u03bb\u03b7\u03c1\u03bf\u03bd\u03cc\u03bc\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 45596, "score": 0.39, "rationale": "Thin link on 'a graven thing' (\u03c7\u03ac\u03c1\u03b1\u03b3\u03bc\u03b1); weak coherence between seed and seed."}
+{"edge_id": 45609, "score": 0.29, "rationale": "Thin link on 'inasmuch as' (\u03ba\u03b1\u03b8\u03cc\u03c4\u03b9); weak coherence between seed and seed."}
+{"edge_id": 45634, "score": 0.33, "rationale": "Thin link on 'Touch' (\u03c8\u03b7\u03bb\u03b1\u03c6\u03ac\u03c9); weak coherence between seed and theophany."}
+{"edge_id": 45662, "score": 0.43, "rationale": "Modest connection on 'they were being swamped' (\u03c3\u03c5\u03bc\u03c0\u03bb\u03b7\u03c1\u03cc\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 45668, "score": 0.43, "rationale": "Modest connection on 'they were being swamped' (\u03c3\u03c5\u03bc\u03c0\u03bb\u03b7\u03c1\u03cc\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 45683, "score": 0.51, "rationale": "Modest connection on 'palm trees' (\u03c6\u03bf\u1fd6\u03bd\u03b9\u03be); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 45688, "score": 0.33, "rationale": "Thin link on 'the report' (\u1f26\u03c7\u03bf\u03c2 (I)); weak coherence between seed and theophany."}
+{"edge_id": 45734, "score": 0.36, "rationale": "Thin link on 'Phrygia' (\u03a6\u03c1\u03c5\u03b3\u03af\u03b1); weak coherence between seed and festival."}
+{"edge_id": 45747, "score": 0.39, "rationale": "Thin link on 'robes' (\u03c3\u03c4\u03bf\u03bb\u03ae); weak coherence between seed and parable."}
+{"edge_id": 45764, "score": 0.33, "rationale": "Thin link on 'suddenly' (\u1f04\u03c6\u03bd\u03c9); weak coherence between seed and seed."}
+{"edge_id": 45780, "score": 0.33, "rationale": "Thin link on 'having followed out' (\u1f10\u03be\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03ad\u03c9); weak coherence between seed and theophany."}
+{"edge_id": 46062, "score": 0.31, "rationale": "Thin link on 'in front' (\u03ba\u03b1\u03c4\u03ad\u03bd\u03b1\u03bd\u03c4\u03b9); weak coherence between seed and prophecy."}
+{"edge_id": 46085, "score": 0.39, "rationale": "Thin link on 'being angry with' (\u1f40\u03c1\u03b3\u03af\u03b6\u03c9); weak coherence between seed and parable."}
+{"edge_id": 46090, "score": 0.31, "rationale": "Thin link on 'being angry with' (\u1f40\u03c1\u03b3\u03af\u03b6\u03c9); weak coherence between parable and prophecy."}
+{"edge_id": 46182, "score": 0.29, "rationale": "Thin link on 'traveled abroad' (\u1f00\u03c0\u03bf\u03b4\u03b7\u03bc\u03ad\u03c9); weak coherence between parable and parable."}
+{"edge_id": 46340, "score": 0.29, "rationale": "Thin link on 'you did scatter' (\u03b4\u03b9\u03b1\u03c3\u03ba\u03bf\u03c1\u03c0\u03af\u03b6\u03c9); weak coherence between seed and parable."}
+{"edge_id": 46399, "score": 0.38, "rationale": "Thin link on 'goats' (\u1f14\u03c1\u03b9\u03c6\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 46404, "score": 0.4, "rationale": "Modest connection on 'goats' (\u1f14\u03c1\u03b9\u03c6\u03bf\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 46429, "score": 0.29, "rationale": "Thin link on 'kissed' (\u03ba\u03b1\u03c4\u03b1\u03c6\u03b9\u03bb\u03ad\u03c9); weak coherence between seed and seed."}
+{"edge_id": 46434, "score": 0.29, "rationale": "Thin link on 'kissed' (\u03ba\u03b1\u03c4\u03b1\u03c6\u03b9\u03bb\u03ad\u03c9); weak coherence between parable and parable."}
+{"edge_id": 46737, "score": 0.33, "rationale": "Thin link on 'meek' (\u03c0\u03c1\u03b1\u03b0\u03c2); weak coherence between seed and seed."}
+{"edge_id": 46841, "score": 0.33, "rationale": "Thin link on 'the.head-wraps' (\u05e4\u05bc\u05b0\u05d0\u05b5\u05e8); weak coherence between seed and seed."}
+{"edge_id": 46847, "score": 0.45, "rationale": "Modest connection on 'the.head-wraps' (\u05e4\u05bc\u05b0\u05d0\u05b5\u05e8); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 46856, "score": 0.43, "rationale": "Modest connection on 'He has filled' (\u1f10\u03bc\u03c0\u03af\u03c0\u03bb\u03b7\u03bc\u03b9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 46870, "score": 0.48, "rationale": "Modest connection on 'a priesthood' (\u1f31\u03b5\u03c1\u03ac\u03c4\u03b5\u03c5\u03bc\u03b1); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 47014, "score": 0.39, "rationale": "Thin link on 'will recline' (\u1f00\u03bd\u03b1\u03ba\u03bb\u03af\u03bd\u03c9); weak coherence between seed and miracle."}
+{"edge_id": 47019, "score": 0.31, "rationale": "Thin link on 'will recline' (\u1f00\u03bd\u03b1\u03ba\u03bb\u03af\u03bd\u03c9); weak coherence between parable and prophecy."}
+{"edge_id": 47045, "score": 0.45, "rationale": "Modest connection on 'to register' (\u1f00\u03c0\u03bf\u03b3\u03c1\u03ac\u03c6\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 47051, "score": 0.41, "rationale": "Modest connection on 'firstborn' (\u03c0\u03c1\u03c9\u03c4\u03cc\u03c4\u03bf\u03ba\u03bf\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 47137, "score": 0.43, "rationale": "Modest connection on 'of.Shur' (\u05e9\u05c1\u05d5\u05bc\u05e8); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 47163, "score": 0.39, "rationale": "Thin link on 'they have died' (\u03b8\u03bd\u1fc4\u03c3\u03ba\u03c9); weak coherence between seed and seed."}
+{"edge_id": 47168, "score": 0.33, "rationale": "Thin link on 'going out' (\u1f14\u03be\u03bf\u03b4\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 47217, "score": 0.41, "rationale": "Modest connection on 'will he give' (\u1f10\u03c0\u03b9\u03b4\u03af\u03b4\u03c9\u03bc\u03b9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 47457, "score": 0.29, "rationale": "Thin link on 'imitators' (\u03bc\u03b9\u03bc\u03b7\u03c4\u03ae\u03c2); weak coherence between seed and seed."}
+{"edge_id": 47545, "score": 0.35, "rationale": "Thin link on 'Hallelujah' (\u1f01\u03bb\u03bb\u03b7\u03bb\u03bf\u03c5\u03ca\u03ac); weak coherence between seed and prophecy."}
+{"edge_id": 47551, "score": 0.33, "rationale": "Thin link on 'having been bathed' (\u03bb\u03bf\u03cd\u03c9); weak coherence between seed and miracle."}
+{"edge_id": 47569, "score": 0.49, "rationale": "Modest connection on 'the.bush' (\u05e1\u05b0\u05e0\u05b6\u05d4); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 47637, "score": 0.38, "rationale": "Thin link on 'groans' (\u03c3\u03c4\u03b5\u03bd\u03b1\u03b3\u03bc\u03cc\u03c2); weak coherence between seed and miracle."}
+{"edge_id": 47648, "score": 0.33, "rationale": "Thin link on 'Terrified' (\u1f14\u03bd\u03c4\u03c1\u03bf\u03bc\u03bf\u03c2); weak coherence between miracle and miracle."}
+{"edge_id": 47653, "score": 0.29, "rationale": "Thin link on 'between' (\u03bc\u03b5\u03c4\u03b1\u03be\u03cd); weak coherence between seed and parable."}
+{"edge_id": 47863, "score": 0.33, "rationale": "Thin link on 'full assurance' (\u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1); weak coherence between seed and seed."}
+{"edge_id": 48049, "score": 0.31, "rationale": "Thin link on 'in Hebrew' (\u1f19\u03b2\u03c1\u03b1\u03ca\u03c3\u03c4\u03af); weak coherence between seed and prophecy."}
+{"edge_id": 48171, "score": 0.43, "rationale": "Modest connection on 'Shittim' (\u05e9\u05c1\u05b4\u05d8\u05bc\u05b4\u05d9\u05dd); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 48176, "score": 0.33, "rationale": "Thin link on 'Shittim' (\u05e9\u05c1\u05b4\u05d8\u05bc\u05b4\u05d9\u05dd); weak coherence between seed and seed."}
+{"edge_id": 48182, "score": 0.35, "rationale": "Thin link on 'is present' (\u03c0\u03c1\u03cc\u03ba\u03b5\u03b9\u03bc\u03b1\u03b9); weak coherence between seed and covenant."}
+{"edge_id": 48259, "score": 0.41, "rationale": "Modest connection on 'refined' (\u05d6\u05b8\u05e7\u05b7\u05e7); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 48265, "score": 0.29, "rationale": "Thin link on 'a den' (\u03c3\u03c0\u03ae\u03bb\u03b1\u03b9\u03bf\u03bd); weak coherence between seed and seed."}
+{"edge_id": 48594, "score": 0.29, "rationale": "Thin link on 'it.will.be.drained.out' (\u05de\u05b8\u05e6\u05b8\u05d4); weak coherence between seed and seed."}
+{"edge_id": 48600, "score": 0.29, "rationale": "Thin link on 'it.will.be.drained.out' (\u05de\u05b8\u05e6\u05b8\u05d4); weak coherence between seed and miracle."}
+{"edge_id": 48613, "score": 0.49, "rationale": "Modest connection on 'having gone forward' (\u03c0\u03c1\u03bf\u03ad\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 48652, "score": 0.41, "rationale": "Lexeme-node edge on 'Abba' (\u1f00\u03b2\u03b2\u03ac): one side IS the word, so the typological lift is limited."}
+{"edge_id": 48769, "score": 0.49, "rationale": "Modest connection on 'threshold' (\u05de\u05b4\u05e4\u05b0\u05ea\u05bc\u05b8\u05df); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 48866, "score": 0.29, "rationale": "Thin link on 'an.image' (\u05e6\u05b0\u05dc\u05b5\u05dd); weak coherence between seed and seed."}
+{"edge_id": 48871, "score": 0.29, "rationale": "Thin link on 'an.image' (\u05e6\u05b0\u05dc\u05b5\u05dd); weak coherence between seed and miracle."}
+{"edge_id": 48876, "score": 0.39, "rationale": "Thin link on 'rejected' (\u1f00\u03c0\u03bf\u03b4\u03bf\u03ba\u03b9\u03bc\u03ac\u03b6\u03c9); weak coherence between seed and seed."}
+{"edge_id": 48893, "score": 0.33, "rationale": "Thin link on 'sixty' (\u05e9\u05c1\u05b4\u05ea\u05bc\u05b4\u05d9\u05df); weak coherence between seed and miracle."}
+{"edge_id": 49024, "score": 0.35, "rationale": "Thin link on 'it has obtained' (\u1f10\u03c0\u03b9\u03c4\u03c5\u03b3\u03c7\u03ac\u03bd\u03c9); weak coherence between seed and covenant."}
+{"edge_id": 49029, "score": 0.36, "rationale": "Thin link on 'two' (\u05ea\u05bc\u05b0\u05e8\u05b5\u05d9\u05df); weak coherence between seed and festival."}
+{"edge_id": 49052, "score": 0.29, "rationale": "Thin link on 'of the lion' (\u03bb\u03ad\u03c9\u03bd); weak coherence between seed and miracle."}
+{"edge_id": 49086, "score": 0.39, "rationale": "Thin link on 'of Psalms' (\u03c8\u03b1\u03bb\u03bc\u03cc\u03c2); weak coherence between seed and seed."}
+{"edge_id": 49092, "score": 0.29, "rationale": "Thin link on 'behind [Him]' (\u1f44\u03c0\u03b9\u03c3\u03b8\u03b5\u03bd); weak coherence between seed and seed."}
+{"edge_id": 49097, "score": 0.29, "rationale": "Thin link on 'behind [Him]' (\u1f44\u03c0\u03b9\u03c3\u03b8\u03b5\u03bd); weak coherence between seed and miracle."}
+{"edge_id": 49156, "score": 0.29, "rationale": "Thin link on 'finger' (\u03b4\u03ac\u03ba\u03c4\u03c5\u03bb\u03bf\u03c2); weak coherence between seed and parable."}
+{"edge_id": 49180, "score": 0.39, "rationale": "Thin link on 'they stoned' (\u03bb\u03b9\u03b8\u03bf\u03b2\u03bf\u03bb\u03ad\u03c9); weak coherence between seed and seed."}
+{"edge_id": 49185, "score": 0.29, "rationale": "Thin link on 'they stoned' (\u03bb\u03b9\u03b8\u03bf\u03b2\u03bf\u03bb\u03ad\u03c9); weak coherence between seed and parable."}
+{"edge_id": 49190, "score": 0.35, "rationale": "Thin link on 'blameless' (\u1f04\u03bc\u03b5\u03bc\u03c0\u03c4\u03bf\u03c2); weak coherence between seed and covenant."}
+{"edge_id": 49195, "score": 0.46, "rationale": "Modest connection on 'crooked' (\u03c3\u03ba\u03bf\u03bb\u03b9\u03cc\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 49247, "score": 0.35, "rationale": "Thin link on 'surpassing [it]' (\u1f51\u03c0\u03b5\u03c1\u03b2\u03ac\u03bb\u03bb\u03c9); weak coherence between seed and covenant."}
+{"edge_id": 49312, "score": 0.31, "rationale": "Thin link on 'were reclining with' (\u03c3\u03c5\u03bd\u03b1\u03bd\u03ac\u03ba\u03b5\u03b9\u03bc\u03b1\u03b9); weak coherence between seed and prophecy."}
+{"edge_id": 49326, "score": 0.35, "rationale": "Thin link on 'a fence' (\u03c6\u03c1\u03b1\u03b3\u03bc\u03cc\u03c2); weak coherence between seed and prophecy."}
+{"edge_id": 49332, "score": 0.37, "rationale": "Thin link on 'a fence' (\u03c6\u03c1\u03b1\u03b3\u03bc\u03cc\u03c2); weak coherence between covenant and prophecy."}
+{"edge_id": 49345, "score": 0.43, "rationale": "Modest connection on 'of.seeing' (\u05e8\u05b3\u05d0\u05b4\u05d9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 49424, "score": 0.29, "rationale": "Thin link on 'Avenge' (\u1f10\u03ba\u03b4\u03b9\u03ba\u03ad\u03c9); weak coherence between seed and parable."}
+{"edge_id": 49487, "score": 0.49, "rationale": "Modest connection on 'male' (\u1f04\u03c1\u03c3\u03b7\u03bd); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 49492, "score": 0.48, "rationale": "Modest connection on 'will count blessed' (\u03bc\u03b1\u03ba\u03b1\u03c1\u03af\u03b6\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 49509, "score": 0.31, "rationale": "Thin link on 'humble' (\u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u03cc\u03c2); weak coherence between seed and covenant."}
+{"edge_id": 49518, "score": 0.29, "rationale": "Thin link on '[was].an.only.[child]' (\u05d9\u05b8\u05d7\u05b4\u05d9\u05d3); weak coherence between seed and seed."}
+{"edge_id": 49615, "score": 0.29, "rationale": "Thin link on 'within' (\u1f14\u03c3\u03c9); weak coherence between seed and seed."}
+{"edge_id": 49620, "score": 0.29, "rationale": "Thin link on 'within' (\u1f14\u03c3\u03c9); weak coherence between seed and seed."}
+{"edge_id": 49717, "score": 0.38, "rationale": "Thin link on 'light' (\u1f10\u03bb\u03b1\u03c6\u03c1\u03cc\u03c2); weak coherence between seed and seed."}
+{"edge_id": 49722, "score": 0.41, "rationale": "Modest connection on 'light' (\u1f10\u03bb\u03b1\u03c6\u03c1\u03cc\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 49727, "score": 0.29, "rationale": "Thin link on 'burden' (\u03b2\u03ac\u03c1\u03bf\u03c2); weak coherence between seed and parable."}
+{"edge_id": 49812, "score": 0.31, "rationale": "Thin link on 'you shall turn away from' (\u1f00\u03c0\u03bf\u03c3\u03c4\u03c1\u03ad\u03c6\u03c9); weak coherence between seed and covenant."}
+{"edge_id": 49825, "score": 0.31, "rationale": "Thin link on 'to escape' (\u1f10\u03ba\u03c6\u03b5\u03cd\u03b3\u03c9); weak coherence between covenant and miracle."}
+{"edge_id": 49832, "score": 0.33, "rationale": "Thin link on '[is].wrapped' (\u05dc\u05d5\u05bc\u05d8); weak coherence between seed and theophany."}
+{"edge_id": 49919, "score": 0.43, "rationale": "Modest connection on 'of.a.whisper' (\u05d3\u05bc\u05b0\u05de\u05b8\u05de\u05b8\u05d4); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 49924, "score": 0.33, "rationale": "Thin link on 'rains' (\u1f51\u03b5\u03c4\u03cc\u03c2); weak coherence between seed and seed."}
+{"edge_id": 49929, "score": 0.35, "rationale": "Thin link on 'rains' (\u1f51\u03b5\u03c4\u03cc\u03c2); weak coherence between seed and prophecy."}
+{"edge_id": 49934, "score": 0.31, "rationale": "Thin link on 'three.years.old' (\u05e9\u05c1\u05b8\u05dc\u05b7\u05e9\u05c1); weak coherence between seed and covenant."}
+{"edge_id": 49958, "score": 0.29, "rationale": "Thin link on 'backwards' (\u05d0\u05b2\u05d7\u05b9\u05e8\u05b7\u05e0\u05bc\u05b4\u05d9\u05ea); weak coherence between seed and miracle."}
+{"edge_id": 50064, "score": 0.35, "rationale": "Thin link on 'a change' (\u03bc\u03b5\u03c4\u03ac\u03b8\u03b5\u03c3\u03b9\u03c2); weak coherence between seed and covenant."}
+{"edge_id": 50069, "score": 0.36, "rationale": "Thin link on 'meet' (\u1f00\u03c0\u03ac\u03bd\u03c4\u03b7\u03c3\u03b9\u03c2); weak coherence between seed and festival."}
+{"edge_id": 50074, "score": 0.33, "rationale": "Thin link on 'meet' (\u1f00\u03c0\u03ac\u03bd\u03c4\u03b7\u03c3\u03b9\u03c2); weak coherence between parable and theophany."}
+{"edge_id": 50079, "score": 0.36, "rationale": "Lexeme-node edge on 'remaining' (\u03c0\u03b5\u03c1\u03b9\u03bb\u03b5\u03af\u03c0\u03bf\u03bc\u03b1\u03b9): one side IS the word, so the typological lift is limited."}
+{"edge_id": 50138, "score": 0.29, "rationale": "Thin link on 'well-pleasing' (\u03b5\u1f50\u03b4\u03bf\u03ba\u03af\u03b1); weak coherence between seed and theophany."}
+{"edge_id": 50187, "score": 0.29, "rationale": "Thin link on 'Blessed [One]' (\u03b5\u1f50\u03bb\u03bf\u03b3\u03b7\u03c4\u03cc\u03c2); weak coherence between seed and seed."}
+{"edge_id": 50194, "score": 0.39, "rationale": "Thin link on 'had determined beforehand' (\u03c0\u03c1\u03bf\u03bf\u03c1\u03af\u03b6\u03c9); weak coherence between seed and seed."}
+{"edge_id": 50232, "score": 0.27, "rationale": "Lexeme-node edge on 'enmity' (\u1f14\u03c7\u03b8\u03c1\u03b1): one side IS the word, so the typological lift is limited."}
+{"edge_id": 50240, "score": 0.29, "rationale": "Thin link on 'He will quench' (\u03c3\u03b2\u03ad\u03bd\u03bd\u03c5\u03bc\u03b9); weak coherence between seed and seed."}
+{"edge_id": 50246, "score": 0.42, "rationale": "Modest connection on 'He will quench' (\u03c3\u03b2\u03ad\u03bd\u03bd\u03c5\u03bc\u03b9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 50251, "score": 0.43, "rationale": "Modest connection on 'salvation' (\u03c3\u03c9\u03c4\u03ae\u03c1\u03b9\u03bf\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 50259, "score": 0.31, "rationale": "Thin link on 'to burn with passion' (\u03c0\u03c5\u03c1\u03cc\u03c9); weak coherence between seed and covenant."}
+{"edge_id": 50278, "score": 0.29, "rationale": "Thin link on 'waist' (\u1f40\u03c3\u03c6\u1fe6\u03c2); weak coherence between seed and parable."}
+{"edge_id": 50289, "score": 0.29, "rationale": "Thin link on 'lamps' (\u03bb\u03b1\u03bc\u03c0\u03ac\u03c2); weak coherence between seed and parable."}
+{"edge_id": 50295, "score": 0.29, "rationale": "Thin link on 'lamps' (\u03bb\u03b1\u03bc\u03c0\u03ac\u03c2); weak coherence between seed and parable."}
+{"edge_id": 50301, "score": 0.33, "rationale": "Thin link on 'at midnight' (\u03bc\u03b5\u03c3\u03bf\u03bd\u03cd\u03ba\u03c4\u03b9\u03bf\u03bd); weak coherence between seed and miracle."}
+{"edge_id": 50306, "score": 0.33, "rationale": "Thin link on 'very early' (\u03b2\u03b1\u03b8\u03cd\u03c2); weak coherence between seed and theophany."}
+{"edge_id": 50311, "score": 0.33, "rationale": "Thin link on 'making a commotion' (\u03b8\u03bf\u03c1\u03c5\u03b2\u03ad\u03c9); weak coherence between seed and miracle."}
+{"edge_id": 50326, "score": 0.35, "rationale": "Thin link on 'wings' (\u03c0\u03c4\u03ad\u03c1\u03c5\u03be); weak coherence between seed and prophecy."}
+{"edge_id": 50363, "score": 0.45, "rationale": "Modest connection on 'rest' (\u1f00\u03bd\u03ac\u03c0\u03b1\u03c5\u03c3\u03b9\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 50377, "score": 0.35, "rationale": "Thin link on 'flying' (\u03c0\u03ad\u03c4\u03bf\u03bc\u03b1\u03b9); weak coherence between seed and covenant."}
+{"edge_id": 50415, "score": 0.33, "rationale": "Thin link on 'wearied' (\u03c3\u03ba\u03cd\u03bb\u03bb\u03c9); weak coherence between seed and miracle."}
+{"edge_id": 50471, "score": 0.49, "rationale": "Modest connection on 'cast away' (\u1fe5\u03af\u03c0\u03c4\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 50567, "score": 0.35, "rationale": "Thin link on 'fleshly' (\u03c3\u03ac\u03c1\u03ba\u03b9\u03bd\u03bf\u03c2); weak coherence between seed and covenant."}
+{"edge_id": 50573, "score": 0.37, "rationale": "Thin link on 'fleshly' (\u03c3\u03ac\u03c1\u03ba\u03b9\u03bd\u03bf\u03c2); weak coherence between covenant and prophecy."}
+{"edge_id": 50630, "score": 0.29, "rationale": "Thin link on 'firstfruit' (\u1f00\u03c0\u03b1\u03c1\u03c7\u03ae); weak coherence between seed and seed."}
+{"edge_id": 50954, "score": 0.29, "rationale": "Thin link on 'were cured' (\u03b4\u03b9\u03b1\u03c3\u1ff4\u03b6\u03c9); weak coherence between seed and miracle."}
+{"edge_id": 50959, "score": 0.41, "rationale": "Modest connection on 'to be accomplished' (\u03c3\u03c5\u03bd\u03c4\u03b5\u03bb\u03ad\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 51109, "score": 0.35, "rationale": "Thin link on 'to continue' (\u1f10\u03bc\u03bc\u03ad\u03bd\u03c9); weak coherence between seed and covenant."}
+{"edge_id": 51115, "score": 0.35, "rationale": "Thin link on 'away' (\u03b4\u1fc6\u03bb\u03bf\u03c2); weak coherence between seed and prophecy."}
+{"edge_id": 51120, "score": 0.35, "rationale": "Thin link on 'away' (\u03b4\u1fc6\u03bb\u03bf\u03c2); weak coherence between seed and covenant."}
+{"edge_id": 51131, "score": 0.43, "rationale": "Modest connection on 'mingled' (\u03bc\u03af\u03b3\u03bd\u03c5\u03bc\u03b9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 51136, "score": 0.31, "rationale": "Thin link on 'placed around' (\u03c0\u03b5\u03c1\u03b9\u03c4\u03af\u03b8\u03b7\u03bc\u03b9); weak coherence between seed and prophecy."}
+{"edge_id": 51228, "score": 0.36, "rationale": "Thin link on 'music' (\u05d6\u05b4\u05de\u05b0\u05e8\u05b8\u05d4); weak coherence between seed and festival."}
+{"edge_id": 51330, "score": 0.39, "rationale": "Thin link on 'keys' (\u03ba\u03bb\u03b5\u03af\u03c2); weak coherence between seed and seed."}
+{"edge_id": 51338, "score": 0.33, "rationale": "Thin link on 'two-edged' (\u03b4\u03af\u03c3\u03c4\u03bf\u03bc\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 51343, "score": 0.33, "rationale": "Thin link on 'two-edged' (\u03b4\u03af\u03c3\u03c4\u03bf\u03bc\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 51352, "score": 0.43, "rationale": "Modest connection on 'a sword' (\u1fe5\u03bf\u03bc\u03c6\u03b1\u03af\u03b1); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 51357, "score": 0.53, "rationale": "Modest connection on 'having been discipled' (\u03bc\u03b1\u03b8\u03b7\u03c4\u03b5\u03cd\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 51362, "score": 0.48, "rationale": "Modest connection on 'did you doubt' (\u03b4\u03b9\u03c3\u03c4\u03ac\u03b6\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 51410, "score": 0.45, "rationale": "Modest connection on 'being encircled' (\u03ba\u03c5\u03ba\u03bb\u03cc\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 51418, "score": 0.55, "rationale": "Plausible echo on 'beautiful' (\u1f61\u03c1\u03b1\u1fd6\u03bf\u03c2); meaningful thematic overlap between seed and seed worth surfacing."}
+{"edge_id": 51428, "score": 0.29, "rationale": "Thin link on 'praising' (\u03b1\u1f30\u03bd\u03ad\u03c9); weak coherence between seed and theophany."}
+{"edge_id": 51482, "score": 0.31, "rationale": "Thin link on 'a.fatling' (\u05de\u05b0\u05e8\u05b4\u05d9\u05d0); weak coherence between seed and prophecy."}
+{"edge_id": 51499, "score": 0.29, "rationale": "Thin link on 'shame' (\u03b1\u1f30\u03c3\u03c7\u03cd\u03bd\u03b7); weak coherence between seed and seed."}
+{"edge_id": 51531, "score": 0.41, "rationale": "Modest connection on 'of Zion' (\u03a3\u03b9\u03ce\u03bd); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 51536, "score": 0.48, "rationale": "Modest connection on 'terrified' (\u1f14\u03ba\u03c6\u03bf\u03b2\u03bf\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 51647, "score": 0.29, "rationale": "Thin link on 'Holy One' (\u1f45\u03c3\u03b9\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 51653, "score": 0.33, "rationale": "Thin link on 'undefiled' (\u1f00\u03bc\u03af\u03b1\u03bd\u03c4\u03bf\u03c2); weak coherence between seed and seed."}
+{"edge_id": 51662, "score": 0.35, "rationale": "Thin link on 'having paid no attention' (\u1f00\u03bc\u03b5\u03bb\u03ad\u03c9); weak coherence between covenant and parable."}
+{"edge_id": 51668, "score": 0.23, "rationale": "Lexeme-node edge on 'having paid no attention' (\u1f00\u03bc\u03b5\u03bb\u03ad\u03c9): one side IS the word, so the typological lift is limited."}
+{"edge_id": 51675, "score": 0.5, "rationale": "Modest connection on 'does He find fault' (\u03bc\u03ad\u03bc\u03c6\u03bf\u03bc\u03b1\u03b9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 51821, "score": 0.33, "rationale": "Thin link on 'of.papyrus' (\u05d2\u05bc\u05b9\u05de\u05b6\u05d0); weak coherence between seed and seed."}
+{"edge_id": 51840, "score": 0.38, "rationale": "Thin link on '[place]' (\u05e2\u05b8\u05e7\u05b9\u05d1); weak coherence between seed and seed."}
+{"edge_id": 51926, "score": 0.29, "rationale": "Thin link on 'they spat' (\u1f10\u03bc\u03c0\u03c4\u03cd\u03c9); weak coherence between seed and seed."}
+{"edge_id": 51943, "score": 0.31, "rationale": "Thin link on 'feeds' (\u03c4\u03c1\u03ad\u03c6\u03c9); weak coherence between seed and prophecy."}
+{"edge_id": 51954, "score": 0.63, "rationale": "Lexeme link to 'He has anointed' (\u03c7\u03c1\u03af\u03c9): the non-lexeme unit substantively engages this word's theology."}
+{"edge_id": 51964, "score": 0.29, "rationale": "Thin link on 'has dawned' (\u1f00\u03bd\u03b1\u03c4\u03ad\u03bb\u03bb\u03c9); weak coherence between seed and seed."}
+{"edge_id": 51970, "score": 0.31, "rationale": "Thin link on 'has dawned' (\u1f00\u03bd\u03b1\u03c4\u03ad\u03bb\u03bb\u03c9); weak coherence between covenant and parable."}
+{"edge_id": 52020, "score": 0.29, "rationale": "Thin link on 'marvelous' (\u03b8\u03b1\u03c5\u03bc\u03b1\u03c3\u03c4\u03cc\u03c2); weak coherence between seed and seed."}
+{"edge_id": 52026, "score": 0.29, "rationale": "Thin link on 'marvelous' (\u03b8\u03b1\u03c5\u03bc\u03b1\u03c3\u03c4\u03cc\u03c2); weak coherence between seed and seed."}
+{"edge_id": 52086, "score": 0.43, "rationale": "Modest connection on 'a vow' (\u03b5\u1f50\u03c7\u03ae); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 52152, "score": 0.33, "rationale": "Thin link on 'I may eat' (\u03b4\u03b5\u03b9\u03c0\u03bd\u03ad\u03c9); weak coherence between seed and seed."}
+{"edge_id": 52160, "score": 0.35, "rationale": "Thin link on 'I may eat' (\u03b4\u03b5\u03b9\u03c0\u03bd\u03ad\u03c9); weak coherence between parable and prophecy."}
+{"edge_id": 52204, "score": 0.38, "rationale": "Thin link on 'stones' (\u05d0\u05b9\u05d1\u05b6\u05df); weak coherence between seed and seed."}
+{"edge_id": 52210, "score": 0.32, "rationale": "Thin link on 'yoke' (\u03b6\u03c5\u03b3\u03cc\u03c2); weak coherence between seed and festival."}
+{"edge_id": 52218, "score": 0.39, "rationale": "Thin link on 'Jericho' (\u1f38\u03b5\u03c1\u03b9\u03c7\u03ce); weak coherence between seed and miracle."}
+{"edge_id": 52313, "score": 0.33, "rationale": "Thin link on 'Jeremiah' (\u1f38\u03b5\u03c1\u03b5\u03bc\u03af\u03b1\u03c2); weak coherence between seed and seed."}
+{"edge_id": 52336, "score": 0.21, "rationale": "Lexeme-node edge on 'compassions' (\u03bf\u1f30\u03ba\u03c4\u03b9\u03c1\u03bc\u03cc\u03c2): one side IS the word, so the typological lift is limited."}
+{"edge_id": 52341, "score": 0.35, "rationale": "Thin link on 'of visitation' (\u1f10\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03ae); weak coherence between seed and prophecy."}
+{"edge_id": 52356, "score": 0.36, "rationale": "Thin link on 'which' (\u1f45\u03c3\u03c4\u03b9\u03c2); weak coherence between festival and parable."}
+{"edge_id": 52362, "score": 0.32, "rationale": "Thin link on 'spread' (\u03c3\u03c4\u03c1\u03c9\u03bd\u03bd\u03cd\u03c9); weak coherence between festival and miracle."}
+{"edge_id": 52369, "score": 0.35, "rationale": "Thin link on 'commanded' (\u03c3\u03c5\u03bd\u03c4\u03ac\u03c3\u03c3\u03c9); weak coherence between seed and prophecy."}
+{"edge_id": 52385, "score": 0.29, "rationale": "Thin link on 'murders' (\u03c6\u03cc\u03bd\u03bf\u03c2); weak coherence between seed and theophany."}
+{"edge_id": 52390, "score": 0.5, "rationale": "Modest connection on 'shame' (\u1f00\u03c3\u03c7\u03b7\u03bc\u03bf\u03c3\u03cd\u03bd\u03b7); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 52441, "score": 0.29, "rationale": "Thin link on 'gold' (\u05db\u05bc\u05b6\u05ea\u05b6\u05dd); weak coherence between seed and seed."}
+{"edge_id": 52452, "score": 0.33, "rationale": "Thin link on 'having risen up' (\u1f00\u03bd\u03b1\u03c0\u03b7\u03b4\u03ac\u03c9); weak coherence between seed and miracle."}
+{"edge_id": 52470, "score": 0.29, "rationale": "Thin link on 'diseases' (\u03bc\u03ac\u03c3\u03c4\u03b9\u03be); weak coherence between seed and miracle."}
+{"edge_id": 52488, "score": 0.29, "rationale": "Thin link on 'lap' (\u03ba\u03cc\u03bb\u03c0\u03bf\u03c2); weak coherence between seed and parable."}
+{"edge_id": 52500, "score": 0.17, "rationale": "Lexeme-node edge on 'loses' (\u03b6\u03b7\u03bc\u03b9\u03cc\u03c9): one side IS the word, so the typological lift is limited."}
+{"edge_id": 52505, "score": 0.53, "rationale": "Modest connection on 'Esau' (\u1f28\u03c3\u03b1\u1fe6); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 52510, "score": 0.21, "rationale": "Lexeme-node edge on 'inferior' (\u1f10\u03bb\u03ac\u03c3\u03c3\u03c9\u03bd): one side IS the word, so the typological lift is limited."}
+{"edge_id": 52561, "score": 0.29, "rationale": "Thin link on 'weeping' (\u03ba\u03bb\u03b1\u03c5\u03b8\u03bc\u03cc\u03c2); weak coherence between miracle and parable."}
+{"edge_id": 52571, "score": 0.35, "rationale": "Thin link on 'born' (\u05d9\u05b4\u05dc\u05bc\u05d5\u05b9\u05d3); weak coherence between covenant and parable."}
+{"edge_id": 52580, "score": 0.43, "rationale": "Modest connection on 'a winepress' (\u03bb\u03b7\u03bd\u03cc\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 52587, "score": 0.29, "rationale": "Thin link on 'They will respect' (\u1f10\u03bd\u03c4\u03c1\u03ad\u03c0\u03c9); weak coherence between parable and parable."}
+{"edge_id": 52603, "score": 0.58, "rationale": "Plausible echo on 'five hundred' (\u03c0\u03b5\u03bd\u03c4\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9); meaningful thematic overlap between parable and theophany worth surfacing."}
+{"edge_id": 52664, "score": 0.35, "rationale": "Thin link on 'royal crowns' (\u03b4\u03b9\u03ac\u03b4\u03b7\u03bc\u03b1); weak coherence between seed and prophecy."}
+{"edge_id": 52672, "score": 0.38, "rationale": "Thin link on 'thigh' (\u03bc\u03b7\u03c1\u03cc\u03c2); weak coherence between seed and office."}
+{"edge_id": 52747, "score": 0.33, "rationale": "Thin link on 'perch' (\u03ba\u03b1\u03c4\u03b1\u03c3\u03ba\u03b7\u03bd\u03cc\u03c9); weak coherence between seed and parable."}
+{"edge_id": 52760, "score": 0.48, "rationale": "Modest connection on '[the] south' (\u03bc\u03b5\u03c3\u03b7\u03bc\u03b2\u03c1\u03af\u03b1); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 52847, "score": 0.29, "rationale": "Thin link on 'quickness' (\u03c4\u03ac\u03c7\u03bf\u03c2); weak coherence between seed and parable."}
+{"edge_id": 52903, "score": 0.35, "rationale": "Thin link on 'sucklings' (\u03b8\u03b7\u03bb\u03ac\u03b6\u03c9); weak coherence between seed and prophecy."}
+{"edge_id": 52927, "score": 0.31, "rationale": "Thin link on 'to be hidden' (\u03bb\u03b1\u03bd\u03b8\u03ac\u03bd\u03c9); weak coherence between seed and covenant."}
+{"edge_id": 52954, "score": 0.29, "rationale": "Thin link on 'tombs' (\u03c4\u03ac\u03c6\u03bf\u03c2); weak coherence between seed and theophany."}
+{"edge_id": 52980, "score": 0.35, "rationale": "Thin link on 'sackcloth' (\u03c3\u03ac\u03ba\u03ba\u03bf\u03c2); weak coherence between prophecy and prophecy."}
+{"edge_id": 52985, "score": 0.35, "rationale": "Thin link on 'sackcloth' (\u03c3\u03ac\u03ba\u03ba\u03bf\u03c2); weak coherence between prophecy and prophecy."}
+{"edge_id": 52995, "score": 0.39, "rationale": "Thin link on 'sixty' (\u1f11\u03be\u03ae\u03ba\u03bf\u03bd\u03c4\u03b1); weak coherence between seed and parable."}
+{"edge_id": 53000, "score": 0.48, "rationale": "Modest connection on 'as often as' (\u1f41\u03c3\u03ac\u03ba\u03b9\u03c2); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 53047, "score": 0.43, "rationale": "Modest connection on 'it is defiled' (\u03bc\u03bf\u03bb\u03cd\u03bd\u03c9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 53104, "score": 0.33, "rationale": "Thin link on 'having struck' (\u03c0\u03b1\u03af\u03c9); weak coherence between seed and seed."}
+{"edge_id": 53116, "score": 0.35, "rationale": "Thin link on 'will be led captive' (\u03b1\u1f30\u03c7\u03bc\u03b1\u03bb\u03c9\u03c4\u03af\u03b6\u03c9); weak coherence between seed and prophecy."}
+{"edge_id": 53137, "score": 0.31, "rationale": "Lexeme-node edge on 'was guarding' (\u03c6\u03c1\u03bf\u03c5\u03c1\u03ad\u03c9): one side IS the word, so the typological lift is limited."}
+{"edge_id": 53152, "score": 0.31, "rationale": "Thin link on 'appearing' (\u1f10\u03c0\u03b9\u03c6\u03ac\u03bd\u03b5\u03b9\u03b1); weak coherence between prophecy and office."}
+{"edge_id": 53157, "score": 0.48, "rationale": "Modest connection on 'returning' (\u1f10\u03c0\u03b1\u03bd\u03ad\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 53190, "score": 0.31, "rationale": "Thin link on 'winter' (\u05d7\u05b9\u05e8\u05b6\u05e3); weak coherence between seed and covenant."}
+{"edge_id": 53224, "score": 0.41, "rationale": "Lexeme-node edge on 'He was transfigured' (\u03bc\u03b5\u03c4\u03b1\u03bc\u03bf\u03c1\u03c6\u03cc\u03c9): one side IS the word, so the typological lift is limited."}
+{"edge_id": 53260, "score": 0.63, "rationale": "Plausible echo on 'gathering together' (\u1f10\u03c0\u03b9\u03c3\u03c5\u03bd\u03b1\u03b3\u03c9\u03b3\u03ae); meaningful thematic overlap between festival and prophecy worth surfacing."}
+{"edge_id": 53270, "score": 0.43, "rationale": "Modest connection on 'nine' (\u1f10\u03bd\u03bd\u03ad\u03b1); partial thematic coherence \u2014 possibly incidental."}
+{"edge_id": 53275, "score": 0.29, "rationale": "Thin link on 'having taken leave of' (\u1f00\u03c0\u03bf\u03c4\u03ac\u03c3\u03c3\u03c9); weak coherence between miracle and office."}
+{"edge_id": 53280, "score": 0.49, "rationale": "Modest connection on 'shore' (\u03b1\u1f30\u03b3\u03b9\u03b1\u03bb\u03cc\u03c2); partial thematic coherence \u2014 possibly incidental."}
