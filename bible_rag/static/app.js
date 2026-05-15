@@ -171,6 +171,7 @@ async function loadDetail(slug) {
             </div>
         </div>
         <div class="body">${marked.parse(r.body_md || '')}</div>
+        ${theographicSection(r.theographic)}
         ${neighborSection('Connects to', r.neighbors_out)}
         ${neighborSection('Referenced by', r.neighbors_in)}
     `;
@@ -182,6 +183,24 @@ async function loadDetail(slug) {
             loadDetail(s);
         });
     });
+}
+
+function theographicSection(t) {
+    if (!t) return '';
+    const rows = [];
+    if (t.birth) rows.push(['Born', t.birth + (t.birth_place ? ` · ${t.birth_place.name}` : '')]);
+    if (t.death) rows.push(['Died', t.death + (t.death_place ? ` · ${t.death_place.name}` : '')]);
+    if (t.father) rows.push(['Father', t.father]);
+    if (t.mother) rows.push(['Mother', t.mother]);
+    if (t.gender) rows.push(['Gender', t.gender]);
+    if (!rows.length) return '';
+    return `
+        <div class="theographic">
+            <h3>Biographical (Theographic)</h3>
+            <dl>${rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>
+            ${t.summary ? `<details class="theo-summary"><summary>Easton's summary</summary>${marked.parse(t.summary)}</details>` : ''}
+        </div>
+    `;
 }
 
 function neighborSection(label, items) {

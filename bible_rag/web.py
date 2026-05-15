@@ -23,19 +23,25 @@ STATIC_DIR = Path(__file__).parent / "static"
 
 # ----- API endpoints -----
 @app.get("/api/graph")
-def graph() -> dict:
-    """Return the full graph as Cytoscape.js elements."""
+def graph(include_lexeme: bool = False) -> dict:
+    """Return the full graph as Cytoscape.js elements.
+
+    `shares_lexeme` edges (50k+) are excluded by default — the viz can't render
+    them legibly. Pass `?include_lexeme=true` to include them.
+    """
     conn = connect()
     units = conn.execute(
         "SELECT id, slug, type, title, status, confidence FROM unit"
     ).fetchall()
+    where = "" if include_lexeme else "WHERE c.type != 'shares_lexeme'"
     edges = conn.execute(
-        """
+        f"""
         SELECT c.from_unit, c.to_unit, c.type, c.confidence,
                u1.slug AS from_slug, u2.slug AS to_slug
         FROM connection c
         JOIN unit u1 ON u1.id = c.from_unit
         JOIN unit u2 ON u2.id = c.to_unit
+        {where}
         """
     ).fetchall()
     conn.close()
@@ -56,9 +62,11 @@ def graph() -> dict:
 
 @app.get("/api/unit/{slug:path}")
 def unit_detail(slug: str) -> dict:
+    import json as _json
     conn = connect()
     row = conn.execute(
-        "SELECT slug, type, title, status, confidence, body_md FROM unit WHERE slug = ?",
+        "SELECT slug, type, title, status, confidence, body_md, frontmatter "
+        "FROM unit WHERE slug = ?",
         (slug,),
     ).fetchone()
     if not row:
@@ -66,10 +74,17 @@ def unit_detail(slug: str) -> dict:
     neighbors_out = Q.neighbors(conn, slug, direction="out")
     neighbors_in = Q.neighbors(conn, slug, direction="in")
     conn.close()
+    theographic = None
+    try:
+        fm = _json.loads(row["frontmatter"]) if row["frontmatter"] else {}
+        theographic = fm.get("theographic")
+    except _json.JSONDecodeError:
+        pass
     return {
         "slug": row["slug"], "type": row["type"], "title": row["title"],
         "status": row["status"], "confidence": row["confidence"],
         "body_md": row["body_md"],
+        "theographic": theographic,
         "neighbors_out": [
             {"slug": n["slug"], "title": n["title"], "type": n["type"],
              "edge_type": n["edge_type"]}
