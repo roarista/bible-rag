@@ -2,9 +2,14 @@
 // Auto-layout, vibrant colors, smooth WebGL rendering.
 
 const COLORS = {
-    seed:   '#a78bfa',
-    symbol: '#2dd4bf',
-    motif:  '#fb923c',
+    seed:      '#a78bfa',
+    symbol:    '#2dd4bf',
+    motif:     '#fb923c',
+    person:    '#f472b6',
+    place:     '#facc15',
+    number:    '#38bdf8',
+    title:     '#4ade80',
+    structure: '#c084fc',
 };
 
 const EDGE_COLOR_DEFAULT = 'rgba(120, 130, 170, 0.18)';

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Bible RAG — 3D Meaning Graph</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/static/3d.css" />
+</head>
+<body>
+  <canvas id="starfield"></canvas>
+  <div id="graph"></div>
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-dot"></span>
+      <span class="brand-name">Bible RAG</span>
+      <span class="brand-sep">/</span>
+      <span class="brand-mode">3D Meaning Graph</span>
+    </div>
+
+    <div class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="search-icon"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="search-input" type="text" placeholder="Search seeds, motifs, people, places…" autocomplete="off" />
+      <div id="search-results" class="search-results" hidden></div>
+    </div>
+
+    <div class="controls">
+      <button id="btn-reset" class="ctrl-btn" title="Reset camera">Reset view</button>
+      <button id="btn-rotate" class="ctrl-btn" title="Toggle auto-rotate">Pause rotation</button>
+    </div>
+  </header>
+
+  <aside id="sidebar" class="sidebar" aria-hidden="true">
+    <button id="sidebar-close" class="sidebar-close" aria-label="Close">&times;</button>
+    <div id="sidebar-content"></div>
+  </aside>
+
+  <div id="hover-label" class="hover-label" hidden></div>
+
+  <footer class="legend">
+    <span class="legend-item"><i style="background:#a78bfa"></i>seed</span>
+    <span class="legend-item"><i style="background:#2dd4bf"></i>symbol</span>
+    <span class="legend-item"><i style="background:#fb923c"></i>motif</span>
+    <span class="legend-item"><i style="background:#f472b6"></i>person</span>
+    <span class="legend-item"><i style="background:#facc15"></i>place</span>
+    <span class="legend-item"><i style="background:#38bdf8"></i>number</span>
+    <span class="legend-item"><i style="background:#4ade80"></i>title</span>
+    <span class="legend-item"><i style="background:#c084fc"></i>structure</span>
+  </footer>
+
+  <div id="loader" class="loader">
+    <div class="loader-ring"></div>
+    <div class="loader-text">Weaving the graph…</div>
+  </div>
+
+  <!-- Three.js and 3d-force-graph (UMD) -->
+  <script src="https://unpkg.com/three@0.149.0/build/three.min.js"></script>
+  <script src="https://unpkg.com/three@0.149.0/examples/js/postprocessing/EffectComposer.js"></script>
+  <script src="https://unpkg.com/three@0.149.0/examples/js/postprocessing/RenderPass.js"></script>
+  <script src="https://unpkg.com/three@0.149.0/examples/js/postprocessing/ShaderPass.js"></script>
+  <script src="https://unpkg.com/three@0.149.0/examples/js/postprocessing/UnrealBloomPass.js"></script>
+  <script src="https://unpkg.com/three@0.149.0/examples/js/shaders/CopyShader.js"></script>
+  <script src="https://unpkg.com/three@0.149.0/examples/js/shaders/LuminosityHighPassShader.js"></script>
+  <script src="https://unpkg.com/3d-force-graph@1.73.4/dist/3d-force-graph.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@13.0.0/marked.min.js"></script>
+  <script src="/static/3d.js"></script>
+</body>
+</html>

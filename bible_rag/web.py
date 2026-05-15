@@ -121,6 +121,12 @@ def index() -> FileResponse:
     return FileResponse(STATIC_DIR / "index.html")
 
 
+@app.get("/3d", response_class=HTMLResponse)
+def three_d() -> FileResponse:
+    """Alternative 3D force-directed graph visualization."""
+    return FileResponse(STATIC_DIR / "3d.html")
+
+
 # Mount static after the routes that take precedence
 if STATIC_DIR.exists():
     app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")

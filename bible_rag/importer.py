@@ -21,9 +21,14 @@ from . import VAULT_PATH
 
 # Folders in the vault that the importer treats as unit sources
 UNIT_SOURCES = {
-    "Seeds":   "seed",
-    "Symbols": "symbol",
-    "Motifs":  "motif",
+    "Seeds":      "seed",
+    "Symbols":    "symbol",
+    "Motifs":     "motif",
+    "Persons":    "person",
+    "Places":     "place",
+    "Numbers":    "number",
+    "Titles":     "title",
+    "Structures": "structure",
 }
 
 # Files to skip even if present in a unit folder
@@ -102,17 +107,22 @@ def extract_connections(unit: dict, units_by_stem: dict[str, dict]) -> list[dict
     fm = unit["_raw_fm"]
     from_slug = unit["slug"]
 
-    # Frontmatter-declared symbol / motif references (highest fidelity)
-    for ref in fm.get("symbols") or []:
-        target = resolve_slug(ref, units_by_stem)
-        if target:
-            out.append({"from": from_slug, "to": target, "type": "uses_symbol",
-                        "confidence": 1.0, "source": "seed"})
-    for ref in fm.get("motifs") or []:
-        target = resolve_slug(ref, units_by_stem)
-        if target:
-            out.append({"from": from_slug, "to": target, "type": "has_motif",
-                        "confidence": 1.0, "source": "seed"})
+    # Frontmatter-declared references (highest fidelity)
+    fm_ref_types = [
+        ("symbols",    "uses_symbol"),
+        ("motifs",     "has_motif"),
+        ("persons",    "references_person"),
+        ("places",     "references_place"),
+        ("numbers",    "references_number"),
+        ("titles",     "references_title"),
+        ("structures", "references_structure"),
+    ]
+    for fm_key, conn_type in fm_ref_types:
+        for ref in fm.get(fm_key) or []:
+            target = resolve_slug(ref, units_by_stem)
+            if target:
+                out.append({"from": from_slug, "to": target, "type": conn_type,
+                            "confidence": 1.0, "source": "seed"})
 
     # Body wikilinks fall into "references" (weaker, mostly to external notes)
     for m in WIKILINK_RE.finditer(unit["body_md"]):
