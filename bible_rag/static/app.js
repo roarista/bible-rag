@@ -26,6 +26,7 @@ const EDGE_COLOR_MOTIF   = 'rgba(251, 146, 60, 0.28)';
 let sigmaInstance = null;
 let graph = null;
 let highlightedNode = null;
+let allEdges = [];  // Snapshot of every edge so PaRDeS toggles re-add hidden ones.
 
 async function init() {
     const [graphData, hubsData] = await Promise.all([
@@ -49,10 +50,12 @@ async function init() {
         });
     }
 
-    for (const e of graphData.elements.edges) {
+    allEdges = graphData.elements.edges;
+    for (const e of allEdges) {
         if (graph.hasEdge(e.data.source, e.data.target)) continue;
         graph.addEdge(e.data.source, e.data.target, {
             edgeType: e.data.type,
+            pardes: e.data.pardes,
             color: e.data.type === 'has_motif' ? EDGE_COLOR_MOTIF : EDGE_COLOR_DEFAULT,
             size: 1,
         });
@@ -112,6 +115,7 @@ async function init() {
     populateHubs(hubsData.hubs);
     wireSearch();
     wireControls();
+    wirePardesToggles();
 }
 
 function highlightNode(nodeId) {
@@ -258,6 +262,25 @@ function wireSearch() {
             });
         }, 180);
     });
+}
+
+function wirePardesToggles() {
+    const toggles = document.querySelectorAll('.pardes-toggle input');
+    const applyFilter = () => {
+        const active = new Set();
+        document.querySelectorAll('.pardes-toggle').forEach(t => {
+            const cb = t.querySelector('input');
+            if (cb.checked) active.add(t.dataset.layer);
+        });
+        if (!graph) return;
+        // Edges that exist in `graph` already — toggle visibility via hidden attr.
+        graph.forEachEdge((edge, attrs) => {
+            const visible = active.has(attrs.pardes || 'remez');
+            graph.setEdgeAttribute(edge, 'hidden', !visible);
+        });
+        sigmaInstance.refresh();
+    };
+    toggles.forEach(cb => cb.addEventListener('change', applyFilter));
 }
 
 function wireControls() {

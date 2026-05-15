@@ -1,0 +1,200 @@
+{"edge_id": 53310, "score": 0.993, "rationale": "Strong same-topic/typology link: '1 Peter 3 Baptism Like Flood' <-> 'Flood Baptism' (shared=['flood', 'baptism'], cluster=3)"}
+{"edge_id": 53315, "score": 0.861, "rationale": "Clear thematic echo: 'Revelation 17 Babylon The Harlot' and 'Revelation 18 Babylon Fallen' share core motif (shared=['babylon', 'revelation'])"}
+{"edge_id": 53320, "score": 0.92, "rationale": "Strong same-topic/typology link: 'pneuma' <-> 'ruach' (shared=[], cluster=1)"}
+{"edge_id": 53325, "score": 0.51, "rationale": "Plausible echo between 'Lamentations 3 New Mercies' and 'Lamentations Suffering City' \u2014 semantic overlap, worth hypothesis"}
+{"edge_id": 53330, "score": 0.35, "rationale": "Thin link: '1 Thess 4 Coming Trumpet' vs 'Rapture Thessalonians' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53335, "score": 0.346, "rationale": "Thin link: '1 Peter 2 Royal Priesthood' vs 'Levites Set Apart' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53340, "score": 0.336, "rationale": "Thin link: 'Isaiah 53 Suffering Servant' vs '1 Peter 2 He Bore Our Sins' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53345, "score": 0.333, "rationale": "Thin link: 'Cup Of Cup Of Wrath' vs 'Gall And Vinegar Offered' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53350, "score": 0.321, "rationale": "Thin link: 'Ark Captured And Returned' vs 'Dagon Falls' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53355, "score": 0.562, "rationale": "Plausible echo between 'Psalm 110 Priest King' and 'Psalm 2 Anointed King' \u2014 semantic overlap, worth hypothesis"}
+{"edge_id": 53360, "score": 0.487, "rationale": "Thin link: 'Water Throughout Scripture' vs 'Wine Throughout Scripture' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53365, "score": 0.633, "rationale": "Plausible echo between 'Day Of The LORD Amos' and 'Day Of The LORD Joel' \u2014 semantic overlap, worth hypothesis"}
+{"edge_id": 53370, "score": 0.38, "rationale": "Thin link: 'Isaiah 11 Branch Of Jesse' vs 'Jeremiah 23 Righteous Branch' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53375, "score": 0.376, "rationale": "Thin link: 'Revelation 21 New Jerusalem Descending' vs 'Revelation 22 River Of Life Tree Of Life' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53380, "score": 0.371, "rationale": "Thin link: 'Apocalypse Of Weeks Enoch' vs 'Daniel 9 Seventy Weeks' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53385, "score": 0.435, "rationale": "Thin link: 'Dedication Of Temple' vs 'Glory Filling Temple Solomon' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53390, "score": 0.361, "rationale": "Thin link: 'Revelation 18 Babylon Fallen' vs 'Revelation 21 New Jerusalem Descending' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53395, "score": 0.427, "rationale": "Thin link: 'Glory Filling Temple Solomon' vs 'Glory On Sinai' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53400, "score": 0.275, "rationale": "Likely noise: 'Macedonian Call Vision' and 'Pauls First Missionary Journey' just share generic vocabulary"}
+{"edge_id": 53405, "score": 0.424, "rationale": "Thin link: 'New Heavens New Earth Isaiah' vs 'New Jerusalem Descending' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53410, "score": 0.353, "rationale": "Thin link: 'Zechariah 11 Thirty Pieces' vs 'Zechariah 13 Strike The Shepherd' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53415, "score": 0.34, "rationale": "Thin link: 'Crucifixion Between Two Thieves' vs 'Words From Cross Eli Eli' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53420, "score": 0.348, "rationale": "Thin link: 'Joseph In The Pit' vs 'Joseph Reveals Self' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53425, "score": 0.267, "rationale": "Likely noise: 'Crucifixion Between Two Thieves' and 'Simon Of Cyrene Helper' just share generic vocabulary"}
+{"edge_id": 53430, "score": 0.265, "rationale": "Likely noise: 'Burning Bush' and 'Pillar Of Cloud And Fire' just share generic vocabulary"}
+{"edge_id": 53435, "score": 0.443, "rationale": "Thin link: '1 Peter 1 Living Hope' vs '1 Peter 2 Living Stones' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53440, "score": 0.26, "rationale": "Likely noise: '1 John 2 Atoning Sacrifice' and '2 Cor 5 Became Sin For Us' just share generic vocabulary"}
+{"edge_id": 53445, "score": 0.259, "rationale": "Likely noise: 'Ezekiel Apocrypha Themes' and 'Isaiah 65 New Heavens' just share generic vocabulary"}
+{"edge_id": 53450, "score": 0.327, "rationale": "Thin link: '1 John 2 Atoning Sacrifice' vs 'Two Goats Yom Kippur' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53455, "score": 0.256, "rationale": "Likely noise: 'Empty Tomb' and 'Hosea Three Days Raised Up' just share generic vocabulary"}
+{"edge_id": 53460, "score": 0.254, "rationale": "Likely noise: 'Isaiah 9 Child Is Born' and 'Psalm 72 Royal Reign' just share generic vocabulary"}
+{"edge_id": 53465, "score": 0.403, "rationale": "Thin link: 'Light Throughout Scripture' vs 'Sons Of Light DSS' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53470, "score": 0.38, "rationale": "Thin link: 'amnos' vs 'arnion' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53475, "score": 0.249, "rationale": "Likely noise: 'Feast Throughout Scripture' and 'Showbread Twelve Loaves' just share generic vocabulary"}
+{"edge_id": 53480, "score": 0.398, "rationale": "Thin link: 'Psalm 110 Priest King' vs 'Psalm 23 Shepherd' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53485, "score": 0.248, "rationale": "Likely noise: 'Absalom Rebellion' and 'Bathsheba Uriah Sin' just share generic vocabulary"}
+{"edge_id": 53490, "score": 0.327, "rationale": "Thin link: 'Revelation 1 Alpha Omega' vs 'Revelation 1 Son Of Man Vision' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53495, "score": 0.245, "rationale": "Likely noise: 'Cleansing Of Temple' and 'Ezekiel 10 Glory Departs' just share generic vocabulary"}
+{"edge_id": 53500, "score": 0.495, "rationale": "Thin link: 'Words From Cross Eli Eli' vs 'Words From Cross Finished' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53505, "score": 0.244, "rationale": "Likely noise: 'Caleb Faithful' and 'Spies Twelve' just share generic vocabulary"}
+{"edge_id": 53510, "score": 0.243, "rationale": "Likely noise: 'Romans 6 Baptized Into Death' and 'Water Throughout Scripture' just share generic vocabulary"}
+{"edge_id": 53515, "score": 0.291, "rationale": "Likely noise: 'aletheia' and 'emet' just share generic vocabulary"}
+{"edge_id": 53520, "score": 0.241, "rationale": "Likely noise: 'Sower' and 'Wheat And Tares' just share generic vocabulary"}
+{"edge_id": 53525, "score": 0.32, "rationale": "Thin link: 'Revelation 4 Throne Vision' vs 'Revelation 5 Slain Lamb Worthy' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53530, "score": 0.238, "rationale": "Likely noise: 'Crown Of Thorns Curse Reversed' and 'Sweat As Blood' just share generic vocabulary"}
+{"edge_id": 53535, "score": 0.488, "rationale": "Thin link: 'Words From Cross I Thirst' vs 'Words From Cross Into Your Hands' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53540, "score": 0.317, "rationale": "Thin link: 'Crown Of Thorns Curse Reversed' vs 'Galatians 3 Curse Of Law' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53545, "score": 0.386, "rationale": "Thin link: 'New Covenant Jeremiah 31' vs 'New Heart Ezekiel 36' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53550, "score": 0.685, "rationale": "Plausible echo between 'Isaiah 49 Second Servant Song' and 'Isaiah 50 Third Servant Song' \u2014 semantic overlap, worth hypothesis"}
+{"edge_id": 53555, "score": 0.315, "rationale": "Thin link: '1 Peter 2 Royal Priesthood' vs '1 Peter 5 Chief Shepherd' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53560, "score": 0.234, "rationale": "Likely noise: '1 Peter 1 Born Anew' and 'Ezekiel 36 New Heart' just share generic vocabulary"}
+{"edge_id": 53565, "score": 0.233, "rationale": "Likely noise: 'Hebrews 11 Cloud Of Witnesses' and 'James 2 Faith And Works' just share generic vocabulary"}
+{"edge_id": 53570, "score": 0.691, "rationale": "Plausible echo between 'Daniel 7 Son Of Man' and 'Son Of Man' \u2014 semantic overlap, worth hypothesis"}
+{"edge_id": 53575, "score": 0.231, "rationale": "Likely noise: 'Jeremiah 31 New Covenant' and 'Stone Tablets Heart Tablets' just share generic vocabulary"}
+{"edge_id": 53580, "score": 0.31, "rationale": "Thin link: 'Calling Of Twelve' vs 'Spies Twelve' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53585, "score": 0.309, "rationale": "Thin link: 'Revelation 20 Millennium' vs 'Revelation 4 Throne Vision' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53590, "score": 0.308, "rationale": "Thin link: 'Hebrews 12 Mount Zion Not Sinai' vs 'Hebrews 9 Once For All' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53595, "score": 0.228, "rationale": "Likely noise: 'Crossing Jordan On Dry Ground' and 'Water Throughout Scripture' just share generic vocabulary"}
+{"edge_id": 53600, "score": 0.477, "rationale": "Thin link: '1 Cor 10 Rock Was Christ' vs '1 Cor 5 Christ Our Passover' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53605, "score": 0.407, "rationale": "Thin link: 'Feast Throughout Scripture' vs 'Lamb Throughout Scripture' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53610, "score": 0.306, "rationale": "Thin link: 'Joseph Sold By Brothers' vs 'Joseph Provides Bread' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53615, "score": 0.275, "rationale": "Likely noise: 'kyrios' and 'yhwh' just share generic vocabulary"}
+{"edge_id": 53620, "score": 0.225, "rationale": "Likely noise: 'Joel Spirit Poured Out' and 'Tongues Of Fire' just share generic vocabulary"}
+{"edge_id": 53625, "score": 0.224, "rationale": "Likely noise: 'Heavenly Banquet' and 'New Jerusalem Descending' just share generic vocabulary"}
+{"edge_id": 53630, "score": 0.303, "rationale": "Thin link: 'Hebrews 12 Mount Zion Not Sinai' vs 'Hebrews 13 Outside The Camp' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53635, "score": 0.301, "rationale": "Thin link: 'Solomon Two Mothers' vs 'Solomon Wisdom Request' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53640, "score": 0.221, "rationale": "Likely noise: 'Bathsheba Uriah Sin' and 'Manasseh Repentance' just share generic vocabulary"}
+{"edge_id": 53645, "score": 0.29, "rationale": "Likely noise: '1 Cor 15 Firstfruits Of Resurrection' and 'Earthquake And Saints Raised' just share generic vocabulary"}
+{"edge_id": 53650, "score": 0.22, "rationale": "Likely noise: 'City Throughout Scripture' and 'Revelation 18 Babylon Fallen' just share generic vocabulary"}
+{"edge_id": 53655, "score": 0.369, "rationale": "Thin link: 'Psalm 23 Shepherd' vs 'Psalm 40 Body Prepared' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53660, "score": 0.219, "rationale": "Likely noise: '1 Cor 5 Christ Our Passover' and 'Bread Broken Body' just share generic vocabulary"}
+{"edge_id": 53665, "score": 0.218, "rationale": "Likely noise: 'Burning Bush I AM' and 'Pillar Of Cloud And Fire' just share generic vocabulary"}
+{"edge_id": 53670, "score": 0.368, "rationale": "Thin link: 'Psalm 110 Priest King' vs 'Psalm 16 Holy One Not Decay' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53675, "score": 0.297, "rationale": "Likely noise: 'Malachi Elijah Will Come' and 'Malachi Sun Of Righteousness' just share generic vocabulary"}
+{"edge_id": 53680, "score": 0.217, "rationale": "Likely noise: '2 Tim 2 If We Die We Live' and 'Romans 6 Baptized Into Death' just share generic vocabulary"}
+{"edge_id": 53685, "score": 0.367, "rationale": "Thin link: 'Daniel 7 Son Of Man' vs 'Daniel 9 Seventy Weeks' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53690, "score": 0.216, "rationale": "Likely noise: 'Mercy Seat Atonement' and 'Scapegoat Azazel' just share generic vocabulary"}
+{"edge_id": 53695, "score": 0.366, "rationale": "Thin link: 'Psalm 118 Hosanna' vs 'Psalm 72 Royal Reign' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53700, "score": 0.215, "rationale": "Likely noise: 'Colossians 1 Cosmic Christ' and 'Revelation 1 Son Of Man Vision' just share generic vocabulary"}
+{"edge_id": 53705, "score": 0.284, "rationale": "Likely noise: 'Tabernacle Pattern From Heaven' and 'Veil Of Temple Torn' just share generic vocabulary"}
+{"edge_id": 53710, "score": 0.363, "rationale": "Thin link: 'Isaiah 61 Spirit Anointing' vs 'Sevenfold Spirit' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53715, "score": 0.213, "rationale": "Likely noise: 'Isaiah 11 Branch Of Jesse' and 'Micah Ruler From Old' just share generic vocabulary"}
+{"edge_id": 53720, "score": 0.212, "rationale": "Likely noise: 'Naaman Cleansed In Jordan' and 'Baptism Of Jesus Theophany' just share generic vocabulary"}
+{"edge_id": 53725, "score": 0.462, "rationale": "Thin link: 'Words From Cross Father Forgive' vs 'Words From Cross Today Paradise' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53730, "score": 0.291, "rationale": "Likely noise: '1 John 1 Walk In Light' and '1 John 4 God Is Love' just share generic vocabulary"}
+{"edge_id": 53735, "score": 0.29, "rationale": "Likely noise: 'Revelation 1 Son Of Man Vision' and 'Revelation 19 Marriage Supper Of Lamb' just share generic vocabulary"}
+{"edge_id": 53740, "score": 0.36, "rationale": "Thin link: 'Psalm 118 Stone Rejected' vs 'Psalm 2 Anointed King' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53745, "score": 0.28, "rationale": "Likely noise: 'Ezekiels Eagles And Vine' and 'Isaiahs Vineyard Song' just share generic vocabulary"}
+{"edge_id": 53750, "score": 0.289, "rationale": "Likely noise: 'Revelation 19 Word Of God On White Horse' and 'Revelation 5 Slain Lamb Worthy' just share generic vocabulary"}
+{"edge_id": 53755, "score": 0.209, "rationale": "Likely noise: 'Veil Of Temple Torn' and 'Words From Cross Eli Eli' just share generic vocabulary"}
+{"edge_id": 53760, "score": 0.208, "rationale": "Likely noise: '1 Peter 2 He Bore Our Sins' and 'Words From Cross Eli Eli' just share generic vocabulary"}
+{"edge_id": 53765, "score": 0.208, "rationale": "Likely noise: 'Boaz Foot Of Cross Threshing' and 'Judah Tamar Levirate' just share generic vocabulary"}
+{"edge_id": 53770, "score": 0.357, "rationale": "Thin link: 'Psalm 118 Hosanna' vs 'Psalm 118 Stone Rejected' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53775, "score": 0.207, "rationale": "Likely noise: 'Isaiah 9 Child Is Born' and 'Psalm 8 Son Of Man' just share generic vocabulary"}
+{"edge_id": 53780, "score": 0.206, "rationale": "Likely noise: 'Jonah Three Days' and 'Bronze Serpent' just share generic vocabulary"}
+{"edge_id": 53785, "score": 0.285, "rationale": "Likely noise: 'Revelation 3 Open Door' and 'Revelation 5 Scroll And Seals' just share generic vocabulary"}
+{"edge_id": 53790, "score": 0.205, "rationale": "Likely noise: '1 Peter 2 He Bore Our Sins' and 'Absalom Hung On Tree' just share generic vocabulary"}
+{"edge_id": 53795, "score": 0.205, "rationale": "Likely noise: 'Cosmic Signs' and 'Olivet Discourse' just share generic vocabulary"}
+{"edge_id": 53800, "score": 0.284, "rationale": "Likely noise: 'Revelation 16 Bowls Of Wrath' and 'Revelation 9 Bottomless Pit' just share generic vocabulary"}
+{"edge_id": 53805, "score": 0.204, "rationale": "Likely noise: 'Mercy Seat Atonement' and 'Tabernacle Pattern From Heaven' just share generic vocabulary"}
+{"edge_id": 53810, "score": 0.354, "rationale": "Thin link: '1 John 2 Atoning Sacrifice' vs 'Sacrifice Of Red Heifer' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53815, "score": 0.203, "rationale": "Likely noise: 'Crown Of Thorns Curse Reversed' and 'Cup Of Cup Of Wrath' just share generic vocabulary"}
+{"edge_id": 53820, "score": 0.353, "rationale": "Thin link: 'Solomon Wisdom Request' vs 'Wisdom Calls At Gates' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53825, "score": 0.353, "rationale": "Thin link: '1 John 2 Atoning Sacrifice' vs 'Coats Of Skin First Sacrifice' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53830, "score": 0.203, "rationale": "Likely noise: 'Isaiah 53 Suffering Servant' and 'Psalm 40 Body Prepared' just share generic vocabulary"}
+{"edge_id": 53835, "score": 0.202, "rationale": "Likely noise: '1 John 1 Walk In Light' and '2 Cor 5 Reconciliation Through Christ' just share generic vocabulary"}
+{"edge_id": 53840, "score": 0.202, "rationale": "Likely noise: 'Ezekiel 36 New Heart' and 'Pierced Side Blood And Water' just share generic vocabulary"}
+{"edge_id": 53845, "score": 0.201, "rationale": "Likely noise: 'Daniel 6 Lions Den' and 'Empty Tomb' just share generic vocabulary"}
+{"edge_id": 53850, "score": 0.201, "rationale": "Likely noise: '1 Peter 2 He Bore Our Sins' and 'Sweat As Blood' just share generic vocabulary"}
+{"edge_id": 53855, "score": 0.201, "rationale": "Likely noise: 'Bones Not Broken' and 'Empty Tomb' just share generic vocabulary"}
+{"edge_id": 53860, "score": 0.201, "rationale": "Likely noise: 'Gall And Vinegar' and 'Lots Cast For Garments' just share generic vocabulary"}
+{"edge_id": 53865, "score": 0.27, "rationale": "Likely noise: 'Feeding Of Four Thousand' and 'Manna From Heaven' just share generic vocabulary"}
+{"edge_id": 53870, "score": 0.2, "rationale": "Likely noise: 'Isaiah 9 Child Is Born' and 'Zechariah 9 King On Donkey' just share generic vocabulary"}
+{"edge_id": 53875, "score": 0.2, "rationale": "Likely noise: 'Daniel 7 Son Of Man Coming' and 'Olivet Discourse' just share generic vocabulary"}
+{"edge_id": 53880, "score": 0.199, "rationale": "Likely noise: '1 John 2 Atoning Sacrifice' and 'Scapegoat Azazel' just share generic vocabulary"}
+{"edge_id": 53885, "score": 0.199, "rationale": "Likely noise: 'Veil Of Temple Torn' and 'Words From Cross Finished' just share generic vocabulary"}
+{"edge_id": 53890, "score": 0.379, "rationale": "Thin link: 'Mountain Throughout Scripture' vs 'Wedding Throughout Scripture' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53895, "score": 0.199, "rationale": "Likely noise: 'Aarons Breastplate Twelve Stones' and 'Jacobs Stone Pillow' just share generic vocabulary"}
+{"edge_id": 53900, "score": 0.198, "rationale": "Likely noise: 'Flight To Egypt' and 'Joseph In The Pit' just share generic vocabulary"}
+{"edge_id": 53905, "score": 0.278, "rationale": "Likely noise: 'Revelation 19 Word Of God On White Horse' and 'Revelation 20 Millennium' just share generic vocabulary"}
+{"edge_id": 53910, "score": 0.277, "rationale": "Likely noise: 'Apocalypse Of Weeks Enoch' and 'Jude Enoch Prophecy' just share generic vocabulary"}
+{"edge_id": 53915, "score": 0.347, "rationale": "Thin link: 'Psalm 118 Hosanna' vs 'Psalm 2 Anointed King' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53920, "score": 0.197, "rationale": "Likely noise: '1 Cor 5 Christ Our Passover' and 'Hebrews 10 Sacrifices Cannot Take Away Sin' just share generic vocabulary"}
+{"edge_id": 53925, "score": 0.197, "rationale": "Likely noise: 'David Spares Saul' and 'Pauls Defense Before Agrippa' just share generic vocabulary"}
+{"edge_id": 53930, "score": 0.196, "rationale": "Likely noise: '1 Peter 2 He Bore Our Sins' and 'Wisdom Of Solomon Suffering Righteous' just share generic vocabulary"}
+{"edge_id": 53935, "score": 0.196, "rationale": "Likely noise: 'Micah Ruler From Old' and 'Psalm 72 Royal Reign' just share generic vocabulary"}
+{"edge_id": 53940, "score": 0.196, "rationale": "Likely noise: '2 Peter 1 Make Calling Sure' and 'James 1 Tested Faith' just share generic vocabulary"}
+{"edge_id": 53945, "score": 0.195, "rationale": "Likely noise: '2 Cor 5 Reconciliation Through Christ' and 'Hebrews 9 Mediator Of New Covenant' just share generic vocabulary"}
+{"edge_id": 53950, "score": 0.195, "rationale": "Likely noise: 'Isaiah 11 Branch Of Jesse' and 'Vine Throughout Scripture' just share generic vocabulary"}
+{"edge_id": 53955, "score": 0.195, "rationale": "Likely noise: 'Isaiah 50 Third Servant Song' and 'Psalm 69 Reproaches Fell On Me' just share generic vocabulary"}
+{"edge_id": 53960, "score": 0.274, "rationale": "Likely noise: 'Ezekiel 37 Two Sticks United' and 'Leah Rachel Two Brides' just share generic vocabulary"}
+{"edge_id": 53965, "score": 0.194, "rationale": "Likely noise: 'Psalm 118 Hosanna' and 'Zephaniah King In Midst' just share generic vocabulary"}
+{"edge_id": 53970, "score": 0.274, "rationale": "Likely noise: 'Revelation 13 Mark 666' and 'Revelation 17 Babylon The Harlot' just share generic vocabulary"}
+{"edge_id": 53975, "score": 0.194, "rationale": "Likely noise: '2 Cor 3 Veil Lifted In Christ' and 'Hebrews 9 Mediator Of New Covenant' just share generic vocabulary"}
+{"edge_id": 53980, "score": 0.193, "rationale": "Likely noise: '2 Thess 2 Man Of Lawlessness' and 'Revelation 13 Beast From Earth' just share generic vocabulary"}
+{"edge_id": 53985, "score": 0.423, "rationale": "Thin link: 'Daniel 3 Fourth Man' vs 'Revelation 1 Son Of Man Vision' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 53990, "score": 0.193, "rationale": "Likely noise: 'Purple Robe Royal Mockery' and 'Trial Before Pilate Innocent Verdict' just share generic vocabulary"}
+{"edge_id": 53995, "score": 0.193, "rationale": "Likely noise: '1 Peter 2 Royal Priesthood' and 'Israel As Firstborn' just share generic vocabulary"}
+{"edge_id": 54000, "score": 0.192, "rationale": "Likely noise: 'Ezekiel 37 Two Sticks United' and 'Isaiah 11 Branch Of Jesse' just share generic vocabulary"}
+{"edge_id": 54005, "score": 0.272, "rationale": "Likely noise: 'Hebrews 11 Cloud Of Witnesses' and 'Hebrews 13 Outside The Camp' just share generic vocabulary"}
+{"edge_id": 54010, "score": 0.272, "rationale": "Likely noise: 'Revelation 2 Tree Of Life Promise' and 'Revelation 7 Great Multitude' just share generic vocabulary"}
+{"edge_id": 54015, "score": 0.192, "rationale": "Likely noise: 'Ezekiel 1 Throne Chariot' and 'Pillar Of Cloud And Fire' just share generic vocabulary"}
+{"edge_id": 54020, "score": 0.191, "rationale": "Likely noise: 'Ascension' and 'Resurrection Appearances' just share generic vocabulary"}
+{"edge_id": 54025, "score": 0.191, "rationale": "Likely noise: 'Amos Booth Of David Restored' and 'Romans 11 Olive Tree Grafted' just share generic vocabulary"}
+{"edge_id": 54030, "score": 0.19, "rationale": "Likely noise: '1 John 2 Atoning Sacrifice' and 'Lamb Throughout Scripture' just share generic vocabulary"}
+{"edge_id": 54035, "score": 0.19, "rationale": "Likely noise: 'Crucifixion Between Two Thieves' and 'Garden Of Gethsemane As Eden Reversed' just share generic vocabulary"}
+{"edge_id": 54040, "score": 0.339, "rationale": "Thin link: '2 Cor 5 Reconciliation Through Christ' vs 'Colossians 2 Buried And Raised With Christ' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 54045, "score": 0.239, "rationale": "Likely noise: 'soteria' and 'yashua' just share generic vocabulary"}
+{"edge_id": 54050, "score": 0.339, "rationale": "Thin link: 'Psalm 22 Crucifixion' vs 'Psalm 118 Hosanna' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 54055, "score": 0.189, "rationale": "Likely noise: 'Bronze Serpent' and 'Naaman Cleansed In Jordan' just share generic vocabulary"}
+{"edge_id": 54060, "score": 0.189, "rationale": "Likely noise: 'Hosea Gomer Faithless Bride' and 'Boaz Foot Of Cross Threshing' just share generic vocabulary"}
+{"edge_id": 54065, "score": 0.268, "rationale": "Likely noise: '1 Peter 1 Born Anew' and '2 Peter 3 Day As Thousand Years' just share generic vocabulary"}
+{"edge_id": 54070, "score": 0.368, "rationale": "Thin link: 'Stone Throughout Scripture' vs 'Wine Throughout Scripture' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 54075, "score": 0.188, "rationale": "Likely noise: 'Caleb Faithful' and 'Joshuas Inheritance Division' just share generic vocabulary"}
+{"edge_id": 54080, "score": 0.188, "rationale": "Likely noise: 'Scapegoat Azazel' and 'Day Of Atonement Yom Kippur' just share generic vocabulary"}
+{"edge_id": 54085, "score": 0.337, "rationale": "Thin link: 'Promise Of Seed Genesis 3 15' vs 'Revelation 2 Tree Of Life Promise' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 54090, "score": 0.187, "rationale": "Likely noise: 'Joshuas Inheritance Division' and 'Zechariah 6 Crown On Joshua' just share generic vocabulary"}
+{"edge_id": 54095, "score": 0.337, "rationale": "Thin link: 'Colossians 2 Nailed To Cross Bond' vs 'Words From Cross Finished' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 54100, "score": 0.187, "rationale": "Likely noise: 'Daniel 9 Seventy Weeks' and 'Micah Ruler From Old' just share generic vocabulary"}
+{"edge_id": 54105, "score": 0.187, "rationale": "Likely noise: '2 Cor 5 Became Sin For Us' and 'Colossians 2 Nailed To Cross Bond' just share generic vocabulary"}
+{"edge_id": 54110, "score": 0.187, "rationale": "Likely noise: 'Daniel 9 Seventy Weeks' and 'Isaiah 61 Spirit Anointing' just share generic vocabulary"}
+{"edge_id": 54115, "score": 0.186, "rationale": "Likely noise: 'Calling Of Twelve' and 'Mountain Throughout Scripture' just share generic vocabulary"}
+{"edge_id": 54120, "score": 0.256, "rationale": "Likely noise: 'Colossians 2 Nailed To Cross Bond' and 'Crucifixion Between Two Thieves' just share generic vocabulary"}
+{"edge_id": 54125, "score": 0.186, "rationale": "Likely noise: 'Cup Of Wrath Cup Of Salvation' and 'Water From Rock Horeb' just share generic vocabulary"}
+{"edge_id": 54130, "score": 0.186, "rationale": "Likely noise: '2 Peter 1 Make Calling Sure' and 'Jude Contend For Faith' just share generic vocabulary"}
+{"edge_id": 54135, "score": 0.186, "rationale": "Likely noise: 'Promise Of Seed Genesis 3 15' and 'Tree Of Life Lost And Regained' just share generic vocabulary"}
+{"edge_id": 54140, "score": 0.186, "rationale": "Likely noise: '1 Peter 1 Born Anew' and 'Hebrews 1 Heir Of All Things' just share generic vocabulary"}
+{"edge_id": 54145, "score": 0.335, "rationale": "Thin link: '2 Cor 5 Reconciliation Through Christ' vs 'Colossians 1 Cosmic Christ' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 54150, "score": 0.335, "rationale": "Thin link: 'Adam Christ Two Heads Romans 5' vs 'Ephesians 5 Marriage As Christ Church' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 54155, "score": 0.184, "rationale": "Likely noise: 'Zechariah 14 Day Of The LORD' and 'Olivet Discourse' just share generic vocabulary"}
+{"edge_id": 54160, "score": 0.264, "rationale": "Likely noise: '1 Peter 2 Royal Priesthood' and '2 Peter 1 Make Calling Sure' just share generic vocabulary"}
+{"edge_id": 54165, "score": 0.184, "rationale": "Likely noise: 'Bronze Laver Cleansing' and 'Romans 6 Baptized Into Death' just share generic vocabulary"}
+{"edge_id": 54170, "score": 0.184, "rationale": "Likely noise: 'Cleansing Of Temple' and 'Daniel 9 Seventy Weeks' just share generic vocabulary"}
+{"edge_id": 54175, "score": 0.183, "rationale": "Likely noise: 'Cities Of Refuge' and 'Two Goats Yom Kippur' just share generic vocabulary"}
+{"edge_id": 54180, "score": 0.183, "rationale": "Likely noise: 'Jonah And Fish' and 'Resurrection Of Christ' just share generic vocabulary"}
+{"edge_id": 54185, "score": 0.183, "rationale": "Likely noise: 'Lystra Mistaken For Gods' and 'Pauls First Missionary Journey' just share generic vocabulary"}
+{"edge_id": 54190, "score": 0.263, "rationale": "Likely noise: 'Revelation 14 Lamb On Zion' and 'Revelation 2 Tree Of Life Promise' just share generic vocabulary"}
+{"edge_id": 54195, "score": 0.182, "rationale": "Likely noise: 'Hebrews 7 Forever Priest' and 'Sacrifice Of Red Heifer' just share generic vocabulary"}
+{"edge_id": 54200, "score": 0.332, "rationale": "Thin link: 'Carrying Of Cross Like Isaac' vs 'Words From Cross Eli Eli' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 54205, "score": 0.182, "rationale": "Likely noise: 'Noahs Ark Salvation Through Judgment' and 'Plague Of Firstborn Spared By Blood' just share generic vocabulary"}
+{"edge_id": 54210, "score": 0.182, "rationale": "Likely noise: 'Psalm 72 Royal Reign' and 'Zechariah 6 Crown On Joshua' just share generic vocabulary"}
+{"edge_id": 54215, "score": 0.182, "rationale": "Likely noise: 'Ezekiel 1 Throne Chariot' and 'Mercy Seat Atonement' just share generic vocabulary"}
+{"edge_id": 54220, "score": 0.182, "rationale": "Likely noise: 'Isaiah 53 Suffering Servant' and 'Simon Of Cyrene Helper' just share generic vocabulary"}
+{"edge_id": 54225, "score": 0.331, "rationale": "Thin link: 'Baptism Of Jesus Theophany' vs 'Crossing Red Sea Baptism' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 54230, "score": 0.181, "rationale": "Likely noise: 'Plague Of Firstborn Spared By Blood' and 'Veil Of Tabernacle' just share generic vocabulary"}
+{"edge_id": 54235, "score": 0.181, "rationale": "Likely noise: 'Earthquake And Saints Raised' and 'Sealing Of Stone' just share generic vocabulary"}
+{"edge_id": 54240, "score": 0.331, "rationale": "Thin link: 'Falling Of Jerusalem' vs 'New Jerusalem Descending' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 54245, "score": 0.181, "rationale": "Likely noise: 'Abraham Isaac' and 'Absalom Hung On Tree' just share generic vocabulary"}
+{"edge_id": 54250, "score": 0.18, "rationale": "Likely noise: 'Gideon Three Hundred' and 'Jericho Falls By Trumpet' just share generic vocabulary"}
+{"edge_id": 54255, "score": 0.18, "rationale": "Likely noise: 'Earthquake And Saints Raised' and 'Revelation 11 Two Witnesses' just share generic vocabulary"}
+{"edge_id": 54260, "score": 0.18, "rationale": "Likely noise: 'Psalm 22 Crucifixion' and 'Empty Tomb' just share generic vocabulary"}
+{"edge_id": 54265, "score": 0.18, "rationale": "Likely noise: 'Lamentations Suffering City' and 'Words From Cross Eli Eli' just share generic vocabulary"}
+{"edge_id": 54270, "score": 0.179, "rationale": "Likely noise: '1 John 5 Three That Testify' and 'Baptism Of Jesus Theophany' just share generic vocabulary"}
+{"edge_id": 54275, "score": 0.179, "rationale": "Likely noise: 'Boaz Foot Of Cross Threshing' and 'Ezekiel 16 Faithless Bride' just share generic vocabulary"}
+{"edge_id": 54280, "score": 0.249, "rationale": "Likely noise: 'Breaking Of Bread Recognized' and 'Showbread Twelve Loaves' just share generic vocabulary"}
+{"edge_id": 54285, "score": 0.259, "rationale": "Likely noise: 'Revelation 12 Woman Crowned Stars' and 'Revelation 21 New Jerusalem Descending' just share generic vocabulary"}
+{"edge_id": 54290, "score": 0.179, "rationale": "Likely noise: 'Garden Of Gethsemane As Eden Reversed' and 'Vine Throughout Scripture' just share generic vocabulary"}
+{"edge_id": 54295, "score": 0.509, "rationale": "Plausible echo between 'Zechariah 14 Day Of The LORD' and 'Day Of The LORD Joel' \u2014 semantic overlap, worth hypothesis"}
+{"edge_id": 54300, "score": 0.328, "rationale": "Thin link: 'Isaiah 25 Banquet On Mountain' vs 'Isaiah 55 Free Invitation' \u2014 vocabulary overlap but no firm theological tie"}
+{"edge_id": 54305, "score": 0.178, "rationale": "Likely noise: '1 John 1 Walk In Light' and '1 Peter 1 Born Anew' just share generic vocabulary"}

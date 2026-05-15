@@ -1,0 +1,200 @@
+{"edge_id": 53313, "score": 0.769, "rationale": "clear typological echo: sim=0.45; prior=0.58; theo_overlap=4(grace,oil,pattern,widow); title_share=1; miracle->miracle"}
+{"edge_id": 53318, "score": 0.921, "rationale": "rock-solid echo: sim=0.39; prior=0.52; theo_overlap=7(bride,city,descending,heaven,jerusalem); title_near_dup; seed->prophecy"}
+{"edge_id": 53323, "score": 0.725, "rationale": "clear typological echo: sim=0.37; prior=0.50; theo_overlap=6(christ,david,flock,one,peter); seed->seed"}
+{"edge_id": 53328, "score": 0.646, "rationale": "plausible hypothesis: sim=0.35; prior=0.48; theo_overlap=3(jesus,new,twelve); title_share=1; seed->seed"}
+{"edge_id": 53333, "score": 0.64, "rationale": "plausible hypothesis: sim=0.35; prior=0.48; theo_overlap=3(living,new,peter); title_share=1; seed->seed"}
+{"edge_id": 53338, "score": 0.672, "rationale": "plausible hypothesis: sim=0.34; prior=0.47; theo_overlap=1(john); title_near_dup; seed->seed"}
+{"edge_id": 53343, "score": 0.583, "rationale": "plausible hypothesis: sim=0.33; prior=0.46; theo_overlap=2(fulfillment,messiah); title_share=1; seed->seed"}
+{"edge_id": 53348, "score": 0.527, "rationale": "plausible hypothesis: sim=0.32; prior=0.45; theo_overlap=1(christ); title_share=1; seed->seed"}
+{"edge_id": 53353, "score": 0.518, "rationale": "plausible hypothesis: sim=0.32; prior=0.45; theo_overlap=2(jesus,resurrection); miracle->miracle"}
+{"edge_id": 53358, "score": 0.538, "rationale": "plausible hypothesis: sim=0.31; prior=0.44; theo_overlap=2(bride,love); title_share=1; seed->seed"}
+{"edge_id": 53363, "score": 0.687, "rationale": "plausible hypothesis: sim=0.30; prior=0.43; theo_overlap=2(christ,isaiah); title_near_dup; seed->seed"}
+{"edge_id": 53368, "score": 0.55, "rationale": "plausible hypothesis: sim=0.30; prior=0.43; theo_overlap=3(atonement,christ,day); seed->seed"}
+{"edge_id": 53373, "score": 0.498, "rationale": "thin: sim=0.30; prior=0.43; theo_overlap=2(fulfillment,john); seed->seed"}
+{"edge_id": 53378, "score": 0.461, "rationale": "thin: sim=0.29; prior=0.42; theo_overlap=2(drink,fulfillment); seed->seed"}
+{"edge_id": 53383, "score": 0.495, "rationale": "thin: sim=0.29; prior=0.42; theo_overlap=2(angel,name); seed->theophany"}
+{"edge_id": 53388, "score": 0.624, "rationale": "plausible hypothesis: sim=0.28; prior=0.41; theo_overlap=4(christ,fulfillment,glory,temple); title_share=1; seed->seed"}
+{"edge_id": 53393, "score": 0.532, "rationale": "plausible hypothesis: sim=0.28; prior=0.41; theo_overlap=3(jesus,sin,wine); seed->seed"}
+{"edge_id": 53398, "score": 0.489, "rationale": "thin: sim=0.28; prior=0.41; theo_overlap=1(christ); title_share=1; seed->seed"}
+{"edge_id": 53403, "score": 0.623, "rationale": "plausible hypothesis: sim=0.28; prior=0.40; theo_overlap=4(christ,death,fulfillment,joseph); title_share=1; seed->seed"}
+{"edge_id": 53408, "score": 0.661, "rationale": "plausible hypothesis: sim=0.27; prior=0.40; theo_overlap=2(eden,garden); title_near_dup; seed->seed"}
+{"edge_id": 53413, "score": 0.44, "rationale": "thin: sim=0.27; prior=0.40; title_share=1; seed->seed"}
+{"edge_id": 53418, "score": 0.528, "rationale": "plausible hypothesis: sim=0.27; prior=0.40; theo_overlap=2(daniel,ezekiel); title_share=1; seed->seed"}
+{"edge_id": 53423, "score": 0.476, "rationale": "thin: sim=0.27; prior=0.40; theo_overlap=2(christ,sin); seed->seed"}
+{"edge_id": 53428, "score": 0.351, "rationale": "thin: sim=0.27; prior=0.40; theo_overlap=1(fulfillment); seed->seed"}
+{"edge_id": 53433, "score": 0.544, "rationale": "plausible hypothesis: sim=0.27; prior=0.39; theo_overlap=4(blood,egypt,firstborn,passover); seed->miracle"}
+{"edge_id": 53438, "score": 0.516, "rationale": "plausible hypothesis: sim=0.26; prior=0.39; theo_overlap=3(christ,fulfillment,lord); seed->seed"}
+{"edge_id": 53443, "score": 0.341, "rationale": "thin: sim=0.26; prior=0.39; theo_overlap=1(christ); seed->seed"}
+{"edge_id": 53448, "score": 0.515, "rationale": "plausible hypothesis: sim=0.26; prior=0.39; theo_overlap=2(noah,peter); title_share=1; seed->seed"}
+{"edge_id": 53453, "score": 0.472, "rationale": "thin: sim=0.26; prior=0.39; theo_overlap=1(holy); title_share=1; seed->seed"}
+{"edge_id": 53458, "score": 0.421, "rationale": "thin: sim=0.26; prior=0.38; theo_overlap=1(jesus); seed->seed"}
+{"edge_id": 53463, "score": 0.605, "rationale": "plausible hypothesis: sim=0.25; prior=0.38; theo_overlap=4(christ,hope,jesus,lord); title_share=1; seed->seed"}
+{"edge_id": 53468, "score": 0.462, "rationale": "thin: sim=0.25; prior=0.38; theo_overlap=2(jesus,john); seed->seed"}
+{"edge_id": 53473, "score": 0.551, "rationale": "plausible hypothesis: sim=0.25; prior=0.38; theo_overlap=4(exodus,jesus,lamb,passover); seed->seed"}
+{"edge_id": 53478, "score": 0.441, "rationale": "thin: sim=0.25; prior=0.38; theo_overlap=2(christ,tree); seed->seed"}
+{"edge_id": 53483, "score": 0.415, "rationale": "thin: sim=0.25; prior=0.38; theo_overlap=1(mountain); seed->seed"}
+{"edge_id": 53488, "score": 0.549, "rationale": "plausible hypothesis: sim=0.25; prior=0.38; theo_overlap=4(eden,garden,jesus,john); seed->seed"}
+{"edge_id": 53493, "score": 0.486, "rationale": "thin: sim=0.30; prior=0.38; theo_overlap=2(lord,yhwh); lexeme->lexeme"}
+{"edge_id": 53498, "score": 0.592, "rationale": "plausible hypothesis: sim=0.24; prior=0.38; theo_overlap=1(john); title_near_dup; seed->seed"}
+{"edge_id": 53503, "score": 0.484, "rationale": "thin: sim=0.29; prior=0.37; theo_overlap=2(life,living); lexeme->lexeme"}
+{"edge_id": 53508, "score": 0.31, "rationale": "thin: sim=0.24; prior=0.37; seed->seed"}
+{"edge_id": 53513, "score": 0.5, "rationale": "thin: sim=0.24; prior=0.37; theo_overlap=3(fulfillment,priest,sin); seed->seed"}
+{"edge_id": 53518, "score": 0.423, "rationale": "thin: sim=0.24; prior=0.37; theo_overlap=2(bride,covenant); title_share=1; seed->seed"}
+{"edge_id": 53523, "score": 0.296, "rationale": "noise: sim=0.24; prior=0.37; seed->seed"}
+{"edge_id": 53528, "score": 0.394, "rationale": "thin: sim=0.24; prior=0.37; theo_overlap=1(fulfillment); prophecy->prophecy"}
+{"edge_id": 53533, "score": 0.479, "rationale": "thin: sim=0.29; prior=0.37; theo_overlap=2(john,word); lexeme->lexeme"}
+{"edge_id": 53538, "score": 0.545, "rationale": "plausible hypothesis: sim=0.24; prior=0.37; theo_overlap=3(christ,david,fulfillment); title_share=1; seed->seed"}
+{"edge_id": 53543, "score": 0.407, "rationale": "thin: sim=0.24; prior=0.37; theo_overlap=1(fulfillment); title_share=1; seed->seed"}
+{"edge_id": 53548, "score": 0.499, "rationale": "thin: sim=0.23; prior=0.37; theo_overlap=2(abraham,christ); title_share=1; seed->seed"}
+{"edge_id": 53553, "score": 0.468, "rationale": "thin: sim=0.23; prior=0.36; theo_overlap=2(christ,fulfillment); title_share=1; seed->seed"}
+{"edge_id": 53558, "score": 0.43, "rationale": "thin: sim=0.23; prior=0.36; theo_overlap=1(tree); title_share=1; seed->seed"}
+{"edge_id": 53563, "score": 0.542, "rationale": "plausible hypothesis: sim=0.23; prior=0.36; theo_overlap=3(fulfillment,jesus,king); title_share=1; seed->seed"}
+{"edge_id": 53568, "score": 0.296, "rationale": "noise: sim=0.23; prior=0.36; seed->seed"}
+{"edge_id": 53573, "score": 0.562, "rationale": "plausible hypothesis: sim=0.36; prior=0.36; theo_overlap=3(good,jesus,news); lexeme->lexeme"}
+{"edge_id": 53578, "score": 0.535, "rationale": "plausible hypothesis: sim=0.23; prior=0.36; theo_overlap=4(christ,forty,jesus,resurrection); miracle->miracle"}
+{"edge_id": 53583, "score": 0.539, "rationale": "plausible hypothesis: sim=0.23; prior=0.36; theo_overlap=3(christ,new,spirit); title_share=1; seed->seed"}
+{"edge_id": 53588, "score": 0.649, "rationale": "plausible hypothesis: sim=0.36; prior=0.36; theo_overlap=1(creation); title_near_dup; lexeme->lexeme"}
+{"edge_id": 53593, "score": 0.448, "rationale": "thin: sim=0.23; prior=0.36; theo_overlap=1(john); title_share=1; seed->seed"}
+{"edge_id": 53598, "score": 0.553, "rationale": "plausible hypothesis: sim=0.23; prior=0.36; theo_overlap=1(fulfillment); title_near_dup; seed->seed"}
+{"edge_id": 53603, "score": 0.479, "rationale": "thin: sim=0.23; prior=0.36; theo_overlap=2(fulfillment,isaiah); title_share=1; seed->seed"}
+{"edge_id": 53608, "score": 0.454, "rationale": "thin: sim=0.23; prior=0.36; theo_overlap=3(fulfillment,king,repentance); seed->seed"}
+{"edge_id": 53613, "score": 0.389, "rationale": "thin: sim=0.23; prior=0.36; theo_overlap=1(john); seed->seed"}
+{"edge_id": 53618, "score": 0.427, "rationale": "thin: sim=0.23; prior=0.36; theo_overlap=2(cup,wine); seed->seed"}
+{"edge_id": 53623, "score": 0.295, "rationale": "noise: sim=0.23; prior=0.35; theo_overlap=1(john); seed->seed"}
+{"edge_id": 53628, "score": 0.444, "rationale": "thin: sim=0.22; prior=0.35; theo_overlap=1(jesus); title_share=1; seed->seed"}
+{"edge_id": 53633, "score": 0.355, "rationale": "thin: sim=0.22; prior=0.35; theo_overlap=1(fulfillment); seed->seed"}
+{"edge_id": 53638, "score": 0.387, "rationale": "thin: sim=0.22; prior=0.35; theo_overlap=2(fulfillment,joshua); seed->seed"}
+{"edge_id": 53643, "score": 0.346, "rationale": "thin: sim=0.22; prior=0.35; theo_overlap=1(sheol); seed->seed"}
+{"edge_id": 53648, "score": 0.661, "rationale": "plausible hypothesis: sim=0.22; prior=0.35; theo_overlap=3(covenant,mountain,sinai); title_near_dup; seed->seed"}
+{"edge_id": 53653, "score": 0.418, "rationale": "thin: sim=0.27; prior=0.35; theo_overlap=1(son); lexeme->lexeme"}
+{"edge_id": 53658, "score": 0.353, "rationale": "thin: sim=0.22; prior=0.35; theo_overlap=1(fulfillment); seed->seed"}
+{"edge_id": 53663, "score": 0.419, "rationale": "thin: sim=0.22; prior=0.35; theo_overlap=3(father,jesus,john); seed->seed"}
+{"edge_id": 53668, "score": 0.369, "rationale": "thin: sim=0.22; prior=0.35; theo_overlap=2(manna,wilderness); seed->seed"}
+{"edge_id": 53673, "score": 0.467, "rationale": "thin: sim=0.22; prior=0.35; theo_overlap=2(christ,sin); title_share=1; seed->seed"}
+{"edge_id": 53678, "score": 0.483, "rationale": "thin: sim=0.22; prior=0.35; theo_overlap=2(fulfillment,john); title_share=1; seed->seed"}
+{"edge_id": 53683, "score": 0.327, "rationale": "thin: sim=0.22; prior=0.35; seed->seed"}
+{"edge_id": 53688, "score": 0.573, "rationale": "plausible hypothesis: sim=0.22; prior=0.35; theo_overlap=4(christ,exodus,firstborn,fulfillment); title_share=1; seed->seed"}
+{"edge_id": 53693, "score": 0.523, "rationale": "plausible hypothesis: sim=0.22; prior=0.35; theo_overlap=4(christ,fulfillment,lord,one); seed->seed"}
+{"edge_id": 53698, "score": 0.342, "rationale": "thin: sim=0.21; prior=0.35; theo_overlap=1(jerusalem); seed->seed"}
+{"edge_id": 53703, "score": 0.425, "rationale": "thin: sim=0.21; prior=0.34; theo_overlap=2(christ,resurrection); title_share=1; seed->seed"}
+{"edge_id": 53708, "score": 0.655, "rationale": "plausible hypothesis: sim=0.21; prior=0.34; theo_overlap=3(covenant,john,new); title_near_dup; seed->seed"}
+{"edge_id": 53713, "score": 0.458, "rationale": "thin: sim=0.21; prior=0.34; theo_overlap=3(blood,christ,fulfillment); seed->seed"}
+{"edge_id": 53718, "score": 0.434, "rationale": "thin: sim=0.21; prior=0.34; theo_overlap=1(cleansing); title_share=1; seed->seed"}
+{"edge_id": 53723, "score": 0.369, "rationale": "thin: sim=0.21; prior=0.34; theo_overlap=2(death,fulfillment); seed->seed"}
+{"edge_id": 53728, "score": 0.507, "rationale": "plausible hypothesis: sim=0.21; prior=0.34; theo_overlap=3(christ,fulfillment,king); title_share=1; seed->seed"}
+{"edge_id": 53733, "score": 0.37, "rationale": "thin: sim=0.21; prior=0.34; theo_overlap=1(son); seed->seed"}
+{"edge_id": 53738, "score": 0.218, "rationale": "noise: sim=0.21; prior=0.34; seed->seed"}
+{"edge_id": 53743, "score": 0.522, "rationale": "plausible hypothesis: sim=0.21; prior=0.34; theo_overlap=3(one,peter,shepherd); title_share=1; seed->seed"}
+{"edge_id": 53748, "score": 0.432, "rationale": "thin: sim=0.21; prior=0.34; theo_overlap=1(peter); title_share=1; seed->seed"}
+{"edge_id": 53753, "score": 0.217, "rationale": "noise: sim=0.21; prior=0.34; seed->seed"}
+{"edge_id": 53758, "score": 0.337, "rationale": "thin: sim=0.21; prior=0.34; seed->seed"}
+{"edge_id": 53763, "score": 0.516, "rationale": "plausible hypothesis: sim=0.21; prior=0.34; theo_overlap=4(day,exodus,fulfillment,john); seed->seed"}
+{"edge_id": 53768, "score": 0.322, "rationale": "thin: sim=0.21; prior=0.34; theo_overlap=1(temple); seed->seed"}
+{"edge_id": 53773, "score": 0.38, "rationale": "thin: sim=0.21; prior=0.34; theo_overlap=1(jesus); seed->seed"}
+{"edge_id": 53778, "score": 0.39, "rationale": "thin: sim=0.21; prior=0.34; theo_overlap=2(fulfillment,isaiah); seed->seed"}
+{"edge_id": 53783, "score": 0.416, "rationale": "thin: sim=0.21; prior=0.34; theo_overlap=1(christ); title_share=1; seed->seed"}
+{"edge_id": 53788, "score": 0.423, "rationale": "thin: sim=0.20; prior=0.34; theo_overlap=2(jerusalem,zion); seed->seed"}
+{"edge_id": 53793, "score": 0.303, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=1(bread); seed->seed"}
+{"edge_id": 53798, "score": 0.341, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=1(shepherd); title_share=1; seed->seed"}
+{"edge_id": 53803, "score": 0.29, "rationale": "noise: sim=0.20; prior=0.33; seed->seed"}
+{"edge_id": 53808, "score": 0.513, "rationale": "plausible hypothesis: sim=0.20; prior=0.33; theo_overlap=3(christ,david,fulfillment); title_share=1; seed->seed"}
+{"edge_id": 53813, "score": 0.427, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=1(seven); title_share=1; seed->seed"}
+{"edge_id": 53818, "score": 0.449, "rationale": "thin: sim=0.25; prior=0.33; theo_overlap=2(glory,jesus); lexeme->lexeme"}
+{"edge_id": 53823, "score": 0.557, "rationale": "plausible hypothesis: sim=0.20; prior=0.33; theo_overlap=1(john); title_near_dup; seed->seed"}
+{"edge_id": 53828, "score": 0.247, "rationale": "noise: sim=0.20; prior=0.33; seed->seed"}
+{"edge_id": 53833, "score": 0.606, "rationale": "plausible hypothesis: sim=0.20; prior=0.33; theo_overlap=5(anointed,christ,david,fulfillment,lord); title_share=1; seed->seed"}
+{"edge_id": 53838, "score": 0.652, "rationale": "plausible hypothesis: sim=0.28; prior=0.33; theo_overlap=3(lord,rock,water); title_near_dup; symbol->seed"}
+{"edge_id": 53843, "score": 0.367, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=2(christ,isaiah); seed->seed"}
+{"edge_id": 53848, "score": 0.27, "rationale": "noise: sim=0.20; prior=0.33; seed->seed"}
+{"edge_id": 53853, "score": 0.442, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=3(christ,peter,tree); seed->seed"}
+{"edge_id": 53858, "score": 0.547, "rationale": "plausible hypothesis: sim=0.20; prior=0.33; theo_overlap=4(fulfillment,king,lord,zion); title_share=1; seed->seed"}
+{"edge_id": 53863, "score": 0.514, "rationale": "plausible hypothesis: sim=0.20; prior=0.33; theo_overlap=3(christ,isaiah,peter); title_share=1; seed->seed"}
+{"edge_id": 53868, "score": 0.565, "rationale": "plausible hypothesis: sim=0.20; prior=0.33; theo_overlap=2(isaiah,light); title_near_dup; seed->prophecy"}
+{"edge_id": 53873, "score": 0.419, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=2(jesus,sinai); seed->seed"}
+{"edge_id": 53878, "score": 0.415, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=1(lamb); title_share=1; seed->seed"}
+{"edge_id": 53883, "score": 0.463, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=3(christ,city,fulfillment); seed->seed"}
+{"edge_id": 53888, "score": 0.371, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=2(fulfillment,priest); seed->seed"}
+{"edge_id": 53893, "score": 0.268, "rationale": "noise: sim=0.20; prior=0.33; seed->seed"}
+{"edge_id": 53898, "score": 0.415, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=3(death,exodus,fulfillment); seed->seed"}
+{"edge_id": 53903, "score": 0.377, "rationale": "thin: sim=0.20; prior=0.33; title_share=1; seed->seed"}
+{"edge_id": 53908, "score": 0.318, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=1(isaiah); seed->seed"}
+{"edge_id": 53913, "score": 0.412, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=2(fulfillment,peter); seed->seed"}
+{"edge_id": 53918, "score": 0.291, "rationale": "noise: sim=0.20; prior=0.33; theo_overlap=1(death); seed->seed"}
+{"edge_id": 53923, "score": 0.272, "rationale": "noise: sim=0.20; prior=0.33; theo_overlap=1(christ); seed->seed"}
+{"edge_id": 53928, "score": 0.278, "rationale": "noise: sim=0.20; prior=0.33; title_share=1; seed->seed"}
+{"edge_id": 53933, "score": 0.551, "rationale": "plausible hypothesis: sim=0.20; prior=0.33; theo_overlap=1(john); title_near_dup; seed->seed"}
+{"edge_id": 53938, "score": 0.458, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=2(healing,jesus); title_share=1; miracle->miracle"}
+{"edge_id": 53943, "score": 0.42, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=1(paul); title_share=1; seed->seed"}
+{"edge_id": 53948, "score": 0.46, "rationale": "thin: sim=0.20; prior=0.33; theo_overlap=3(atonement,christ,day); seed->seed"}
+{"edge_id": 53953, "score": 0.407, "rationale": "thin: sim=0.20; prior=0.32; theo_overlap=1(christ); title_share=1; seed->seed"}
+{"edge_id": 53958, "score": 0.325, "rationale": "thin: sim=0.20; prior=0.32; theo_overlap=1(spirit); title_share=1; seed->seed"}
+{"edge_id": 53963, "score": 0.339, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=1(twelve); title_share=1; seed->seed"}
+{"edge_id": 53968, "score": 0.371, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=2(fulfillment,messiah); seed->seed"}
+{"edge_id": 53973, "score": 0.335, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=1(son); seed->seed"}
+{"edge_id": 53978, "score": 0.356, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=2(fulfillment,lord); seed->seed"}
+{"edge_id": 53983, "score": 0.223, "rationale": "noise: sim=0.19; prior=0.32; seed->seed"}
+{"edge_id": 53988, "score": 0.222, "rationale": "noise: sim=0.19; prior=0.32; seed->seed"}
+{"edge_id": 53993, "score": 0.324, "rationale": "thin: sim=0.19; prior=0.32; title_share=1; seed->seed"}
+{"edge_id": 53998, "score": 0.225, "rationale": "noise: sim=0.19; prior=0.32; seed->seed"}
+{"edge_id": 54003, "score": 0.372, "rationale": "thin: sim=0.19; prior=0.32; title_share=1; seed->seed"}
+{"edge_id": 54008, "score": 0.372, "rationale": "thin: sim=0.19; prior=0.32; title_share=1; seed->seed"}
+{"edge_id": 54013, "score": 0.344, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=1(fulfillment); seed->seed"}
+{"edge_id": 54018, "score": 0.299, "rationale": "noise: sim=0.19; prior=0.32; theo_overlap=1(christ); seed->seed"}
+{"edge_id": 54023, "score": 0.294, "rationale": "noise: sim=0.19; prior=0.32; seed->seed"}
+{"edge_id": 54028, "score": 0.266, "rationale": "noise: sim=0.19; prior=0.32; theo_overlap=1(lord); seed->seed"}
+{"edge_id": 54033, "score": 0.338, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=1(temple); seed->festival"}
+{"edge_id": 54038, "score": 0.42, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=3(christ,manna,wilderness); seed->seed"}
+{"edge_id": 54043, "score": 0.377, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=2(egypt,vine); title_share=1; seed->parable"}
+{"edge_id": 54048, "score": 0.348, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=1(fulfillment); seed->seed"}
+{"edge_id": 54053, "score": 0.24, "rationale": "noise: sim=0.19; prior=0.32; seed->seed"}
+{"edge_id": 54058, "score": 0.218, "rationale": "noise: sim=0.19; prior=0.32; seed->seed"}
+{"edge_id": 54063, "score": 0.372, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=1(vine); title_share=1; parable->parable"}
+{"edge_id": 54068, "score": 0.279, "rationale": "noise: sim=0.19; prior=0.32; seed->seed"}
+{"edge_id": 54073, "score": 0.328, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=2(bread,christ); seed->seed"}
+{"edge_id": 54078, "score": 0.358, "rationale": "thin: sim=0.19; prior=0.32; title_share=1; seed->seed"}
+{"edge_id": 54083, "score": 0.543, "rationale": "plausible hypothesis: sim=0.19; prior=0.32; theo_overlap=1(john); title_near_dup; seed->seed"}
+{"edge_id": 54088, "score": 0.346, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=1(paul); seed->seed"}
+{"edge_id": 54093, "score": 0.346, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=1(fulfillment); prophecy->prophecy"}
+{"edge_id": 54098, "score": 0.436, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=3(christ,jeremiah,new); seed->seed"}
+{"edge_id": 54103, "score": 0.363, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=1(death); seed->seed"}
+{"edge_id": 54108, "score": 0.419, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=3(christ,earth,fulfillment); seed->seed"}
+{"edge_id": 54113, "score": 0.318, "rationale": "thin: sim=0.19; prior=0.32; seed->seed"}
+{"edge_id": 54118, "score": 0.304, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=1(moses); seed->seed"}
+{"edge_id": 54123, "score": 0.297, "rationale": "noise: sim=0.19; prior=0.32; seed->seed"}
+{"edge_id": 54128, "score": 0.383, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=2(day,resurrection); seed->seed"}
+{"edge_id": 54133, "score": 0.338, "rationale": "thin: sim=0.19; prior=0.32; theo_overlap=1(fulfillment); seed->seed"}
+{"edge_id": 54138, "score": 0.367, "rationale": "thin: sim=0.19; prior=0.32; title_share=1; seed->seed"}
+{"edge_id": 54143, "score": 0.353, "rationale": "thin: sim=0.18; prior=0.32; theo_overlap=2(john,lamb); seed->seed"}
+{"edge_id": 54148, "score": 0.271, "rationale": "noise: sim=0.18; prior=0.31; seed->seed"}
+{"edge_id": 54153, "score": 0.451, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=3(day,rest,sabbath); seed->seed"}
+{"edge_id": 54158, "score": 0.293, "rationale": "noise: sim=0.18; prior=0.31; theo_overlap=1(christ); seed->seed"}
+{"edge_id": 54163, "score": 0.376, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=1(son); title_share=1; seed->seed"}
+{"edge_id": 54168, "score": 0.28, "rationale": "noise: sim=0.18; prior=0.31; theo_overlap=1(fulfillment); seed->seed"}
+{"edge_id": 54173, "score": 0.405, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=2(christ,lord); seed->seed"}
+{"edge_id": 54178, "score": 0.342, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=1(moses); miracle->miracle"}
+{"edge_id": 54183, "score": 0.36, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=1(zion); seed->seed"}
+{"edge_id": 54188, "score": 0.409, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=1(daniel); title_share=1; seed->seed"}
+{"edge_id": 54193, "score": 0.499, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=3(fulfillment,isaiah,lord); title_share=1; seed->seed"}
+{"edge_id": 54198, "score": 0.324, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=2(christ,lord); seed->seed"}
+{"edge_id": 54203, "score": 0.494, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=4(jesus,mountain,new,sinai); seed->seed"}
+{"edge_id": 54208, "score": 0.294, "rationale": "noise: sim=0.18; prior=0.31; seed->seed"}
+{"edge_id": 54213, "score": 0.345, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=1(paul); seed->seed"}
+{"edge_id": 54218, "score": 0.276, "rationale": "noise: sim=0.18; prior=0.31; theo_overlap=1(new); seed->seed"}
+{"edge_id": 54223, "score": 0.386, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=2(christ,fulfillment); seed->seed"}
+{"edge_id": 54228, "score": 0.403, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=2(christ,lord); seed->seed"}
+{"edge_id": 54233, "score": 0.538, "rationale": "plausible hypothesis: sim=0.18; prior=0.31; theo_overlap=1(john); title_near_dup; seed->seed"}
+{"edge_id": 54238, "score": 0.279, "rationale": "noise: sim=0.18; prior=0.31; theo_overlap=1(fulfillment); seed->seed"}
+{"edge_id": 54243, "score": 0.3, "rationale": "noise: sim=0.18; prior=0.31; theo_overlap=1(christ); seed->seed"}
+{"edge_id": 54248, "score": 0.357, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=1(jesus); seed->seed"}
+{"edge_id": 54253, "score": 0.308, "rationale": "thin: sim=0.18; prior=0.31; seed->seed"}
+{"edge_id": 54258, "score": 0.403, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=1(peter); title_share=1; seed->seed"}
+{"edge_id": 54263, "score": 0.492, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=4(death,father,jesus,john); seed->seed"}
+{"edge_id": 54268, "score": 0.352, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=2(fulfillment,john); seed->seed"}
+{"edge_id": 54273, "score": 0.333, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=1(spirit); miracle->miracle"}
+{"edge_id": 54278, "score": 0.367, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=2(fulfillment,jacob); seed->seed"}
+{"edge_id": 54283, "score": 0.356, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=1(fulfillment); prophecy->prophecy"}
+{"edge_id": 54288, "score": 0.359, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=2(earth,fulfillment); seed->seed"}
+{"edge_id": 54293, "score": 0.384, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=2(christ,fulfillment); seed->seed"}
+{"edge_id": 54298, "score": 0.356, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=1(paul); seed->seed"}
+{"edge_id": 54303, "score": 0.535, "rationale": "plausible hypothesis: sim=0.18; prior=0.31; theo_overlap=5(christ,exodus,fulfillment,life,moses); seed->seed"}
+{"edge_id": 54308, "score": 0.349, "rationale": "thin: sim=0.18; prior=0.31; theo_overlap=2(fulfillment,light); seed->seed"}

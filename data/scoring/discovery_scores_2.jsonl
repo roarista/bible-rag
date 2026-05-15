@@ -1,0 +1,200 @@
+{"edge_id": 53311, "score": 0.99, "rationale": "sim=0.48 prior=0.61; shared verses: ['2sa12', 'jhn21']; shared figures: ['david', 'jesus', 'peter']; strong thematic overlap (5 clusters: ['denial_betrayal', 'seven', 'shepherd', 'three']); title overlap: ['peter', 'three']"}
+{"edge_id": 53316, "score": 0.82, "rationale": "sim=0.41 prior=0.54; shared verses: ['dan6']; strong thematic overlap (4 clusters: ['covenant', 'rejected_chosen', 'resurrection', 'water_chaos'])"}
+{"edge_id": 53321, "score": 0.805, "rationale": "sim=0.38 prior=0.51; shared figures: ['jonah', 'paul']; some thematic overlap (['bread', 'water_chaos']); title overlap: ['shipwreck']"}
+{"edge_id": 53326, "score": 0.755, "rationale": "sim=0.36 prior=0.49; shared verses: ['gen2', 'jhn18']; shared figures: ['eve']; title overlap: ['garden']"}
+{"edge_id": 53331, "score": 0.562, "rationale": "sim=0.35 prior=0.48; shared verses: ['mat5']"}
+{"edge_id": 53336, "score": 0.99, "rationale": "sim=0.47 prior=0.47; shared verses: ['isa52', 'isa52:13']; shared figures: ['isaiah']; title overlap: ['servant', 'suffering']"}
+{"edge_id": 53341, "score": 0.558, "rationale": "sim=0.34 prior=0.46; thematic overlap (['kingship', 'restoration', 'temple'])"}
+{"edge_id": 53346, "score": 0.63, "rationale": "sim=0.32 prior=0.45; shared figures: ['christ', 'ruth']; title overlap: ['boaz']"}
+{"edge_id": 53351, "score": 0.61, "rationale": "sim=0.32 prior=0.45; shared verses: ['1pe2']; shared figures: ['peter']; title overlap: ['peter']"}
+{"edge_id": 53356, "score": 0.582, "rationale": "sim=0.36 prior=0.44; sim=0.36, no strong cross-signals"}
+{"edge_id": 53361, "score": 0.747, "rationale": "sim=0.30 prior=0.43; shared verses: ['exo4', 'exo4:22']; shared figures: ['christ']; some thematic overlap (['exodus', 'firstborn'])"}
+{"edge_id": 53366, "score": 0.93, "rationale": "sim=0.43 prior=0.43; shared verses: ['isa5', 'psa80']; shared figures: ['isaiah', 'jesus']; title overlap: ['vine']"}
+{"edge_id": 53371, "score": 0.708, "rationale": "sim=0.30 prior=0.43; shared verses: ['1pe2']; shared figures: ['peter']; some thematic overlap (['rejected_chosen', 'resurrection']); title overlap: ['stones']"}
+{"edge_id": 53376, "score": 0.642, "rationale": "sim=0.29 prior=0.43; shared figures: ['daniel', 'eve']; thematic overlap (['tree_garden', 'water_chaos', 'word_voice']); title overlap: ['revelation']"}
+{"edge_id": 53381, "score": 0.598, "rationale": "sim=0.34 prior=0.42; shared figures: ['jesus']"}
+{"edge_id": 53386, "score": 0.742, "rationale": "sim=0.28 prior=0.41; shared verses: ['luk23']; shared figures: ['jesus']; thematic overlap (['cross_tree', 'tree_garden', 'word_voice']); title overlap: ['cross', 'words']"}
+{"edge_id": 53391, "score": 0.518, "rationale": "sim=0.28 prior=0.41; shared figures: ['christ']; thematic overlap (['cleansing', 'tree_garden', 'water_chaos'])"}
+{"edge_id": 53396, "score": 0.49, "rationale": "sim=0.28 prior=0.41; shared verses: ['rev21']; some thematic overlap (['mountain', 'tree_garden'])"}
+{"edge_id": 53401, "score": 0.902, "rationale": "sim=0.35 prior=0.41; shared verses: ['jos3']; shared figures: ['joshua', 'moses']; thematic overlap (['cross_tree', 'name', 'seven']); title overlap: ['joshua']"}
+{"edge_id": 53406, "score": 0.497, "rationale": "sim=0.27 prior=0.40; thematic overlap (['judgment', 'tree_garden', 'water_chaos'])"}
+{"edge_id": 53411, "score": 0.403, "rationale": "sim=0.27 prior=0.40; title overlap: ['hebrews']"}
+{"edge_id": 53416, "score": 0.55, "rationale": "sim=0.27 prior=0.40; shared figures: ['isaiah', 'peter']; some thematic overlap (['spirit', 'tree_garden']); title overlap: ['peter']"}
+{"edge_id": 53421, "score": 0.835, "rationale": "sim=0.27 prior=0.40; shared verses: ['jhn6', 'jhn6:35']; shared figures: ['christ', 'eve', 'joseph']; some thematic overlap (['bread', 'exodus']); title overlap: ['joseph']"}
+{"edge_id": 53426, "score": 0.585, "rationale": "sim=0.27 prior=0.40; shared figures: ['christ', 'eve']; title overlap: ['king', 'psalm']"}
+{"edge_id": 53431, "score": 0.342, "rationale": "sim=0.27 prior=0.39; sim=0.27, no strong cross-signals"}
+{"edge_id": 53436, "score": 0.565, "rationale": "sim=0.26 prior=0.39; shared verses: ['mat26']; strong thematic overlap (4 clusters: ['bread', 'covenant', 'sacrifice', 'tree_garden'])"}
+{"edge_id": 53441, "score": 0.533, "rationale": "sim=0.26 prior=0.39; shared figures: ['eve']; some thematic overlap (['exodus', 'tree_garden']); title overlap: ['scripture', 'throughout']"}
+{"edge_id": 53446, "score": 0.412, "rationale": "sim=0.26 prior=0.39; shared verses: ['1co15']"}
+{"edge_id": 53451, "score": 0.478, "rationale": "sim=0.26 prior=0.39; shared figures: ['eve']; some thematic overlap (['mountain', 'tree_garden']); title overlap: ['revelation']"}
+{"edge_id": 53456, "score": 0.427, "rationale": "sim=0.26 prior=0.39; shared figures: ['eve']; title overlap: ['revelation']"}
+{"edge_id": 53461, "score": 0.513, "rationale": "sim=0.25 prior=0.38; shared figures: ['abraham', 'isaac']; title overlap: ['isaac']"}
+{"edge_id": 53466, "score": 0.5, "rationale": "sim=0.25 prior=0.38; shared verses: ['lev16']; shared figures: ['christ']; some thematic overlap (['blessing_curse', 'sacrifice'])"}
+{"edge_id": 53471, "score": 0.417, "rationale": "sim=0.25 prior=0.38; shared figures: ['christ']; some thematic overlap (['kingship', 'tree_garden'])"}
+{"edge_id": 53476, "score": 0.365, "rationale": "sim=0.25 prior=0.38; shared figures: ['eve']"}
+{"edge_id": 53481, "score": 0.503, "rationale": "sim=0.25 prior=0.38; shared figures: ['jesus', 'peter']; some thematic overlap (['name', 'restoration'])"}
+{"edge_id": 53486, "score": 0.542, "rationale": "sim=0.25 prior=0.38; shared verses: ['gen1']; some thematic overlap (['bread', 'tree_garden']); title overlap: ['scripture', 'throughout']"}
+{"edge_id": 53491, "score": 0.492, "rationale": "sim=0.25 prior=0.38; shared verses: ['isa53']; shared figures: ['isaiah']; some thematic overlap (['mother_child', 'sacrifice'])"}
+{"edge_id": 53496, "score": 0.448, "rationale": "sim=0.24 prior=0.38; title overlap: ['john', 'walk']"}
+{"edge_id": 53501, "score": 0.358, "rationale": "sim=0.24 prior=0.37; shared figures: ['christ']"}
+{"edge_id": 53506, "score": 0.407, "rationale": "sim=0.24 prior=0.37; shared figures: ['daniel']; title overlap: ['daniel']"}
+{"edge_id": 53511, "score": 0.625, "rationale": "sim=0.24 prior=0.37; shared verses: ['ezk37']; shared figures: ['ezekiel']; thematic overlap (['flesh_bone', 'resurrection', 'word_voice']); title overlap: ['bones']"}
+{"edge_id": 53516, "score": 0.432, "rationale": "sim=0.24 prior=0.37; shared verses: ['jhn1']; shared figures: ['christ']"}
+{"edge_id": 53521, "score": 0.402, "rationale": "sim=0.24 prior=0.37; shared figures: ['eve']; title overlap: ['revelation']"}
+{"edge_id": 53526, "score": 0.47, "rationale": "sim=0.24 prior=0.37; shared verses: ['lev16']; some thematic overlap (['sacrifice', 'temple'])"}
+{"edge_id": 53531, "score": 0.397, "rationale": "sim=0.24 prior=0.37; shared figures: ['christ']; some thematic overlap (['temple', 'tree_garden'])"}
+{"edge_id": 53536, "score": 0.545, "rationale": "sim=0.24 prior=0.37; shared verses: ['1sa16', '1sa16:1']; shared figures: ['david']"}
+{"edge_id": 53541, "score": 0.495, "rationale": "sim=0.24 prior=0.37; shared figures: ['isaiah']; some thematic overlap (['firstborn', 'mother_child']); title overlap: ['isaiah', 'servant']"}
+{"edge_id": 53546, "score": 0.693, "rationale": "sim=0.24 prior=0.37; shared verses: ['1co10', '1co10:1', 'exo14']; shared figures: ['christ']; strong thematic overlap (4 clusters: ['bread', 'exodus', 'light_dark', 'water_chaos'])"}
+{"edge_id": 53551, "score": 0.392, "rationale": "sim=0.23 prior=0.36; shared figures: ['christ', 'eve']"}
+{"edge_id": 53556, "score": 0.34, "rationale": "sim=0.23 prior=0.36; shared figures: ['christ']"}
+{"edge_id": 53561, "score": 0.338, "rationale": "sim=0.23 prior=0.36; some thematic overlap (['exodus', 'temple'])"}
+{"edge_id": 53566, "score": 0.367, "rationale": "sim=0.23 prior=0.36; shared verses: ['mat27']"}
+{"edge_id": 53571, "score": 0.385, "rationale": "sim=0.23 prior=0.36; shared figures: ['christ']; title overlap: ['wisdom']"}
+{"edge_id": 53576, "score": 0.385, "rationale": "sim=0.23 prior=0.36; shared figures: ['peter']; title overlap: ['peter']"}
+{"edge_id": 53581, "score": 0.383, "rationale": "sim=0.23 prior=0.36; shared figures: ['peter']; title overlap: ['peter']"}
+{"edge_id": 53586, "score": 0.532, "rationale": "sim=0.23 prior=0.36; shared figures: ['eve']; strong thematic overlap (4 clusters: ['covenant', 'seven', 'tree_garden', 'water_chaos']); title overlap: ['revelation']"}
+{"edge_id": 53591, "score": 0.48, "rationale": "sim=0.23 prior=0.36; strong thematic overlap (4 clusters: ['firstborn', 'judgment', 'kingship', 'tree_garden']); title overlap: ['before']"}
+{"edge_id": 53596, "score": 0.46, "rationale": "sim=0.23 prior=0.36; shared verses: ['lev16']; shared figures: ['christ']; some thematic overlap (['sacrifice', 'tree_garden'])"}
+{"edge_id": 53601, "score": 0.378, "rationale": "sim=0.23 prior=0.36; shared figures: ['christ']; some thematic overlap (['spirit', 'tree_garden'])"}
+{"edge_id": 53606, "score": 0.378, "rationale": "sim=0.23 prior=0.36; some thematic overlap (['mountain', 'tree_garden']); title overlap: ['mountain']"}
+{"edge_id": 53611, "score": 0.327, "rationale": "sim=0.23 prior=0.36; shared figures: ['jesus']"}
+{"edge_id": 53616, "score": 0.325, "rationale": "sim=0.23 prior=0.36; shared figures: ['eve']"}
+{"edge_id": 53621, "score": 0.425, "rationale": "sim=0.23 prior=0.35; some thematic overlap (['resurrection', 'tree_garden']); title overlap: ['scripture', 'throughout']"}
+{"edge_id": 53626, "score": 0.373, "rationale": "sim=0.22 prior=0.35; thematic overlap (['sacrifice', 'temple', 'tree_garden'])"}
+{"edge_id": 53631, "score": 0.64, "rationale": "sim=0.22 prior=0.35; shared verses: ['isa53']; shared figures: ['jesus']; thematic overlap (['cross_tree', 'tree_garden', 'word_voice']); title overlap: ['cross', 'words']"}
+{"edge_id": 53636, "score": 0.398, "rationale": "sim=0.22 prior=0.35; shared verses: ['exo12']; some thematic overlap (['sacrifice', 'tree_garden'])"}
+{"edge_id": 53641, "score": 0.368, "rationale": "sim=0.22 prior=0.35; thematic overlap (['fire', 'kingship', 'spirit'])"}
+{"edge_id": 53646, "score": 0.457, "rationale": "sim=0.22 prior=0.35; shared figures: ['eve']; title overlap: ['scripture', 'throughout']"}
+{"edge_id": 53651, "score": 0.397, "rationale": "sim=0.22 prior=0.35; shared verses: ['hos11']; some thematic overlap (['firstborn', 'tree_garden'])"}
+{"edge_id": 53656, "score": 0.365, "rationale": "sim=0.22 prior=0.35; thematic overlap (['cross_tree', 'firstborn', 'mountain'])"}
+{"edge_id": 53661, "score": 0.465, "rationale": "sim=0.22 prior=0.35; shared figures: ['eve', 'isaiah']; thematic overlap (['bread', 'descent_ascent', 'sacrifice'])"}
+{"edge_id": 53666, "score": 0.483, "rationale": "sim=0.22 prior=0.35; shared verses: ['exo12']; shared figures: ['jesus']; some thematic overlap (['sacrifice', 'tree_garden'])"}
+{"edge_id": 53671, "score": 0.312, "rationale": "sim=0.22 prior=0.35; some thematic overlap (['priest', 'tree_garden'])"}
+{"edge_id": 53676, "score": 0.312, "rationale": "sim=0.22 prior=0.35; title overlap: ['malachi']"}
+{"edge_id": 53681, "score": 0.502, "rationale": "sim=0.22 prior=0.35; shared figures: ['christ', 'joseph']; some thematic overlap (['bread', 'exodus']); title overlap: ['joseph']"}
+{"edge_id": 53686, "score": 0.392, "rationale": "sim=0.22 prior=0.35; shared verses: ['isa53']; shared figures: ['jesus']"}
+{"edge_id": 53691, "score": 0.31, "rationale": "sim=0.22 prior=0.35; shared figures: ['eve']"}
+{"edge_id": 53696, "score": 0.26, "rationale": "sim=0.22 prior=0.35; sim=0.22, no strong cross-signals"}
+{"edge_id": 53701, "score": 0.258, "rationale": "sim=0.21 prior=0.34; sim=0.21, no strong cross-signals"}
+{"edge_id": 53706, "score": 0.397, "rationale": "sim=0.21 prior=0.34; some thematic overlap (['sacrifice', 'tree_garden']); title overlap: ['hebrews']"}
+{"edge_id": 53711, "score": 0.445, "rationale": "sim=0.21 prior=0.34; strong thematic overlap (5 clusters: ['covenant', 'descent_ascent', 'rejected_chosen', 'resurrection'])"}
+{"edge_id": 53716, "score": 0.413, "rationale": "sim=0.21 prior=0.34; shared verses: ['isa53', 'psa22']"}
+{"edge_id": 53721, "score": 0.433, "rationale": "sim=0.21 prior=0.34; shared verses: ['lev16']; shared figures: ['christ']; some thematic overlap (['sacrifice', 'tree_garden'])"}
+{"edge_id": 53726, "score": 0.432, "rationale": "sim=0.21 prior=0.34; shared verses: ['lev16']; thematic overlap (['sacrifice', 'temple', 'tree_garden'])"}
+{"edge_id": 53731, "score": 0.632, "rationale": "sim=0.21 prior=0.34; shared verses: ['psa22']; shared figures: ['jesus']; strong thematic overlap (4 clusters: ['cross_tree', 'serpent', 'tree_garden', 'word_voice']); title overlap: ['cross', 'words']"}
+{"edge_id": 53736, "score": 0.4, "rationale": "sim=0.21 prior=0.34; some thematic overlap (['covenant', 'tree_garden']); title overlap: ['scripture', 'throughout']"}
+{"edge_id": 53741, "score": 0.3, "rationale": "sim=0.21 prior=0.34; shared figures: ['christ']"}
+{"edge_id": 53746, "score": 0.52, "rationale": "sim=0.21 prior=0.34; shared verses: ['heb9']; shared figures: ['christ']; thematic overlap (['bread', 'sacrifice', 'shadow_type'])"}
+{"edge_id": 53751, "score": 0.378, "rationale": "sim=0.21 prior=0.34; shared verses: ['mat3']; some thematic overlap (['descent_ascent', 'tree_garden'])"}
+{"edge_id": 53756, "score": 0.482, "rationale": "sim=0.29 prior=0.34; thematic overlap (['bread', 'rejected_chosen', 'resurrection'])"}
+{"edge_id": 53761, "score": 0.437, "rationale": "sim=0.21 prior=0.34; shared figures: ['christ']; some thematic overlap (['firstborn', 'kingship']); title overlap: ['psalm']"}
+{"edge_id": 53766, "score": 0.397, "rationale": "sim=0.21 prior=0.34; some thematic overlap (['mountain', 'tree_garden']); title overlap: ['scripture', 'throughout']"}
+{"edge_id": 53771, "score": 0.345, "rationale": "sim=0.21 prior=0.34; shared figures: ['christ']; some thematic overlap (['exodus', 'sacrifice'])"}
+{"edge_id": 53776, "score": 0.245, "rationale": "sim=0.21 prior=0.34; sim=0.21, no strong cross-signals"}
+{"edge_id": 53781, "score": 0.293, "rationale": "sim=0.21 prior=0.34; shared figures: ['christ']"}
+{"edge_id": 53786, "score": 0.342, "rationale": "sim=0.20 prior=0.34; thematic overlap (['bread', 'rejected_chosen', 'resurrection'])"}
+{"edge_id": 53791, "score": 0.242, "rationale": "sim=0.20 prior=0.34; sim=0.20, no strong cross-signals"}
+{"edge_id": 53796, "score": 0.392, "rationale": "sim=0.20 prior=0.33; some thematic overlap (['resurrection', 'three']); title overlap: ['days', 'three']"}
+{"edge_id": 53801, "score": 0.34, "rationale": "sim=0.20 prior=0.33; shared figures: ['christ']; title overlap: ['psalm']"}
+{"edge_id": 53806, "score": 0.24, "rationale": "sim=0.20 prior=0.33; sim=0.20, no strong cross-signals"}
+{"edge_id": 53811, "score": 0.33, "rationale": "sim=0.20 prior=0.33; some thematic overlap (['exodus', 'fire'])"}
+{"edge_id": 53816, "score": 0.288, "rationale": "sim=0.20 prior=0.33; title overlap: ['hebrews']"}
+{"edge_id": 53821, "score": 0.288, "rationale": "sim=0.20 prior=0.33; some thematic overlap (['bread', 'tree_garden'])"}
+{"edge_id": 53826, "score": 0.338, "rationale": "sim=0.20 prior=0.33; shared figures: ['christ']; some thematic overlap (['sacrifice', 'tree_garden'])"}
+{"edge_id": 53831, "score": 0.238, "rationale": "sim=0.20 prior=0.33; sim=0.20, no strong cross-signals"}
+{"edge_id": 53836, "score": 0.287, "rationale": "sim=0.20 prior=0.33; shared figures: ['eve']"}
+{"edge_id": 53841, "score": 0.337, "rationale": "sim=0.20 prior=0.33; some thematic overlap (['light_dark', 'tree_garden']); title overlap: ['conversion']"}
+{"edge_id": 53846, "score": 0.235, "rationale": "sim=0.20 prior=0.33; sim=0.20, no strong cross-signals"}
+{"edge_id": 53851, "score": 0.235, "rationale": "sim=0.20 prior=0.33; sim=0.20, no strong cross-signals"}
+{"edge_id": 53856, "score": 0.285, "rationale": "sim=0.20 prior=0.33; shared figures: ['eve']"}
+{"edge_id": 53861, "score": 0.363, "rationale": "sim=0.20 prior=0.33; shared verses: ['rev4']; shared figures: ['eve']"}
+{"edge_id": 53866, "score": 0.333, "rationale": "sim=0.20 prior=0.33; shared figures: ['eve']; title overlap: ['revelation']"}
+{"edge_id": 53871, "score": 0.233, "rationale": "sim=0.20 prior=0.33; sim=0.20, no strong cross-signals"}
+{"edge_id": 53876, "score": 0.283, "rationale": "sim=0.20 prior=0.33; shared figures: ['christ']"}
+{"edge_id": 53881, "score": 0.422, "rationale": "sim=0.20 prior=0.33; shared figures: ['christ']; thematic overlap (['bread', 'sacrifice', 'temple'])"}
+{"edge_id": 53886, "score": 0.282, "rationale": "sim=0.20 prior=0.33; some thematic overlap (['fire', 'light_dark'])"}
+{"edge_id": 53891, "score": 0.382, "rationale": "sim=0.20 prior=0.33; shared figures: ['christ']; thematic overlap (['bread', 'firstborn', 'word_voice'])"}
+{"edge_id": 53896, "score": 0.28, "rationale": "sim=0.20 prior=0.33; some thematic overlap (['sacrifice', 'temple'])"}
+{"edge_id": 53901, "score": 0.28, "rationale": "sim=0.20 prior=0.33; shared figures: ['christ']"}
+{"edge_id": 53906, "score": 0.48, "rationale": "sim=0.20 prior=0.33; shared figures: ['eve']; strong thematic overlap (4 clusters: ['sacrifice', 'seven', 'tree_garden', 'water_chaos']); title overlap: ['revelation']"}
+{"edge_id": 53911, "score": 0.378, "rationale": "sim=0.20 prior=0.33; some thematic overlap (['bread', 'tree_garden']); title overlap: ['scripture', 'throughout']"}
+{"edge_id": 53916, "score": 0.328, "rationale": "sim=0.20 prior=0.33; title overlap: ['scripture', 'throughout']"}
+{"edge_id": 53921, "score": 0.328, "rationale": "sim=0.20 prior=0.33; shared figures: ['christ']; title overlap: ['christ']"}
+{"edge_id": 53926, "score": 0.277, "rationale": "sim=0.20 prior=0.33; some thematic overlap (['firstborn', 'kingship'])"}
+{"edge_id": 53931, "score": 0.327, "rationale": "sim=0.20 prior=0.33; thematic overlap (['covenant', 'tree_garden', 'water_chaos'])"}
+{"edge_id": 53936, "score": 0.277, "rationale": "sim=0.20 prior=0.33; shared figures: ['christ']"}
+{"edge_id": 53941, "score": 0.327, "rationale": "sim=0.20 prior=0.33; some thematic overlap (['judgment', 'tree_garden']); title overlap: ['before']"}
+{"edge_id": 53946, "score": 0.355, "rationale": "sim=0.20 prior=0.33; some thematic overlap (['fire', 'light_dark'])"}
+{"edge_id": 53951, "score": 0.225, "rationale": "sim=0.20 prior=0.32; sim=0.20, no strong cross-signals"}
+{"edge_id": 53956, "score": 0.325, "rationale": "sim=0.20 prior=0.32; shared figures: ['christ', 'eve']"}
+{"edge_id": 53961, "score": 0.373, "rationale": "sim=0.19 prior=0.32; shared figures: ['eve']; some thematic overlap (['kingship', 'tree_garden']); title overlap: ['revelation']"}
+{"edge_id": 53966, "score": 0.403, "rationale": "sim=0.19 prior=0.32; shared verses: ['ezk36']; shared figures: ['eve']; some thematic overlap (['spirit', 'tree_garden'])"}
+{"edge_id": 53971, "score": 0.433, "rationale": "sim=0.19 prior=0.32; shared verses: ['isa53', 'jhn20']; some thematic overlap (['resurrection', 'tree_garden'])"}
+{"edge_id": 53976, "score": 0.273, "rationale": "sim=0.19 prior=0.32; some thematic overlap (['sacrifice', 'tree_garden'])"}
+{"edge_id": 53981, "score": 0.362, "rationale": "sim=0.19 prior=0.32; title overlap: ['scripture', 'throughout']"}
+{"edge_id": 53986, "score": 0.272, "rationale": "sim=0.19 prior=0.32; shared figures: ['moses']"}
+{"edge_id": 53991, "score": 0.322, "rationale": "sim=0.19 prior=0.32; shared figures: ['abraham']; some thematic overlap (['covenant', 'firstborn'])"}
+{"edge_id": 53996, "score": 0.322, "rationale": "sim=0.19 prior=0.32; shared figures: ['christ']; title overlap: ['psalm']"}
+{"edge_id": 54001, "score": 0.32, "rationale": "sim=0.19 prior=0.32; shared figures: ['jesus']; some thematic overlap (['cross_tree', 'tree_garden'])"}
+{"edge_id": 54006, "score": 0.3, "rationale": "sim=0.19 prior=0.32; shared verses: ['isa53']"}
+{"edge_id": 54011, "score": 0.4, "rationale": "sim=0.19 prior=0.32; shared verses: ['rev4']; shared figures: ['eve', 'isaiah']"}
+{"edge_id": 54016, "score": 0.368, "rationale": "sim=0.19 prior=0.32; shared figures: ['eve']; some thematic overlap (['kingship', 'tree_garden']); title overlap: ['revelation']"}
+{"edge_id": 54021, "score": 0.368, "rationale": "sim=0.19 prior=0.32; some thematic overlap (['bread', 'tree_garden']); title overlap: ['scripture', 'throughout']"}
+{"edge_id": 54026, "score": 0.298, "rationale": "sim=0.19 prior=0.32; shared verses: ['isa53']"}
+{"edge_id": 54031, "score": 0.217, "rationale": "sim=0.19 prior=0.32; sim=0.19, no strong cross-signals"}
+{"edge_id": 54036, "score": 0.357, "rationale": "sim=0.19 prior=0.32; shared figures: ['christ', 'samuel']"}
+{"edge_id": 54041, "score": 0.415, "rationale": "sim=0.19 prior=0.32; shared figures: ['christ', 'eve']; thematic overlap (['bread', 'cleansing', 'tree_garden'])"}
+{"edge_id": 54046, "score": 0.405, "rationale": "sim=0.19 prior=0.32; shared figures: ['christ', 'eve', 'jesus']"}
+{"edge_id": 54051, "score": 0.365, "rationale": "sim=0.19 prior=0.32; strong thematic overlap (4 clusters: ['cross_tree', 'restoration', 'shadow_type', 'tree_garden'])"}
+{"edge_id": 54056, "score": 0.265, "rationale": "sim=0.19 prior=0.32; shared figures: ['christ']"}
+{"edge_id": 54061, "score": 0.365, "rationale": "sim=0.19 prior=0.32; shared figures: ['eve']; thematic overlap (['restoration', 'temple', 'tree_garden'])"}
+{"edge_id": 54066, "score": 0.213, "rationale": "sim=0.19 prior=0.32; sim=0.19, no strong cross-signals"}
+{"edge_id": 54071, "score": 0.313, "rationale": "sim=0.19 prior=0.32; shared figures: ['eve']; title overlap: ['revelation']"}
+{"edge_id": 54076, "score": 0.263, "rationale": "sim=0.19 prior=0.32; shared figures: ['christ']"}
+{"edge_id": 54081, "score": 0.313, "rationale": "sim=0.19 prior=0.32; shared figures: ['ezekiel']; title overlap: ['ezekiel']"}
+{"edge_id": 54086, "score": 0.392, "rationale": "sim=0.19 prior=0.32; shared verses: ['1co15']; shared figures: ['christ']; title overlap: ['resurrection']"}
+{"edge_id": 54091, "score": 0.262, "rationale": "sim=0.19 prior=0.32; title overlap: ['jude']"}
+{"edge_id": 54096, "score": 0.262, "rationale": "sim=0.19 prior=0.32; shared figures: ['eve']"}
+{"edge_id": 54101, "score": 0.262, "rationale": "sim=0.19 prior=0.32; some thematic overlap (['spirit', 'tree_garden'])"}
+{"edge_id": 54106, "score": 0.362, "rationale": "sim=0.19 prior=0.32; shared figures: ['david', 'eve']; title overlap: ['covenant']"}
+{"edge_id": 54111, "score": 0.312, "rationale": "sim=0.19 prior=0.32; shared figures: ['christ', 'noah']"}
+{"edge_id": 54116, "score": 0.31, "rationale": "sim=0.19 prior=0.32; shared figures: ['isaiah']; title overlap: ['isaiah']"}
+{"edge_id": 54121, "score": 0.21, "rationale": "sim=0.19 prior=0.32; sim=0.19, no strong cross-signals"}
+{"edge_id": 54126, "score": 0.53, "rationale": "sim=0.19 prior=0.32; shared verses: ['exo14']; shared figures: ['christ']; strong thematic overlap (5 clusters: ['bread', 'exodus', 'spirit', 'tree_garden'])"}
+{"edge_id": 54131, "score": 0.21, "rationale": "sim=0.19 prior=0.32; sim=0.19, no strong cross-signals"}
+{"edge_id": 54136, "score": 0.36, "rationale": "sim=0.19 prior=0.32; shared figures: ['christ', 'jeremiah']; title overlap: ['jeremiah']"}
+{"edge_id": 54141, "score": 0.518, "rationale": "sim=0.18 prior=0.32; shared verses: ['1pe3', 'gen6']; shared figures: ['christ', 'noah', 'peter']"}
+{"edge_id": 54146, "score": 0.358, "rationale": "sim=0.18 prior=0.31; shared figures: ['daniel', 'eve']; title overlap: ['daniel']"}
+{"edge_id": 54151, "score": 0.298, "rationale": "sim=0.18 prior=0.31; some thematic overlap (['light_dark', 'temple'])"}
+{"edge_id": 54156, "score": 0.337, "rationale": "sim=0.18 prior=0.31; shared verses: ['jer31']; shared figures: ['christ']"}
+{"edge_id": 54161, "score": 0.497, "rationale": "sim=0.18 prior=0.31; shared figures: ['christ']; strong thematic overlap (4 clusters: ['bread', 'exodus', 'priest', 'twelve']); title overlap: ['twelve']"}
+{"edge_id": 54166, "score": 0.307, "rationale": "sim=0.18 prior=0.31; shared figures: ['eve']; title overlap: ['revelation']"}
+{"edge_id": 54171, "score": 0.355, "rationale": "sim=0.18 prior=0.31; some thematic overlap (['bread', 'tree_garden']); title overlap: ['scripture', 'throughout']"}
+{"edge_id": 54176, "score": 0.305, "rationale": "sim=0.18 prior=0.31; thematic overlap (['exodus', 'priest', 'sacrifice'])"}
+{"edge_id": 54181, "score": 0.355, "rationale": "sim=0.18 prior=0.31; shared figures: ['christ']; thematic overlap (['descent_ascent', 'restoration', 'temple'])"}
+{"edge_id": 54186, "score": 0.205, "rationale": "sim=0.18 prior=0.31; sim=0.18, no strong cross-signals"}
+{"edge_id": 54191, "score": 0.255, "rationale": "sim=0.18 prior=0.31; shared figures: ['eve']"}
+{"edge_id": 54196, "score": 0.303, "rationale": "sim=0.18 prior=0.31; shared figures: ['christ']; some thematic overlap (['sacrifice', 'tree_garden'])"}
+{"edge_id": 54201, "score": 0.403, "rationale": "sim=0.18 prior=0.31; shared figures: ['david', 'peter']; some thematic overlap (['shepherd', 'tree_garden']); title overlap: ['peter']"}
+{"edge_id": 54206, "score": 0.333, "rationale": "sim=0.18 prior=0.31; shared verses: ['isa53']; shared figures: ['christ']"}
+{"edge_id": 54211, "score": 0.403, "rationale": "sim=0.18 prior=0.31; shared figures: ['isaac']; thematic overlap (['firstborn', 'flesh_bone', 'mother_child']); title overlap: ['isaac']"}
+{"edge_id": 54216, "score": 0.253, "rationale": "sim=0.18 prior=0.31; title overlap: ['zechariah']"}
+{"edge_id": 54221, "score": 0.573, "rationale": "sim=0.18 prior=0.31; shared verses: ['luk23']; shared figures: ['jesus']; thematic overlap (['cross_tree', 'tree_garden', 'word_voice']); title overlap: ['cross', 'words']"}
+{"edge_id": 54226, "score": 0.432, "rationale": "sim=0.18 prior=0.31; shared verses: ['isa53']; strong thematic overlap (4 clusters: ['firstborn', 'flesh_bone', 'sacrifice', 'tree_garden'])"}
+{"edge_id": 54231, "score": 0.382, "rationale": "sim=0.18 prior=0.31; shared verses: ['isa53']; shared figures: ['jesus']; some thematic overlap (['cross_tree', 'tree_garden'])"}
+{"edge_id": 54236, "score": 0.252, "rationale": "sim=0.18 prior=0.31; title overlap: ['spirit']"}
+{"edge_id": 54241, "score": 0.202, "rationale": "sim=0.18 prior=0.31; sim=0.18, no strong cross-signals"}
+{"edge_id": 54246, "score": 0.3, "rationale": "sim=0.18 prior=0.31; thematic overlap (['cross_tree', 'firstborn', 'light_dark'])"}
+{"edge_id": 54251, "score": 0.35, "rationale": "sim=0.18 prior=0.31; shared figures: ['jacob']; title overlap: ['scripture', 'throughout']"}
+{"edge_id": 54256, "score": 0.25, "rationale": "sim=0.18 prior=0.31; some thematic overlap (['bread', 'tree_garden'])"}
+{"edge_id": 54261, "score": 0.25, "rationale": "sim=0.18 prior=0.31; shared figures: ['christ']"}
+{"edge_id": 54266, "score": 0.383, "rationale": "sim=0.26 prior=0.31; title overlap: ['rock']"}
+{"edge_id": 54271, "score": 0.3, "rationale": "sim=0.18 prior=0.31; shared figures: ['christ']; some thematic overlap (['cross_tree', 'tree_garden'])"}
+{"edge_id": 54276, "score": 0.43, "rationale": "sim=0.18 prior=0.31; shared verses: ['exo12']; shared figures: ['jesus']; thematic overlap (['bread', 'sacrifice', 'tree_garden'])"}
+{"edge_id": 54281, "score": 0.2, "rationale": "sim=0.18 prior=0.31; sim=0.18, no strong cross-signals"}
+{"edge_id": 54286, "score": 0.34, "rationale": "sim=0.18 prior=0.31; shared figures: ['jesus']; some thematic overlap (['descent_ascent', 'tree_garden'])"}
+{"edge_id": 54291, "score": 0.39, "rationale": "sim=0.18 prior=0.31; shared figures: ['jesus']; thematic overlap (['exodus', 'firstborn', 'tree_garden'])"}
+{"edge_id": 54296, "score": 0.25, "rationale": "sim=0.18 prior=0.31; shared figures: ['jesus']"}
+{"edge_id": 54301, "score": 0.25, "rationale": "sim=0.18 prior=0.31; title overlap: ['psalm']"}
+{"edge_id": 54306, "score": 0.34, "rationale": "sim=0.18 prior=0.31; shared figures: ['eve', 'ezekiel']"}

@@ -361,6 +361,60 @@ header h1 {
     letter-spacing: 0.5px;
 }
 
+.pardes-section {
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px solid var(--border);
+}
+
+.pardes-title {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--text-tertiary);
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.pardes-toggles {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+}
+
+.pardes-toggle {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 8px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 11px;
+    transition: all 0.12s;
+}
+
+.pardes-toggle:hover { border-color: var(--border-bright); }
+
+.pardes-toggle input { margin: 0; cursor: pointer; }
+
+.pardes-toggle .pardes-name {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.pardes-toggle .pardes-hint {
+    font-size: 9px;
+    color: var(--text-tertiary);
+    margin-left: auto;
+}
+
+.pardes-toggle[data-layer="peshat"] .pardes-name { color: #93c5fd; }
+.pardes-toggle[data-layer="remez"]  .pardes-name { color: #c4b5fd; }
+.pardes-toggle[data-layer="derash"] .pardes-name { color: #fda4af; }
+.pardes-toggle[data-layer="sod"]    .pardes-name { color: #f9a8d4; }
+
 #detail-panel .neighbor .score-badge {
     color: #0b0e17;
     background: #94a3b8;

@@ -22,12 +22,61 @@ STATIC_DIR = Path(__file__).parent / "static"
 
 
 # ----- API endpoints -----
+# PaRDeS hermeneutic layering — each connection type lives at one of four
+# interpretive depths from classical Jewish exegesis:
+#   peshat  — plain / literal (citations, geographic refs, named-person links)
+#   remez   — hint / allegorical (symbol, motif, lexical echo)
+#   derash  — comparative / midrashic (rabbinic & church-tradition links)
+#   sod     — mystical / typological (foreshadows, fulfills, deep echoes)
+PARDES_BY_EDGE_TYPE = {
+    # peshat — what the text literally says
+    "references": "peshat",
+    "references_person": "peshat",
+    "references_place": "peshat",
+    "references_number": "peshat",
+    "references_title": "peshat",
+    "cites": "peshat",
+    # remez — hidden hints in vocabulary and imagery
+    "uses_symbol": "remez",
+    "has_motif": "remez",
+    "shares_lexeme": "remez",
+    "lexical_echo": "remez",
+    "discovered_echo": "remez",
+    "offset_echo": "remez",
+    # derash — comparative tradition (rabbinic + churchy cross-readings)
+    "sefaria_reference": "derash",
+    "sefaria_related": "derash",
+    "sefaria_commentary": "derash",
+    "sefaria_midrash": "derash",
+    "sefaria_quotation": "derash",
+    "sefaria_sifrei_mitzvot": "derash",
+    "sefaria_mesorat_hashas": "derash",
+    "parallels": "derash",
+    # sod — typological / mystical / canonical-fulfillment
+    "foreshadows": "sod",
+    "fulfills": "sod",
+    "personal_link": "sod",
+}
+
+
+def pardes_for(edge_type: str, score: float | None = None) -> str:
+    """High-score remez/derash echoes (≥0.85) get promoted to `sod` — at that
+    confidence they're effectively asserting typology, not merely hinting."""
+    base = PARDES_BY_EDGE_TYPE.get(edge_type, "remez")
+    if score is not None and score >= 0.85 and base in {"remez", "derash"}:
+        return "sod"
+    return base
+
+
 @app.get("/api/graph")
-def graph(include_lexeme: bool = False) -> dict:
+def graph(include_lexeme: bool = False, pardes: str | None = None) -> dict:
     """Return the full graph as Cytoscape.js elements.
 
     `shares_lexeme` edges (50k+) are excluded by default — the viz can't render
     them legibly. Pass `?include_lexeme=true` to include them.
+
+    `pardes` is a comma-separated subset of {peshat, remez, derash, sod}. When
+    set, only edges whose type maps into that subset are returned.
     """
     conn = connect()
     units = conn.execute(
@@ -57,13 +106,20 @@ def graph(include_lexeme: bool = False) -> dict:
                   "confidence": u["confidence"]}}
         for u in units
     ]
-    rels = [
-        {"data": {"id": f"{e['from_slug']}->{e['to_slug']}:{e['type']}",
-                  "source": e["from_slug"], "target": e["to_slug"],
-                  "type": e["type"], "confidence": e["confidence"],
-                  "score": e["score"]}}
-        for e in edges
-    ]
+    pardes_filter = None
+    if pardes:
+        pardes_filter = {p.strip() for p in pardes.split(",") if p.strip()}
+    rels = []
+    for e in edges:
+        layer = pardes_for(e["type"], e["score"])
+        if pardes_filter and layer not in pardes_filter:
+            continue
+        rels.append({"data": {
+            "id": f"{e['from_slug']}->{e['to_slug']}:{e['type']}",
+            "source": e["from_slug"], "target": e["to_slug"],
+            "type": e["type"], "confidence": e["confidence"],
+            "score": e["score"], "pardes": layer,
+        }})
     return {"elements": {"nodes": nodes, "edges": rels}}
 
 

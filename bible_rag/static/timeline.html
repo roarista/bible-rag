@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bible RAG — Timeline</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/timeline.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked@13.0.0/marked.min.js"></script>
+</head>
+<body>
+  <nav class="nav">
+    <span class="brand">Bible RAG</span>
+    <span class="sep">/</span>
+    <span style="color: var(--text-secondary); font-size: 13px;">Timeline</span>
+    <div class="links">
+      <a href="/">Graph</a>
+      <a href="/3d">3D</a>
+      <a href="/timeline" class="active">Timeline</a>
+      <a href="/thread">Thread</a>
+    </div>
+  </nav>
+
+  <div id="app">
+    <div id="timeline-wrap">
+      <svg id="timeline-svg"></svg>
+    </div>
+    <aside id="detail">
+      <div id="detail-inner">
+        <button class="detail-close" aria-label="Close">&times;</button>
+        <div id="detail-content"></div>
+      </div>
+    </aside>
+  </div>
+
+  <div id="tooltip"></div>
+
+  <div id="intro">
+    <h3>Scripture, chronologically</h3>
+    <p>Each dot is a person, seed typology, symbol, or motif placed at its approximate moment in biblical history. Hover to see what it is, click for the full reading.</p>
+    <p style="margin-top: 6px;">Curved lines show typologies — Old Testament patterns that resurface in the New.</p>
+    <button id="intro-dismiss">Got it</button>
+  </div>
+
+  <div id="loader">Loading scripture…</div>
+
+  <script src="/static/timeline.js"></script>
+</body>
+</html>
