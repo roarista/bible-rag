@@ -166,30 +166,34 @@
         closeSidebar();
       });
 
-    // Tweak forces — softer repulsion + tighter links + radial containment.
-    // Orphan / low-degree nodes were drifting far from the cluster; we pull
-    // every node toward the origin with a radial force whose strength scales
-    // inversely with degree (orphans get yanked in harder, hubs sit loose).
-    Graph.d3Force('charge').strength(-90).distanceMax(180);
-    Graph.d3Force('link').distance(40).strength(0.7);
-    Graph.d3Force('center').strength(0.06);
+    // Forces tuned for a large graph (~860 nodes) — more breathing room,
+    // softer radial containment that doesn't fight user drags.
+    // Scale link distance with sqrt(node count) so density stays readable.
+    const N = rawNodes.length;
+    const linkDist = Math.max(60, 22 * Math.sqrt(N / 100));   // ~64 for 850 nodes
+    const chargeStrength = -Math.max(120, 18 * Math.sqrt(N));  // ~-525 for 850
+    Graph.d3Force('charge').strength(chargeStrength).distanceMax(800);
+    Graph.d3Force('link').distance(linkDist).strength(0.5);
+    Graph.d3Force('center').strength(0.03);
 
-    // Custom radial force: each node is gently pulled to a target distance
-    // from origin proportional to its degree (hubs stay near center, leaves
-    // stay on a shell — but no node floats off to infinity).
+    // Gentle radial containment for orphans only. Strength is low enough
+    // that user drags don't fight visibly with it.
     if (window.d3 && d3.forceRadial) {
       const maxDegLocal = Math.max(1, ...Array.from(degreeById.values()));
       Graph.d3Force('radial', d3.forceRadial(
         n => {
           const d = degreeById.get(n.id) || 0;
-          // hubs target ~30, isolates target ~180 (within view), monotonic
-          return 30 + (1 - d / maxDegLocal) * 150;
+          // Orphans target a tight outer shell; connected nodes get a far,
+          // loosely-applied target (the link/charge forces dominate them).
+          return d === 0 ? 220 : 600;
         },
-        0, 0  // center at origin (x, y); z is handled by 3d-force-graph
+        0, 0
       ).strength(n => {
+        // While the user is dragging a node, 3d-force-graph sets fx/fy/fz.
+        // Skip radial pull on dragged nodes to eliminate shake.
+        if (n.fx != null || n.fy != null || n.fz != null) return 0;
         const d = degreeById.get(n.id) || 0;
-        // Orphans (d=0) get full strength; hubs almost none.
-        return d === 0 ? 0.25 : Math.max(0.04, 0.18 - d * 0.01);
+        return d === 0 ? 0.08 : 0;  // ONLY pull orphans, gently
       }));
     }
 
@@ -209,8 +213,9 @@
     // Auto-rotate around the scene center.
     setupAutoRotate();
 
-    // Initial camera pull-back.
-    setTimeout(() => Graph.cameraPosition({ z: 320 }, { x: 0, y: 0, z: 0 }, 1200), 100);
+    // Initial camera pull-back — scaled to fit larger graphs.
+    const camZ = Math.max(420, 60 * Math.sqrt(N));  // ~1750 for 850 nodes
+    setTimeout(() => Graph.cameraPosition({ z: camZ }, { x: 0, y: 0, z: 0 }, 1400), 100);
 
     // Resize handling.
     window.addEventListener('resize', () => {
@@ -422,7 +427,9 @@
 
   // ============== Controls ==============
   $btnReset.addEventListener('click', () => {
-    Graph.cameraPosition({ x: 0, y: 0, z: 320 }, { x: 0, y: 0, z: 0 }, 1200);
+    const N = rawNodes.length;
+    const camZ = Math.max(420, 60 * Math.sqrt(N));
+    Graph.cameraPosition({ x: 0, y: 0, z: camZ }, { x: 0, y: 0, z: 0 }, 1200);
     setAutoRotate(true);
   });
 

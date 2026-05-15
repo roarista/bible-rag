@@ -36,3 +36,8 @@ Thumbs.db
 node_modules/
 dist-web/
 data/tsk/
+data/sefaria/
+data/macula-hebrew/
+data/macula-greek/
+data/stepbible/
+data/theographic/
