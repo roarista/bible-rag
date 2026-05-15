@@ -25,6 +25,23 @@
     theophany: '#e0e7ff',
     office:    '#f97316',
     lexeme:    '#94a3b8',
+    // Taxonomy v2
+    'chiasm':           '#22d3ee', 'inclusio':         '#22d3ee',
+    'parallelism':      '#67e8f9', 'hapax-legomenon':  '#0891b2',
+    'gematria':         '#0e7490', 'acrostic':         '#06b6d4',
+    'wordplay':         '#155e75',
+    'lament':           '#fb7185', 'oath':             '#f43f5e',
+    'doxology':         '#fda4af', 'beatitude':        '#fecdd3',
+    'woe':              '#9f1239', 'blessing-form':    '#fecaca',
+    'curse-form':       '#7f1d1d', 'enigma':           '#be123c',
+    'dream':            '#fbbf24', 'vision':           '#fcd34d',
+    'genealogy':        '#92400e', 'naming-etiology':  '#b45309',
+    'call-narrative':   '#d97706',
+    'typological-fulfillment': '#7c3aed', 'antitype':   '#6d28d9',
+    'recapitulation':   '#8b5cf6', 'reversal':         '#a855f7',
+    'anti-parallel':    '#581c87', 'anti-motif':       '#3b0764',
+    'psalm-type':       '#5eead4', 'song':             '#14b8a6',
+    'prayer-formula':   '#0d9488', 'hymn':             '#0f766e',
   };
   const DEFAULT_COLOR = '#94a3b8';
 

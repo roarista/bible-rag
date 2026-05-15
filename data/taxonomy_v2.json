@@ -1,0 +1,495 @@
+{
+  "version": "2.0",
+  "date": "2026-05-15",
+  "existing_types": [
+    "seed", "symbol", "motif", "person", "place", "number", "title",
+    "structure", "covenant", "festival", "miracle", "parable", "prophecy",
+    "theophany", "office", "lexeme"
+  ],
+  "proposed_types": [
+    {
+      "slug": "chiasm",
+      "group": "literary",
+      "definition": "Symmetrical A-B-C-...-C'-B'-A' pattern with rhetorical weight at the center pivot.",
+      "examples": [
+        "Genesis 17 (covenant renewal centered on the name change)",
+        "Genesis 6:10-9:19 (Flood macro-chiasm, ark afloat at center)",
+        "Mark's gospel (Peter's confession at 8:29 as hinge)",
+        "Leviticus (Day of Atonement chapter 16 as book center)",
+        "Matthew 23 (seven woes in concentric structure)"
+      ],
+      "suggested_edges": [
+        {"kind": "centered_on", "from": "chiasm", "to": "verse|seed"},
+        {"kind": "mirrors", "from": "verse", "to": "verse"},
+        {"kind": "contains_chiasm", "from": "pericope", "to": "chiasm"}
+      ]
+    },
+    {
+      "slug": "inclusio",
+      "group": "literary",
+      "definition": "Envelope structure where the same phrase or image opens and closes a unit, delimiting it.",
+      "examples": [
+        "Ecclesiastes (vanity of vanities at 1:2 and 12:8)",
+        "Psalm 8 (How majestic is your name at v.1 and v.9)",
+        "Psalm 103 (Bless the LORD, O my soul)",
+        "Genesis 1-9 (be fruitful and multiply)",
+        "Johannine prologue (the Word at John 1:1 and 1:18)"
+      ],
+      "suggested_edges": [
+        {"kind": "brackets", "from": "inclusio", "to": "pericope"},
+        {"kind": "opens_with", "from": "inclusio", "to": "verse"},
+        {"kind": "closes_with", "from": "inclusio", "to": "verse"}
+      ]
+    },
+    {
+      "slug": "parallelism",
+      "group": "literary",
+      "definition": "Hebrew-poetic clause pairing (synonymous, antithetic, synthetic, climactic, emblematic); the engine of Psalms and Proverbs.",
+      "examples": [
+        "Psalm 19:1 (heavens declare / firmament shows) - synonymous",
+        "Proverbs 10:1 (wise son / foolish son) - antithetic",
+        "Psalm 1:1 (walks/stands/sits) - climactic",
+        "Isaiah 1:3 (ox/ass vs Israel) - antithetic",
+        "Job 3:3 (day perish / night declare) - synonymous"
+      ],
+      "suggested_edges": [
+        {"kind": "parallels", "from": "verse-line", "to": "verse-line"},
+        {"kind": "subtype", "values": ["synonymous", "antithetic", "synthetic", "climactic", "emblematic"]}
+      ]
+    },
+    {
+      "slug": "hapax-legomenon",
+      "group": "literary",
+      "definition": "A word appearing only once in a corpus (whole Bible or single book), carrying high exegetical weight per token.",
+      "examples": [
+        "tohu wa-bohu (Genesis 1:2, also Jer 4:23 / Isa 34:11)",
+        "gopher wood (Genesis 6:14)",
+        "Selah as semantic hapax outside Psalms/Habakkuk 3",
+        "machmaddim (Song 5:16)",
+        "Various Joban hapaxes (e.g., Job 39 fauna terms)"
+      ],
+      "suggested_edges": [
+        {"kind": "unique_in", "from": "hapax-legomenon", "to": "book|corpus"},
+        {"kind": "co_occurs_with", "from": "hapax-legomenon", "to": "hapax-legomenon"}
+      ]
+    },
+    {
+      "slug": "gematria",
+      "group": "literary",
+      "definition": "Numerical value derived from the letters of a word or name, often deployed typologically.",
+      "examples": [
+        "666 = Neron Caesar (Revelation 13:18)",
+        "318 = Eliezer / Abraham's trained men (Genesis 14:14)",
+        "14 = David, structuring Matthew's genealogy (Matt 1:17)",
+        "888 = Iesous in Greek",
+        "26 = YHWH in alphabetic patterns"
+      ],
+      "suggested_edges": [
+        {"kind": "computes_to", "from": "gematria", "to": "number"},
+        {"kind": "encodes", "from": "gematria", "to": "person|title"}
+      ]
+    },
+    {
+      "slug": "acrostic",
+      "group": "literary",
+      "definition": "A unit whose successive lines begin with the letters of the alphabet in order, often signaling completeness.",
+      "examples": [
+        "Psalm 119 (8 verses per Hebrew letter)",
+        "Psalms 9-10 (combined acrostic)",
+        "Psalms 25, 34, 37, 145",
+        "Lamentations 1-4",
+        "Proverbs 31:10-31 (woman of valor)"
+      ],
+      "suggested_edges": [
+        {"kind": "alphabet", "from": "acrostic", "to": "lexeme"},
+        {"kind": "completeness_marker", "from": "acrostic", "to": "seed"}
+      ]
+    },
+    {
+      "slug": "wordplay",
+      "group": "literary",
+      "definition": "Phonological play (pun, alliteration, assonance, paronomasia) that carries meaning across roots via sound, not lemma.",
+      "examples": [
+        "adam / adamah (Genesis 2:7)",
+        "isha / ish (Genesis 2:23)",
+        "qayin / qana (Genesis 4:1)",
+        "babel / balal (Genesis 11:9)",
+        "qayitz / qetz - summer fruit / end (Amos 8:1-2)"
+      ],
+      "suggested_edges": [
+        {"kind": "puns_on", "from": "wordplay", "to": "lexeme"},
+        {"kind": "realized_in", "from": "wordplay", "to": "verse"}
+      ]
+    },
+    {
+      "slug": "lament",
+      "group": "rhetorical",
+      "definition": "Structured cry of grief or protest to God; address, complaint, petition, trust, vow of praise.",
+      "examples": [
+        "Psalm 22 (foundational individual lament)",
+        "Psalm 88 (lament without resolution)",
+        "Lamentations 1-5",
+        "Habakkuk 1:2-4",
+        "Jesus in Gethsemane (Matt 26:38-39) and on the cross (Matt 27:46)"
+      ],
+      "suggested_edges": [
+        {"kind": "cries_to", "from": "lament", "to": "person"},
+        {"kind": "voices", "from": "lament", "to": "seed"}
+      ]
+    },
+    {
+      "slug": "oath",
+      "group": "rhetorical",
+      "definition": "Binding self-malediction or divine-witness invocation; the speech-act that seals or guarantees.",
+      "examples": [
+        "Genesis 22:16 (By myself I have sworn)",
+        "Genesis 24:2-3 (Abraham's servant)",
+        "Hebrews 6:13-18 (theology of God's oath)",
+        "Matthew 26:63-64 (Caiaphas adjuring Jesus)",
+        "As I live, says the LORD (Num 14:21; Ezek 33:11)"
+      ],
+      "suggested_edges": [
+        {"kind": "sworn_by", "from": "oath", "to": "person"},
+        {"kind": "seals", "from": "oath", "to": "covenant"}
+      ]
+    },
+    {
+      "slug": "doxology",
+      "group": "rhetorical",
+      "definition": "Short ascription of glory to God, typically closing a unit or book.",
+      "examples": [
+        "Romans 11:33-36",
+        "Romans 16:25-27",
+        "Ephesians 3:20-21",
+        "Jude 24-25",
+        "The four book-dividing doxologies of the Psalter (41:13; 72:18-19; 89:52; 106:48)"
+      ],
+      "suggested_edges": [
+        {"kind": "closes", "from": "doxology", "to": "pericope|book"},
+        {"kind": "ascribes", "from": "doxology", "to": "title"}
+      ]
+    },
+    {
+      "slug": "beatitude",
+      "group": "rhetorical",
+      "definition": "Formal 'Blessed is/are X' pronouncement (makarios / ashrei).",
+      "examples": [
+        "Matthew 5:3-12 (the eight or nine)",
+        "Luke 6:20-22",
+        "Psalm 1:1 (Ashrei the man)",
+        "Revelation 1:3 and six other Revelation beatitudes",
+        "James 1:12"
+      ],
+      "suggested_edges": [
+        {"kind": "pronounces_on", "from": "beatitude", "to": "person|group"},
+        {"kind": "reverses", "from": "beatitude", "to": "woe"}
+      ]
+    },
+    {
+      "slug": "woe",
+      "group": "rhetorical",
+      "definition": "Formal lamentational denunciation; rhetorical inverse of beatitude.",
+      "examples": [
+        "Isaiah 5:8-22 (six woes)",
+        "Habakkuk 2:6-20 (five woes)",
+        "Matthew 23:13-36 (seven woes on Pharisees)",
+        "Luke 6:24-26",
+        "Revelation 8:13 (three eagle-woes)"
+      ],
+      "suggested_edges": [
+        {"kind": "denounces", "from": "woe", "to": "person|group|sin"},
+        {"kind": "paired_with", "from": "woe", "to": "beatitude"}
+      ]
+    },
+    {
+      "slug": "blessing-form",
+      "group": "rhetorical",
+      "definition": "Performative invocation of weal, covenantally loaded.",
+      "examples": [
+        "Genesis 12:2-3 (Abrahamic)",
+        "Numbers 6:24-26 (Aaronic)",
+        "Deuteronomy 28:1-14",
+        "Ephesians 1:3-14",
+        "Patriarchal blessings (Genesis 27, 49)"
+      ],
+      "suggested_edges": [
+        {"kind": "invokes_on", "from": "blessing-form", "to": "person"},
+        {"kind": "inverts", "from": "blessing-form", "to": "curse-form"}
+      ]
+    },
+    {
+      "slug": "curse-form",
+      "group": "rhetorical",
+      "definition": "Performative invocation of harm, covenantally loaded.",
+      "examples": [
+        "Genesis 3:14-19",
+        "Deuteronomy 27:15-26 (twelve curses)",
+        "Joshua 6:26 (Jericho curse, fulfilled 1 Kgs 16:34)",
+        "Galatians 3:10-13",
+        "Imprecatory psalms (e.g., Psalm 109)"
+      ],
+      "suggested_edges": [
+        {"kind": "invokes_on", "from": "curse-form", "to": "person"},
+        {"kind": "inverts", "from": "curse-form", "to": "blessing-form"}
+      ]
+    },
+    {
+      "slug": "enigma",
+      "group": "rhetorical",
+      "definition": "Riddle or taunt; a speech-act designed to provoke insight (riddle) or shame (taunt).",
+      "examples": [
+        "Samson's riddle (Judges 14:14)",
+        "Isaiah 14:4-23 (taunt-song against king of Babylon)",
+        "Habakkuk 2:6 (taunt formula)",
+        "Proverbs 30:18-19 (three things, yea four)",
+        "Jesus' destroy this temple (John 2:19)"
+      ],
+      "suggested_edges": [
+        {"kind": "solved_by", "from": "enigma", "to": "person|seed"},
+        {"kind": "mocks", "from": "enigma", "to": "person|nation"}
+      ]
+    },
+    {
+      "slug": "dream",
+      "group": "narrative",
+      "definition": "Divine communication via sleep-vision, often requiring interpretation.",
+      "examples": [
+        "Jacob's ladder (Genesis 28:10-22)",
+        "Joseph's dreams (Genesis 37:5-11) and Pharaoh's (Genesis 41)",
+        "Daniel 2, 4, 7",
+        "Joseph husband of Mary (Matthew 1:20; 2:13, 19, 22)",
+        "The Magi (Matthew 2:12)"
+      ],
+      "suggested_edges": [
+        {"kind": "dreamt_by", "from": "dream", "to": "person"},
+        {"kind": "interpreted_by", "from": "dream", "to": "person"},
+        {"kind": "prefigures", "from": "dream", "to": "pericope"}
+      ]
+    },
+    {
+      "slug": "vision",
+      "group": "narrative",
+      "definition": "Waking apocalyptic or prophetic seeing (chazon, mar'ah, horama, apokalypsis).",
+      "examples": [
+        "Isaiah 6 (throne vision)",
+        "Ezekiel 1 (merkavah / chariot)",
+        "Daniel 7 (four beasts)",
+        "Acts 10:9-16 (Peter's sheet)",
+        "Revelation 4-5 (throne and Lamb)"
+      ],
+      "suggested_edges": [
+        {"kind": "seen_by", "from": "vision", "to": "person"},
+        {"kind": "depicts", "from": "vision", "to": "symbol|motif"}
+      ]
+    },
+    {
+      "slug": "genealogy",
+      "group": "narrative",
+      "definition": "A toledot or begats list with structural-theological function.",
+      "examples": [
+        "Genesis 5 (Seth-line, ten generations to Noah)",
+        "Genesis 11 (Shem-line, ten generations to Abraham)",
+        "Matthew 1:1-17 (three sets of fourteen)",
+        "Luke 3:23-38 (back to Adam, son of God)",
+        "1 Chronicles 1-9"
+      ],
+      "suggested_edges": [
+        {"kind": "descends_from", "from": "person", "to": "person"},
+        {"kind": "structures", "from": "genealogy", "to": "book"}
+      ]
+    },
+    {
+      "slug": "naming-etiology",
+      "group": "narrative",
+      "definition": "A narrative explaining the origin of a name, place, or custom.",
+      "examples": [
+        "Genesis 28:19 (Bethel, house of God)",
+        "Genesis 32:30 (Peniel, face of God)",
+        "Exodus 17:7 (Massah and Meribah)",
+        "Joshua 5:9 (Gilgal, rolling away)",
+        "1 Samuel 7:12 (Ebenezer, stone of help)"
+      ],
+      "suggested_edges": [
+        {"kind": "names", "from": "naming-etiology", "to": "place|person"},
+        {"kind": "explains", "from": "naming-etiology", "to": "festival|custom"}
+      ]
+    },
+    {
+      "slug": "call-narrative",
+      "group": "narrative",
+      "definition": "Formal call/commissioning of a prophet or apostle, typically following Habel's six-element pattern (confrontation, commission, objection, reassurance, sign, conclusion).",
+      "examples": [
+        "Moses (Exodus 3:1-4:17)",
+        "Gideon (Judges 6:11-24)",
+        "Isaiah (Isaiah 6)",
+        "Jeremiah (Jeremiah 1:4-19)",
+        "The disciples (Mark 1:16-20; John 1:35-51)"
+      ],
+      "suggested_edges": [
+        {"kind": "calls", "from": "call-narrative", "to": "person"},
+        {"kind": "commissioned_by", "from": "call-narrative", "to": "person"},
+        {"kind": "parallels_form", "from": "call-narrative", "to": "call-narrative"}
+      ]
+    },
+    {
+      "slug": "typological-fulfillment",
+      "group": "hermeneutic",
+      "definition": "Relation between OT type and NT antitype (Adam/Christ, Passover/Eucharist, Jonah/Resurrection).",
+      "examples": [
+        "Adam to Christ (Romans 5:12-21)",
+        "Passover lamb to Christ (1 Corinthians 5:7)",
+        "Jonah's three days to resurrection (Matthew 12:40)",
+        "Bronze serpent to cross (John 3:14)",
+        "Melchizedek to Christ (Hebrews 7)"
+      ],
+      "suggested_edges": [
+        {"kind": "type_of", "from": "pericope", "to": "typological-fulfillment"},
+        {"kind": "antitype_of", "from": "pericope", "to": "typological-fulfillment"}
+      ]
+    },
+    {
+      "slug": "antitype",
+      "group": "hermeneutic",
+      "definition": "The NT fulfilled pole of a typological pair, taken as a unit in itself.",
+      "examples": [
+        "Christ as second Adam",
+        "Church as new Israel",
+        "Heavenly Jerusalem (Revelation 21)",
+        "Christ's body as new temple (John 2:21)",
+        "Baptism as antitype of the Flood (1 Peter 3:20-21, antitypon)"
+      ],
+      "suggested_edges": [
+        {"kind": "fulfills", "from": "antitype", "to": "seed|pericope"},
+        {"kind": "recapitulates", "from": "antitype", "to": "person"}
+      ]
+    },
+    {
+      "slug": "recapitulation",
+      "group": "hermeneutic",
+      "definition": "A pattern where a later figure or event re-runs an earlier one, often correcting it.",
+      "examples": [
+        "Christ's 40 days in wilderness vs Israel's 40 years (Matthew 4)",
+        "Christ's temptation vs Adam's fall (Luke 4)",
+        "Joshua entering Canaan vs Jesus leading into the kingdom",
+        "New exodus (Isaiah 40-55) vs first exodus",
+        "Pentecost vs Sinai (Acts 2 vs Exodus 19)"
+      ],
+      "suggested_edges": [
+        {"kind": "recapitulates", "from": "pericope", "to": "pericope"},
+        {"kind": "corrects", "from": "recapitulation", "to": "pericope"}
+      ]
+    },
+    {
+      "slug": "reversal",
+      "group": "hermeneutic",
+      "definition": "Narrative or rhetorical inversion: high brought low, last become first, curse becomes blessing.",
+      "examples": [
+        "Hannah's song (1 Samuel 2) and Magnificat (Luke 1:46-55)",
+        "Joseph's brothers (Genesis 50:20 - you meant evil, God meant good)",
+        "Haman / Mordecai (Esther 6-7)",
+        "Cross as victory (Colossians 2:15)",
+        "Last shall be first (Mark 10:31)"
+      ],
+      "suggested_edges": [
+        {"kind": "reverses", "from": "reversal", "to": "motif|seed"},
+        {"kind": "mirrors_form_with", "from": "reversal", "to": "reversal"}
+      ]
+    },
+    {
+      "slug": "anti-parallel",
+      "group": "hermeneutic",
+      "definition": "Pair of texts where the form matches but the valence is inverted (Babel/Pentecost; Eve/Mary).",
+      "examples": [
+        "Babel (Genesis 11) vs Pentecost (Acts 2)",
+        "Eve / Mary (Eva / Ave)",
+        "Tree of knowledge (Genesis 3) vs tree of life / cross (Revelation 22:2)",
+        "Adam's sleep yielding Eve vs Christ's death yielding the Church",
+        "Saul's anointing (1 Samuel 10) vs David's (1 Samuel 16)"
+      ],
+      "suggested_edges": [
+        {"kind": "inverts", "from": "pericope", "to": "pericope"},
+        {"kind": "formally_echoes", "from": "anti-parallel", "to": "anti-parallel"}
+      ]
+    },
+    {
+      "slug": "anti-motif",
+      "group": "anti-liturgical",
+      "definition": "A negative counter-pattern existing as the inversion of a positive motif (false prophet, idol, anti-temple, anti-messiah).",
+      "examples": [
+        "False prophets (Deuteronomy 13; Jeremiah 23; Matthew 7:15; 2 Peter 2; Revelation 16:13)",
+        "Idolatry as anti-worship (golden calf; Baal; Jeroboam's calves)",
+        "Anti-temple (Antiochus' abomination, 1 Macc 1:54; Mark 13:14)",
+        "Anti-messiah / man of lawlessness (1 John 2:18; 2 Thessalonians 2:3-10)",
+        "Beast and false prophet (Revelation 13)"
+      ],
+      "suggested_edges": [
+        {"kind": "inverts_motif", "from": "anti-motif", "to": "motif"},
+        {"kind": "embodied_by", "from": "anti-motif", "to": "person"}
+      ]
+    },
+    {
+      "slug": "psalm-type",
+      "group": "liturgical",
+      "definition": "Form-critical genre tag for a psalm: lament (individual/communal), hymn, thanksgiving, royal, wisdom, enthronement, songs-of-ascent.",
+      "examples": [
+        "Royal: Psalms 2, 18, 20, 21, 45, 72, 89, 110, 132",
+        "Enthronement: Psalms 47, 93, 95-99",
+        "Songs of Ascent: Psalms 120-134",
+        "Communal lament: Psalms 44, 74, 79, 80, 137",
+        "Wisdom: Psalms 1, 37, 49, 73, 112, 119"
+      ],
+      "suggested_edges": [
+        {"kind": "genre_of", "from": "psalm-type", "to": "pericope"},
+        {"kind": "sibling_psalm", "from": "pericope", "to": "pericope"}
+      ]
+    },
+    {
+      "slug": "song",
+      "group": "liturgical",
+      "definition": "Canonical song embedded in narrative, distinct from a Psalter psalm or NT hymn.",
+      "examples": [
+        "Song of the Sea (Exodus 15)",
+        "Song of Moses (Deuteronomy 32)",
+        "Song of Deborah (Judges 5)",
+        "Song of Hannah (1 Samuel 2)",
+        "Magnificat, Benedictus, Nunc Dimittis (Luke 1-2)"
+      ],
+      "suggested_edges": [
+        {"kind": "sung_by", "from": "song", "to": "person"},
+        {"kind": "theologizes", "from": "song", "to": "pericope"}
+      ]
+    },
+    {
+      "slug": "prayer-formula",
+      "group": "liturgical",
+      "definition": "Canonical fixed prayer or stable liturgical formula.",
+      "examples": [
+        "Shema (Deuteronomy 6:4-9)",
+        "Aaronic blessing (Numbers 6:24-26)",
+        "Lord's Prayer (Matthew 6:9-13; Luke 11:2-4)",
+        "Maranatha (1 Corinthians 16:22)",
+        "Trishagion (Isaiah 6:3; Revelation 4:8)"
+      ],
+      "suggested_edges": [
+        {"kind": "recited_at", "from": "prayer-formula", "to": "festival|liturgy"},
+        {"kind": "quoted_by", "from": "pericope", "to": "prayer-formula"}
+      ]
+    },
+    {
+      "slug": "hymn",
+      "group": "liturgical",
+      "definition": "NT poetic-confessional fragment, typically rhythmic and christologically compressed.",
+      "examples": [
+        "Philippians 2:6-11 (kenosis hymn)",
+        "Colossians 1:15-20 (cosmic-Christ hymn)",
+        "1 Timothy 3:16 (six-line credal hymn)",
+        "John 1:1-18 (logos prologue)",
+        "1 Peter 3:18-22"
+      ],
+      "suggested_edges": [
+        {"kind": "confesses", "from": "hymn", "to": "title"},
+        {"kind": "embedded_in", "from": "hymn", "to": "pericope"}
+      ]
+    }
+  ]
+}

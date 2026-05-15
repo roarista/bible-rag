@@ -206,6 +206,18 @@ def three_d() -> FileResponse:
     return FileResponse(STATIC_DIR / "3d.html")
 
 
+@app.get("/timeline", response_class=HTMLResponse)
+def timeline() -> FileResponse:
+    """Chronological horizontal timeline view for non-expert readers."""
+    return FileResponse(STATIC_DIR / "timeline.html")
+
+
+@app.get("/thread", response_class=HTMLResponse)
+def thread() -> FileResponse:
+    """Wikipedia-like reading thread view for non-expert readers."""
+    return FileResponse(STATIC_DIR / "thread.html")
+
+
 # Mount static after the routes that take precedence
 if STATIC_DIR.exists():
     app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")

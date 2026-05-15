@@ -10,12 +10,35 @@
     <script src="https://cdn.jsdelivr.net/npm/sigma@3.0.0/dist/sigma.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked@13.0.0/marked.min.js"></script>
     <link rel="stylesheet" href="/static/style.css">
+    <style>
+      .view-nav { display: flex; gap: 4px; margin-top: 10px; flex-wrap: wrap; }
+      .view-nav a {
+        font-size: 11px;
+        color: var(--text-tertiary);
+        text-decoration: none;
+        padding: 4px 9px;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        transition: all 0.15s;
+        font-family: 'JetBrains Mono', monospace;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+      .view-nav a:hover { color: var(--text-primary); border-color: var(--accent); }
+      .view-nav a.active { color: var(--accent); border-color: var(--accent); background: rgba(167,139,250,0.08); }
+    </style>
 </head>
 <body>
     <aside id="sidebar">
         <header>
             <h1>Bible RAG</h1>
             <p class="subtitle">a graph of meaning across scripture</p>
+            <div class="view-nav">
+              <a href="/" class="active">Graph</a>
+              <a href="/3d">3D</a>
+              <a href="/timeline">Timeline</a>
+              <a href="/thread">Thread</a>
+            </div>
         </header>
 
         <div class="search-section">
